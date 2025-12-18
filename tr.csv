@@ -1,0 +1,1128 @@
+labs_os,Labs OS
+initializing,Başlatılıyor
+menu_tutorial,Eğitim
+menu_upgrades,Yükseltmeler
+menu_hacking,Sızma
+menu_coding,Kodlama
+menu_portal,Portal
+menu_guide,Rehber
+menu_shop,Mağaza
+menu_support,Destek
+menu_rest,Dinlen
+menu_stats,İstatistikler
+menu_attributes,Nitelikler
+menu_settings,Ayarlar
+menu_server,Sunucu
+menu_in_progress,Devam ediyor
+menu_achievements,Başarımlar
+menu_requests,İstekler
+menu_save,Kaydet
+menu_completed,Tamamlandı
+menu_basics,Temeller
+menu_nodes,Düğümler
+menu_resources,Kaynaklar
+menu_perks,Ayrıcalıklar
+menu_boosts,Güçlendirmeler
+menu_services,Hizmetler
+menu_clear,Temizle
+menu_watch_ad,Reklam İzle?
+menu_watch_ad_desc,Kısa bir reklam izle ve ödül kazan
+menu_new_schematic,Yeni Şema
+menu_wipe,Verileri Sil
+menu_wipe_desc,Başarımlar dahil tüm ilerlemenizi sıfırlamak ister misiniz?
+menu_sync_save,Kaydı Senkronize Et
+menu_sync_save_desc,Kayıt verilerinizi cihazlar arasında eşitleyin
+menu_sync_save_instructions,Kod almak için Dışa Aktar’a basın ya da içe aktarmak için kod girin
+menu_edit_group,Grubu Düzenle
+prompt_delete_node,Düğüm Silinsin mi?
+prompt_delete_node_desc,"Silinen düğümler, içerdikleri tüm kaynakları ve yükseltmeleri de silecek."
+prompt_delete_schematic,Şematik Silinsin mi?
+prompt_delete_schematic_desc,Bu işlem geri alınamaz.
+prompt_enter_portal,Portal’a Girilsin mi?
+prompt_enter_portal_desc,Şimdi portal’a girip sıradaki yükseltmeleri almak ister misiniz?
+prompt_portal_warning,Bu işlem masaüstünüzü ve yükseltmelerinizi sıfırlayacak.
+prompt_hack_reset,Hack Sıfırlama
+prompt_hack_reset_desc,Bu işlem tüm hack yükseltmelerinizi kaldırır ve kullanılan Hack Puanlarını iade eder.
+prompt_optimization_reset,Optimizasyon Sıfırlama
+prompt_optimization_reset_desc,Bu işlem yapılan tüm optimizasyonları kaldırır ve kullanılan Optimizasyon Puanlarını iade eder.
+prompt_application_reset,Uygulama Sıfırlama
+prompt_application_reset_desc,"Bu işlem açılmış tüm uygulamaları ve onlarla ilişkili tüm düğümleri kaldırır, ayrıca kullanılan Uygulama Puanlarını iade eder."
+prompt_portal_reset,Portal Sıfırlama
+prompt_portal_reset_desc,"Bu işlem zorunlu bir Portal girişini tetikler, aktif ve sıradaki tüm Portal yükseltmelerini kaldırır ve tüm İleri Araştırma (Advanced Research) puanlarını iade eder."
+prompt_update_2.0,2.0 Geldi!
+prompt_update_2.0_desc,"2.0; yeni içerikler, özellikler, denge değişiklikleri ve baştan düzenlenmiş bir ilerleme sistemi getiriyor.Bu, oyuna sıfırdan başlayıp ilk kez oynuyormuş gibi deneyimlemek için harika bir fırsat. İlerlemene devam etmek mi istiyorsun? Sorun değil! Mevcut kaydınla yeni içeriklerin hepsini oynayabilirsin.En baştan başlamak ister misin?"
+action_add,Ekle
+action_install,Yükle
+action_upgrade,Yükselt
+action_tier_up,Kademe Artır
+action_research,Araştır
+action_add_core,Çekirdek Ekle
+action_add_gpu,GPU Ekle
+action_collect,Topla
+action_sell,Sat
+action_open,Aç
+action_enter,Gir
+action_cancel,İptal
+action_close,Kapat
+action_claim,Talep Et
+action_purchase,Satın Al
+action_watch,İzle
+action_optimize,Optimize Et
+action_add_threat,Tehdit Artır
+action_reduce_threat,Tehdit Azalt
+action_save,Kaydet
+action_confirm,Onayla
+action_export,Dışa Aktar
+action_import,İçe Aktar
+quit,Çık
+import_from_clipboard,Panodan İçe Aktar
+setting_fps_limit,FPS Sınırı
+setting_ui_scale,Arayüz Ölçeği
+setting_language,Dil
+setting_colorblind_mode,Renk Körlüğü Modu
+setting_touch_buttons,Dokunmatik Düğmeler
+setting_notation,Gösterim
+setting_glow,Parıltı
+setting_mute_sfx,Ses Efektlerini Sustur
+setting_volume_sfx,Ses Efektleri Ses Düzeyi
+setting_mute_nodes,Düğümleri Sustur
+setting_volume_nodes,Düğümler Ses Düzeyi
+setting_mute_bgm,Müziği Sustur
+setting_volume_bgm,Müzik Ses Düzeyi
+setting_show_completed,Tamamlananları Göster
+setting_wipe_data,Verileri Sil
+setting_sync_data,Kaydı Senkronize Et
+default,Varsayılan
+latin,Latin
+scientific,Bilimsel
+engineering,Mühendislik
+loading,Yükleniyor
+active,Aktif
+queue,Kuyruk
+value,Değer
+size,Boyut
+quality,Kalite
+research,Araştırma
+cost,Maliyet
+reward,Ödül
+claimed,Talep Edildi
+owned,Sahip Olunan
+researched,Araştırıldı
+available,Mevcut
+locked,Kilitli
+support_level,Destek Seviyesi
+schematic_name,Şema Adı
+sending,Gönderiliyor
+connecting,Bağlanıyor
+exported,Dışa Aktarıldı
+code_invalid,Geçersiz kod
+code_expired,Kodun süresi doldu
+error,Hata
+no_schematics_saved,Henüz herhangi bir şeman yok
+nodes_required,# Düğümler
+threat,Tehdit
+level,Level
+lv.,Lv.
+storage_size,Depolama Boyutu
+storage_value,Depolama Değeri
+server_stats,Sunucu İstatistikleri
+tokens_mined,Kazanılan Jeton
+tokens_stolen,Çalınan Jeton
+free,Ücretsiz
+points,Puan
+hack_points,Sızma Puanı
+bug,Hata
+empty,Boş
+input_currency,Para birimi bağlayın
+input_file,Dosya bağlayın
+insert_coin,Jeton ekleyin
+input_torrent,Torrent bağlayın
+input_element,Öge bağlayın
+input_material,Malzeme bağlayın
+input_damage,Hasar bağlayın
+input_variable,Değişken bağlayın
+input_array,Array Bağlayın
+input_code,Kod Bağlayın
+invalid_request,Geçersiz İstek
+invalid_request_desc,İstenen dosyayı bağlayın
+invalid_project,Geçersiz Proje
+invalid_project_desc,Geçerli bir kod girin
+optimization_points,Optimizasyon Puanı
+application_points,Uygulama Puanı
+driver,Sürücü
+hardware_multiplier,Donanım Çarpanı
+max,Max
+mk.,Mk.
+version,Version
+ver.,Ver.
+progress,İlerleme
+ratio,Oran
+burn_rate,Yanma Hızı
+speed,Hız
+sell at,Şu fiyata sat
+rest_time,Dinlenme Süresi
+rest_time_desc,Zaman hızını 5x artırır. Çevrimdışıyken her 72 saniyede 1 saniye kazanır
+time,Zaman
+seconds,Saniye
+second_abbreviation,s
+consumption,Tüketim
+multiplier,Çarpan
+breach_speed,İhlal Hızı
+breached,İhlal Edildi
+firewall,Güvenlik Duvarı
+time_left,Kalan Süre
+vulnerable,Savunmasız
+critical,Kritik
+completed,Tamamlandı
+researched,Araştırıldı
+queued,Kuyruğa alındı
+ready,Hazır
+new_achievement,Yeni Başarım
+request_completed,İstek Tamamlandı
+new_windows_processor,Yeni CPU düğümleri mevcut
+new_windows_network,Yeni ağ düşümleri mevcut
+new_windows_gpu,Yeni GPU düğümleri mevcut
+new_windows_research,Yeni araştırma düşümleri mevcut
+new_windows_factory,Yeni fabrika düğümleri mevcut
+new_windows_hacking,Yeni sızma düğümleri mevcut
+new_windows_coding,Yeni kodlama düşüğümleri mevcut
+new_windows_utilities,Yeni yardımcı düğümler mevcut
+new_upgrades_available,Yeni yükseltmeler mevcut
+new_hack_level,Sızma seviye arttı
+new_code_level,Katkı seviyesi arttı
+new_application_point,Yeni uygulama puanı
+new_optimization_point,Yeni optimizasyon puanı
+breach_bank_failed,Banka ihlalı başarısız
+breach_bank_success,Banka ihlali tamamlandı
+tool_cursor,İmleç Aracı
+tool_move,Taşıma Aracı
+tool_selection,Seçim Aracı
+tool_connection_editor_on,Bağlantı Düzenleyici Açık
+tool_connection_editor_off,Bağlantı Düzenleyici Kapalı
+schematic_saved,Şema kaydedildi
+copied_to_clipboard,Panoya kopyalandı
+invalid_schematic,Geçersiz şema
+hold_to_skip,Atlamak için basılı tut
+support_us,Eşyalar satın alarak bizi destekle ve rozetler kazan!
+thank_you,Teşekkürler!
+tokens_claimed,Premium jetonlar talep edildi
+components,Bileşenler
+management,Yönetim
+upload,Yükle
+download,İndir
+processes,Süreçler
+composition,Birleştirme
+decomposition,Ayrıştırma
+mining,Madencilik
+file_generation,Dosya Oluşturma
+functions,Fonksiyonlar
+machines,Makineler
+import,İçe Aktar
+interface,Arayüz
+manipulation,İşleme
+targets,Hedefler
+attacks,Saldırılar
+skills,Yetenekler
+coding,Kodlama
+variables,Değişkenler
+currency,Miktar
+file,Dosya
+organizers,Düzenleyiciler
+element,Element
+material,Malzeme
+overclock,Overclock
+resource_download_speed,İndirme Hızı
+resource_download_speed_desc,Dosya indirme ağ hızı (bit/sn).
+resource_upload_speed,Yükleme Hızı
+resource_upload_speed_desc,Dosya yükleme ağ hızı (bit/sn).
+resource_clock_speed,Saat Hızı
+resource_clock_speed_desc,İşleme düğümleri için işlemci hızı (hertz).
+resource_gpu_speed,GPU Hızı
+resource_gpu_speed_desc,Paralel süreçler için GPU hızı (hertz).
+resource_research_power,Araştırma Hızı
+resource_research_power_desc,Saniye başına araştırılan dosya oranı.
+resource_hack_power,Sızma Gücü
+resource_hack_power_desc,Sızma Seviyesiyle ölçeklenen ihlal gücü.
+resource_code_speed,Kodlama Hızı
+resource_code_speed_desc,Katkı Seviyesiyle ölçeklenen değişken kodlama hızı.
+resource_work_speed,Çalışma Hızı
+resource_work_speed_desc,Makinenin saniye bazında çalışma hızını gösterir.
+resource_boost_component,Bileşen Güçlendirmesi
+resource_boost_component_desc,Donanım bileşenleri için güçlendirme.
+resource_boost_research,Araştırma Güçlendirmesi
+resource_boost_research_desc,Araştırma Hızına güçlendirme.
+resource_boost_hack,Sızma Güçlendirmesi
+resource_boost_hack_desc,Sızma Gücüne güçlendirme.
+resource_boost_code,Kod Güçlendirme.
+resource_boost_code_desc,Kod Hızına güçlendirme.
+resource_overclock,Hız Aşırtma
+resource_overclock_desc,Bileşenleri güçlendirmek için kullanılan ayar.
+resource_heat,Isı
+resource_heat_desc,Hız aşırtmadan üretilir.
+resource_money,Para
+resource_money_desc,Yükseltmelerin kilidini açmak için para birimi.
+resource_research,Araştırma
+resource_research_desc,Teknolojilerin kilidini açmak için para birimi.
+resource_token,Jeton
+resource_token_desc,"Benzersiz ayrıcalıklar, güçlendirmeler ve hizmetler için nadir para birimi."
+resource_infected_computer,Enfekte Bilgisayar
+resource_infected_computer_desc,Dosyalara Truva enjekte ederek elde edilir.
+resource_hack_experience,Sızma Tecrübesi
+resource_hack_experience_desc,Sızma Seviyesini artırır; Anonymous’u ihlal ederek elde edilir.
+resource_corporation_data,Kurum Verisi
+resource_corporation_data_desc,Şirketleri ihlal ederek elde edilir; ihlal yükseltmelerinde kullanılır.
+resource_government_data,Hükümet İstihbaratı
+resource_government_data_desc,Kamu kurumlarını ihlal ederek elde edilir; ihlal yükseltmelerinde kullanılır.
+resource_contribution,Katkı
+resource_contribution_desc,Katkı Seviyesini artırır; kod göndererek elde edilir.
+resource_ai,YZ Gücü
+resource_ai_desc,Üretimi artırır; nöronlardan elde edilir.
+resource_virus,Virüs
+resource_virus_desc,Enfekte bir dosyadan elde edilmiş virüs.
+resource_trojan,Truva
+resource_trojan_desc,Dosyaya enjekte edildiğinde bilgisayarlara sızar; üretim Sızma Seviyesiyle ölçeklenir.
+resource_storage,Depolama
+resource_storage_desc,{1.0e26} veri kapasitesine sahip depolama birimi. Gelir elde etmek için bir Sunucu içinde kullanılabilir.
+resource_torrent_text,Metin Torrent’i
+resource_torrent_text_desc,Daha yüksek kaliteli Metin dosyaları indirmek için kullanılabilen bir torrent.
+resource_torrent_image,Görüntü Torrent’i
+resource_torrent_image_desc,Daha yüksek kaliteli Görüntü dosyaları indirmek için kullanılabilen bir torrent.
+resource_torrent_sound,Ses Torrent’i
+resource_torrent_sound_desc,Daha yüksek kaliteli Ses dosyaları indirmek için kullanılabilen bir torrent.
+resource_torrent_video,Video Torrent’i
+resource_torrent_video_desc,Daha yüksek kaliteli Video dosyaları indirmek için kullanılabilen bir torrent.
+resource_torrent_program,Program Torrent’i
+resource_torrent_program_desc,Daha yüksek kaliteli Program dosyaları indirmek için kullanılabilen bir torrent.
+resource_torrent_game,Oyun Torrent’i
+resource_torrent_game_desc,Daha yüksek kaliteli Oyun dosyaları indirmek için kullanılabilen bir torrent.
+resource_neuron_text,Metin Nöronu
+resource_neuron_text_desc,Metin dosyaları üzerinde YZ eğitimiyle üretilir.
+resource_neuron_image,Görüntü Nöronu
+resource_neuron_image_desc,Görüntü dosyaları üzerinde YZ eğitimiyle üretilir.
+resource_neuron_sound,Ses Nöronu
+resource_neuron_sound_desc,Ses dosyaları üzerinde YZ eğitimiyle üretilir.
+resource_neuron_video,Video Nöronu
+resource_neuron_video_desc,Video dosyaları üzerinde YZ eğitimiyle üretilir.
+resource_neuron_program,Program Nöronu
+resource_neuron_program_desc,Program dosyaları üzerinde YZ eğitimiyle üretilir.
+resource_neuron_game,Oyun Nöronu
+resource_neuron_game_desc,Oyun dosyaları üzerinde YZ eğitimiyle üretilir.
+resource_payload_damage,Yük Hasarı
+resource_payload_damage_desc,İhlal hedeflerine hasar verir ve süreç içinde tüketilir; Hack Gücü kullanılarak üretilir.
+resource_infection_damage,Bulaşma Hasarı
+resource_infection_damage_desc,İhlal hedeflerine hasar verir ve süreç içinde tüketilmez; Hack Gücü kullanılarak üretilir.
+resource_vulnerability,Zafiyet
+resource_vulnerability_desc,İhlal hedeflerinin aldığı hasarı artırır; Sızma Gücüyle üretilir.
+resource_litecoin,Litecoin
+resource_litecoin_desc,Kazılmış kripto para (düşük volatilite); {1.2e6} Para karşılığında satılır.
+resource_bitcoin,Bitcoin
+resource_bitcoin_desc,Kazılmış kripto para (orta volatilite); {2.0e8} Para karşılığında satılır.
+resource_ethereum,Ethereum
+resource_ethereum_desc,Kazılmış kripto para (yüksek volatilite); {6.0e7} Para karşılığında satılır.
+resource_bool,bool
+resource_bool_desc,Kodlamayla üretilen ilkel değişken.
+resource_char,char
+resource_char_desc,Kodlamayla üretilen ilkel değişken.
+resource_int,int
+resource_int_desc,Kodlamayla üretilen ilkel değişken.
+resource_float,float
+resource_float_desc,Kodlamayla üretilen ilkel değişken.
+resource_bitflag,BitFlag
+resource_bitflag_desc,bool + int ile üretilen karmaşık değişken.
+resource_bigint,BigInt
+resource_bigint_desc,int + int ile üretilen karmaşık değişken.
+resource_decimal,Decimal
+resource_decimal_desc,int + float ile üretilen karmaşık değişken.
+resource_string,String
+resource_string_desc,char + char ile üretilen karmaşık değişken.
+resource_vector,Vector
+resource_vector_desc,float + float ile üretilen karmaşık değişken.
+resource_array_bool,Array[bool]
+resource_array_bool_desc,bool koleksiyonundan üretilen Array değişken.
+resource_array_char,Array[char]
+resource_array_char_desc,char koleksiyonundan üretilen Array değişken.
+resource_array_int,Array[int]
+resource_array_int_desc,int koleksiyonundan üretilen Array değişken.
+resource_array_float,Array[float]
+resource_array_float_desc,float koleksiyonundan üretilen Array değişken.
+resource_array_bitflag,Array[BitFlag]
+resource_array_bitflag_desc,BitFlag koleksiyonundan üretilen Array değişken.
+resource_array_bigint,Array[BigInt]
+resource_array_bigint_desc,BigInt koleksiyonundan üretilen Array değişken.
+resource_array_decimal,Array[Decimal]
+resource_array_decimal_desc,Decimal koleksiyonundan üretilen Array değişken.
+resource_array_string,Array[String]
+resource_array_string_desc,String koleksiyonundan üretilen Array değişken.
+resource_array_vector,Array[Vector]
+resource_array_vector_desc,Vector koleksiyonundan üretilen Array değişken.
+resource_hashmap_bool,HashMap[bool]
+resource_hashmap_bool_desc,Bir Array[String] ve bir Array[bool]’dan üretilen HashMap değişken.
+resource_hashmap_char,HashMap[char]
+resource_hashmap_char_desc,Bir Array[String] ve bir Array[char]’dan üretilen HashMap değişken.
+resource_hashmap_int,HashMap[int]
+resource_hashmap_int_desc,Bir Array[String] ve bir Array[int]’den üretilen HashMap değişken.
+resource_hashmap_float,HashMap[float]
+resource_hashmap_float_desc,Bir Array[String] ve bir Array[float]’tan üretilen HashMap değişken.
+resource_hashmap_bitflag,HashMap[BitFlag]
+resource_hashmap_bitflag_desc,Bir Array[String] ve bir Array[BitFlag]’ten üretilen HashMap değişken.
+resource_hashmap_bigint,HashMap[BigInt]
+resource_hashmap_bigint_desc,Bir Array[String] ve bir Array[BigInt]’ten üretilen HashMap değişken.
+resource_hashmap_decimal,HashMap[Decimal]
+resource_hashmap_decimal_desc,Bir Array[String] ve bir Array[Decimal]’dan üretilen HashMap değişken.
+resource_hashmap_string,HashMap[String]
+resource_hashmap_string_desc,Bir Array[String] ve bir Array[String]’den üretilen HashMap değişken.
+resource_hashmap_vector,HashMap[Vector]
+resource_hashmap_vector_desc,Bir Array[String] ve bir Array[Vector]’dan üretilen HashMap değişken.
+resource_code_bugfix,Hata Düzeltme Kodu
+resource_code_bugfix_desc,Hataları düzeltmek için kod; Katkı karşılığında gönderilebilir.
+resource_code_optimization,Optimizasyon Kodu
+resource_code_optimization_desc,Diğer kodları optimize eden kod; Katkı karşılığında gönderilebilir veya Optimizasyon Puanı için üretilebilir.
+resource_code_application,Uygulama Kodu
+resource_code_application_desc,Uygulamalar için kod; Katkı karşılığında gönderilebilir veya Uygulama Puanı için üretilebilir.
+resource_code_driver,Sürücü Kodu
+resource_code_driver_desc,Sürücüler için kod; itibar sağlar ve donanım yükseltmelerinde kullanılır.
+resource_text,Metin
+resource_text_desc,Yükleme ve araştırmada kullanılan metin dosyası.
+resource_image,Görüntü
+resource_image_desc,Yükleme ve araştırmada kullanılan görüntü dosyası.
+resource_sound,Ses
+resource_sound_desc,Yükleme ve araştırmada kullanılan ses dosyası.
+resource_video,Video
+resource_video_desc,Yükleme ve araştırmada kullanılan video dosyası.
+resource_program,Program
+resource_program_desc,Yükleme ve araştırmada kullanılan program dosyası.
+resource_game,Oyun
+resource_game_desc,Yükleme ve araştırmada kullanılan oyun dosyası.
+resource_oil,Ham Petrol
+resource_oil_desc,Litre olarak çıkarılmış ham petrol; rafine edildikten sonra donanım üretiminde kullanılabilir.
+resource_copper,Bakır
+resource_copper_desc,Donanım üretiminde kullanılan bir metal.
+resource_silicon,Silikon
+resource_silicon_desc,Arıtıldıktan sonra Wafer üretiminde kullanılan temel bir yarı metal.
+resource_sand,Kum
+resource_sand_desc,Wafer üretiminde kullanılan bir malzeme.
+resource_refined_oil,Rafine Petrol
+resource_refined_oil_desc,Rafine edilmiş petrol. Bir Polimerleştirici (Polymerizer) aracılığıyla Plastik üretiminde kullanılır.
+resource_copper_plate,Bakır Plaka
+resource_copper_plate_desc,Basımlama yöntemiyle Bakırdan üretilmiş bir plaka. Tel üretmek için bir Tel Değirmeninde (Wire Mill) kullanılabilir.
+resource_purified_silicon,Arıtılmış Silikon
+resource_purified_silicon_desc,Arıtılmış ve Wafer Sentezleyicisinde kullanılmaya hazır silikon.
+resource_plastic,Plastik
+resource_plastic_desc,PCB üretiminde kullanılan bir malzeme.
+resource_wire,Tel
+resource_wire_desc,Bir PCB oluşturmak için Plastik üzerine lehimlenebilen bir iletken.
+resource_wafer,Wafer
+resource_wafer_desc,Birden fazla Transistöre bölünebilen bir yarı iletken.
+resource_transistor,Transistör
+resource_transistor_desc,Çip üretiminde kullanılan bir yarı iletken.
+resource_pcb,PCB
+resource_pcb_desc,Plastikten üretilmiş ve Teller ile lehimlenmiş Baskılı Devre Kartı. Donanım üretiminde kullanılır.
+resource_router,Yönlendirici
+resource_router_desc,"Ağa kurulabilen modüler bir donanımdır ve ek İndirme ile Yükleme Hızı sağlar. Sağlanan bonus, kullanılan Yönlendirici sayısının karekökü ile ölçeklenir."
+resource_cpu_core,CPU Çekirdeği
+resource_cpu_core_desc,"Bir İşlemciye takılabilen modüler bir donanımdır ve ek Saat Hızı sağlar. Sağlanan bonus, kullanılan CPU Çekirdeği sayısının karekökü ile ölçeklenir."
+resource_gpu,GPU
+resource_gpu_desc,"Bir GPU Kümesine takılabilen modüler bir donanımdır ve ek GPU Hızı sağlar. Sağlanan bonus, kullanılan GPU sayısının karekökü ile ölçeklenir."
+window_processor,İşlemci
+window_processor_desc,Saat Hızı sağlat
+window_synchronizer,Senkronlayıcı
+window_synchronizer_desc,Birden fazla Saat Hızını tek bir hızda birleştirir
+window_thread_manager,İş Parçacığı Yöneticisi
+window_thread_manager_desc,Saat Hızını iki farklı çıkışa böler
+window_processing_seller,İşleme Satıcısı
+window_processing_seller_desc,Saat Hızını Para karşılığında satar
+window_virus_scanner,Virüs Tarayıcı
+window_virus_scanner_desc,Dosyaları virüs için tarar. Tarandı etiketi alan dosyalar 4x daha değerlidir. Enfekte dosyalar 4x daha az değerlidir.
+window_quarantine,Karantina
+window_quarantine_desc,Dosyalardan virüsü kaldırır. Enfekte dosyalar 4x daha az değerlidir.
+window_antivirus_pro,Antivürüs Pro
+window_antivirus_pro_desc,"Dosyaları tarar ve virüsü kaldırır, değeri 4x artırır"
+window_verifier,Sağlama Doğrulayıcı
+window_verifier_desc,Dosyaların bütünlüğünü doğrular. Doğrulanmış dosyalar 4 kat daha değerlidir. Bozuk dosyalar 10 kat daha değersizdir ancak boyutları 5 kat daha küçüktür.
+window_enhancer,İyileştirici
+window_enhancer_desc,Dosyaları 2x daha değerli yapar; karşılığında boyutu 2x arttırır
+window_compressor,Sıkıştırıcı
+window_compressor_desc,Dosyaları 2x daha küçük yapar
+window_encompressor,Encompressor
+window_encompressor_desc,Aynı anda iyileştirir ve sıkıştırır; değeri 2x artırır ve boyutu 2x azaltır
+window_decompiler,Ters Derleyici
+window_decompiler_desc,Programları Metne de-kompile eder
+window_decomposer,Parçalayıcı
+window_decomposer_desc,Videoları Görüntülere ayırır
+window_demuxer,Demuxer
+window_demuxer_desc,Videolardan Ses parçalarını ayırır (demux)
+window_scrapper,Hurdaya Ayırıcı
+window_scrapper_desc,Oyunları Videolara ayırır
+window_ripper,Ayıklayıcı
+window_ripper_desc,Oyunları Programlara ayıklar
+window_movie_maker,Film Yapıcı
+window_movie_maker_desc,Görüntü ve Ses dosyalarından Videolar üretir
+window_compiler,Derleyici
+window_compiler_desc,Metin dosyalarını Programlara derler
+window_game_engine,Oyun Motoru
+window_game_engine_desc,Program ve Video dosyalarından Oyunlar üretir
+window_refiner,Veri Arıtıcı
+window_refiner_desc,Dosyaları arıtarak araştırma değerini %100 artırır
+window_analyzer,Ön Analizci
+window_analyzer_desc,Araştırma hızını %100 artırmak için dosyaları önceden analiz eder
+window_distillator,Damıtıcı
+window_distillator_desc,Nöron kazanımını %100 artırmak için veriyi damıtır
+window_decryptor,Şifre Çözücü
+window_decryptor_desc,"Dosyaların şifresini çözer, Şifreli etkisini Çözülmüş etkisiyle değiştirir ve kaliteyi 4 kat artırır."
+window_virus_extractor,Virüs Çıkarıcı
+window_virus_extractor_desc,Enfekte dosyalardan Saat Hızı kullanarak Virüs çıkarır ve işlem sırasında dosyayı yok eder.
+window_trojan_injector,Truva Atı Enjektörü
+window_trojan_injector_desc,Dosyalara Saat Hızı kullanarak Truva Atları enjekte eder ve yükleme yapıldığında Enfekte Bilgisayar etkisi kazandırır.
+window_network,Ağ
+window_network_desc,İndirme ve Yükleme Hızı sağlar
+window_download_limiter,İndirme Sınırlayıcı
+window_download_limiter_desc,İndirme Hızını iki farklı çıktıya böler
+window_upload_limiter,Yükleme Sınırlayıcı
+window_upload_limiter_desc,Yükleme Hızını iki farklı çıktıya böler
+window_download_merger,İndirme Birleştirici
+window_download_merger_desc,Birden fazla İndirme Hızını tek bir hızda birleştirir
+window_upload_merger,Yükleme Birleştirici
+window_upload_merger_desc,Birden fazla Yükleme Hızını tek bir hızda birleştirir
+window_download_manager,İndirme Yöneticisi
+window_download_manager_desc,Tüm dosya türlerini kullanıcı kontrollü oranlarla indirir
+window_downloader,İndirici
+window_downloader_text,Metin İndirici
+window_downloader_text_desc,İndirme Hızını kullanarak Metin dosyaları indirir
+window_downloader_image,Görüntü İndirici
+window_downloader_image_desc,İndirme Hızını kullanarak Görüntü dosyaları indirir
+window_downloader_sound,Ses İndirici
+window_downloader_sound_desc,İndirme Hızını kullanarak Ses dosyaları indirir
+window_downloader_video,Video İndirici
+window_downloader_video_desc,İndirme Hızını kullanarak Video dosyaları indirir
+window_downloader_program,Program İndirici
+window_downloader_program_desc,İndirme Hızını kullanarak Program dosyaları indirir
+window_downloader_game,Oyun İndirici
+window_downloader_game_desc,İndirme Hızını kullanarak Oyun dosyaları indirir
+window_torrent_browser,Torrent Tarayıcı
+window_torrent_browser_scanned,Virüssüz Tarayıcı
+window_torrent_browser_scanned_desc,Taranmış dosyaları indirmek için kullanılabilecek torrentleri internette aramak için İndirme Hızını kullanır
+window_torrent_browser_verified,IntegriMAX Tarayıcı
+window_torrent_browser_verified_desc,Doğrulanmış dosyaları indirmek için kullanılabilecek torrentleri internette aramak için İndirme Hızını kullanır
+window_torrent_browser_analyzed,TorrentLabs Tarayıcı
+window_torrent_browser_analyzed_desc,Ön-analiz edilmiş dosyaları indirmek için kullanılabilecek torrentleri internette aramak için İndirme Hızını kullanır
+window_torrent_browser_encrypted,Şifreli Torrent Tarayıcı
+window_torrent_browser_encrypted_desc,Şifreli dosyaları indirmek için kullanılabilecek torrentleri internette aramak için İndirme Hızını kullanır
+window_torrent_downloader,Torrent İndirici
+window_torrent_downloader_desc,Eklenen torrent bağlantılarını kullanarak dosyaları indirir
+window_torrent_filter,Torrent Filtresi
+window_torrent_filter_desc,Torrent etkilerini İndirme Hızı kullanarak birleştirir
+window_redownloader,Yeniden İndirici
+window_redownloader_desc,"Eksik dosya parçalarını yeniden indirir, bozulma dahil olmak üzere çoğu etkisini kaldırır"
+window_store_file,Depolama Yazıcı
+window_store_file_desc,Dosyaları bir Sunucuda kullanılmak üzere depolamaya yazar
+window_server,Sunucu
+window_server_desc,Eklenen depolamaya göre gelir sağlar
+window_uploader,Yükleyici
+window_uploader_desc,Dosyaları Yükleme Hızıyla Para karşılığında yükler
+window_request_uploader,İstek Yükleyici
+window_request_uploader_desc,İstenen dosyaları Jeton karşılığında yükler
+window_gpu_cluster,GPU Kümesi
+window_gpu_cluster_desc,GPU Hızı sağlar
+window_gpu_synchronizer,GPU Senkronlayıcı
+window_gpu_synchronizer_desc,Birden fazla GPU Hızını tek bir GPU Hızında birleştirir
+window_gpu_manager,GPU Yöneticisi
+window_gpu_manager_desc,GPU Hızını iki farklı çıktıya böler
+window_mine,Madencilik
+window_mine_litecoin,Litecoin Kaz
+window_mine_litecoin_desc,GPU Hızını kullanarak düşük oynaklıklı Litecoin kaz
+window_mine_bitcoin,Bitcoin Kaz
+window_mine_bitcoin_desc,GPU Hızını kullanarak orta oynaklıklı Bitcoin kaz
+window_mine_ethereum,Ethereum Kaz
+window_mine_ethereum_desc,GPU Hızını kullanarak yüksek oynaklıklı Ethereum kaz
+window_mine_tether,Tether Kaz
+window_mine_tether_desc,GPU Hızını kullanarak oynaksız Tether kaz. Otomatik olarak Paraya çevrilir
+window_mine_token,Jeton Kaz
+window_mine_token_desc,GPU Hızını kullanarak Jeton kaz
+window_crypto_seller,Kripto Satıcısı
+window_crypto_seller_desc,Coin’leri Para karşılığında satar
+window_auto_crypto_seller,Otomatik Kripto Satıcısı
+window_auto_crypto_seller_desc,Kullanıcı tanımlı eşiğe göre coin’leri otomatik satar
+window_task_scheduler,Zamanlayıcı
+window_task_scheduler_desc,GPU Hızını Saat Hızına dönüştürür
+window_movie_renderer,Video İşleyici
+window_movie_renderer_desc,Görüntü ve Ses dosyalarından Videolar üretir
+window_trainer,YZ Eğitmeni
+window_trainer_desc,Dosyaların etkilerini devralan Nöronlar oluşturmak için GPU Hızını ve dosyaları kullanır
+window_file_generator,Dosya Üretici
+window_generator_text,Metin Üretici
+window_generator_text_desc,Text Nöronları kullanarak özel Metin dosyaları üretir
+window_generator_image,Görüntü Üretici
+window_generator_image_desc,Image Nöronları kullanarak özel Görüntü dosyaları üretir
+window_generator_sound,Ses Üretici
+window_generator_sound_desc,Sound Nöronları kullanarak özel Ses dosyaları üretir
+window_generator_video,Video Üretici
+window_generator_video_desc,Video Nöronları kullanarak özel Video dosyaları üretir
+window_generator_program,Program Üretici
+window_generator_program_desc,Program Nöronları kullanarak özel Program dosyaları üretir
+window_generator_game,Oyun Üretici
+window_generator_game_desc,Game Nöronları kullanarak özel Oyun dosyaları üretir
+window_data_lab,Veri Laboratuvarı
+window_data_lab_desc,Dosyaları kullanarak Araştırma üretir
+window_agi,AGI Çekirdeği
+window_agi_desc,Takılan nöron sayısına göre YZ Gücü sağlar
+window_research,Araştırma
+window_research_desc,YZ Gücünü kullanarak Araştırma Güçlendirmesi sağlar
+window_hack,Sızma
+window_hack_desc,YZ Gücünü kullanarak Sızma Güçlendirmesi sağlar
+window_code,Kod
+window_code_desc,YZ Gücünü kullanarak Kod Güçlendirmesi sağlar
+window_research_advanced,İleri Araştırma
+window_research_advanced_desc,Portal yükseltmelerini kuyruğa almak için kullanılabilen Araştırmayı İleri Araştırmaya dönüştürür
+window_router_assembler,Yönlendirici Birleştirici
+window_router_assembler_desc,2 PCB'den Yönlendirici birleştirir
+window_cpu_core_assembler,CPU Çekirdeği Birleştirici
+window_cpu_core_assembler_desc,8 Transistörden CPU Çekirdeği birleştirir
+window_gpu_assembler,GPU Birleştirici
+window_gpu_assembler_desc,1 PCB ve 4 Transistörden GPU birleştirir
+window_pcb_solder,PCB Lehimleyici
+window_pcb_solder_desc,1 Plastik ve 4 Telden PCB üretir
+window_wafer_cutter,Wafer Kesici
+window_wafer_cutter_desc,Wafer'ı 8 Transistöre keser
+window_wire_mill,Tel Değirmeni
+window_wire_mill_desc,1 Bakır Plakadan 2 Tel üretir
+window_polymerizer,Polimerleştirici
+window_polymerizer_desc,1L Rafine Petrolden Plastik üretir
+window_wafer_synthesizer,Wafer Sentezleyici
+window_wafer_synthesizer_desc,4 Arıtılmış Silikon ve 2 Kumdan Wafer üretir
+window_oil_refiner,Petrol Rafineri
+window_oil_refiner_desc,2L Ham Petrolü Rafine Petrole arıtır
+window_metal_press,Metal Presi
+window_metal_press_desc,Bakırı 2 Bakır Plakaya basar
+window_silicon_purifier,Silikon Arıtıcı
+window_silicon_purifier_desc,3 Silikonu Arıtılmış Silikona arıtır
+window_miner,Madenci
+window_miner_desc,Bakır ve Silikon çıkarır
+window_oil_pump,Petrol Pompası
+window_oil_pump_desc,Ham Petrol pompalar
+window_excavator,Ekskavatör
+window_excavator_desc,Kum kazar
+window_importer_router,Yönlendirici İthalatçısı
+window_importer_router_desc,{8.0e35} Para maliyetiyle Yönlendirici ithal eder
+window_importer_cpu_core,CPU Çekirdeği İthalatçısı
+window_importer_cpu_core_desc,{8.0e35} Para maliyetiyle CPU Çekirdeği ithal eder
+window_importer_gpu,GPU İthalatçısı
+window_importer_gpu_desc,{8.0e35} Para maliyetiyle GPU ithal eder
+window_importer_pcb,PCB İthalatçısı
+window_importer_pcb_desc,{2.0e35} Para maliyetiyle PCB ithal eder
+window_importer_transistor,Transistör İthalatçısı
+window_importer_transistor_desc,{1.0e35} Para maliyetiyle Transistör ithal eder
+window_importer_wire,Tel İthalatçısı
+window_importer_wire_desc,{1.0e34} Para maliyetiyle Tel ithal eder
+window_importer_plastic,Plastik İthalatçısı
+window_importer_plastic_desc,{6.0e34} Para maliyetiyle Plastik ithal eder
+window_importer_wafer,Wafer İthalatçısı
+window_importer_wafer_desc,{4.0e35} Para maliyetiyle Wafer ithal eder
+window_importer_refined_oil,Rafine Petrol İthalatçısı
+window_importer_refined_oil_desc,{3.0e34} Para maliyetiyle Rafine Petrol ithal eder
+window_importer_copper_plate,Bakır Plaka İthalatçısı
+window_importer_copper_plate_desc,{1.0e34} Para maliyetiyle Bakır Plaka ithal eder
+window_importer_purified_silicon,Arıtılmış Silikon İthalatçısı
+window_importer_purified_silicon_desc,{4.5e34} Para maliyetiyle Arıtılmış Silikon ithal eder
+window_importer_sand,Kum İthalatçısı
+window_importer_sand_desc,{1.0e34} Para maliyetiyle Kum ithal eder
+window_importer_oil,Ham Petrol İthalatçısı
+window_importer_oil_desc,{7.5e33} Para maliyetiyle Ham Petrol ithal eder
+window_importer_copper,Bakır İthalatçısı
+window_importer_copper_desc,{1.0e34} Para maliyetiyle Bakır ithal eder
+window_importer_silicon,Silikon İthalatçısı
+window_importer_silicon_desc,{7.5e33} Para maliyetiyle Silikon ithal eder
+window_hacker,Sızma Arayüzü
+window_hacker_desc,Sızma Tecrübesine göre Sızma Gücü sağlar
+window_payload_launcher,Yük Fırlat
+window_payload_launcher_desc,Sızma Gücünü kullanarak İhlal hedefleri için Yük Hasarı üretir
+window_build_infection,Bulaşma İnşa Et
+window_build_infection_desc,Sızma Gücünü kullanarak İhlal hedefleri için Bulaşma Hasarı üretir
+window_split_attack,Bölünmüş Saldırı
+window_split_attack_desc,Eklenen hasarı dört kez çıktılar
+window_execute_injection,Enjeksiyonu Uygula
+window_execute_injection_desc,Hack Gücü kullanarak Zafiyet üretir; hedefleri zayıflatmakta kullanılır
+window_infect_payload,Yükü Enfekte Et
+window_infect_payload_desc,Yük Hasarının %20’sini Enfeksiyon Hasarı olarak kazanır
+window_critical_payload,Kritik Yük
+window_critical_payload_desc,Eklenen Yük Hasarını %150 artırma ihtimali %10’dur
+window_ghost_attack,Hayalet Saldırı
+window_ghost_attack_desc,"Her türlü hasara Gizlilik etkisini ekler, hedefin güvenlik duvarını atlamasını sağlar"
+window_spread_infection,Enfeksiyonu Yay
+window_spread_infection_desc,"Enfeksiyon Hasarına Yayılma etkisini ekler, konakta her saniye %10 büyümesini sağlar"
+window_charged_attack,Yüklü Saldırı
+window_charged_attack_desc,Her saldırıyı yükler. 3 yüke ulaştığında sonraki saldırıyı %100 güçlendirir
+window_breach_anonymous,Anonymous’u İhlal Et
+window_breach_anonymous_desc,Anonymous’a karşı bir ihlal başlatır; başarı olursa Hack Tecrübesi kazanırsın
+window_breach_corps,Şirketleri İhlal Et
+window_breach_corps_desc,Şirketlere karşı ihlal başlatır; başarı olursa Kurum Verisi çalarsın
+window_breach_government,Hükümeti İhlal Et
+window_breach_government_desc,Kamu kurumlarına karşı ihlal başlatır; başarı olursa Hükümet İstihbaratı alırsın
+window_breach_bank,Bankaları İhlal Et
+window_breach_bank_desc,Banka ihlali başlatır; başarı olursa Jeton kazanırsın
+window_virus_manipulator,Virüs Manipüle Et
+window_virus_manipulator_desc,Virüsü Truva Atlarına dönüştürür
+window_drain,Drenaj
+window_drain_desc,Enfekte Bilgisayarlara göre bileşenlere güçlendirme üretir
+window_coder,Kod Arayüzü
+window_coder_desc,Kod Hızı sağlar
+window_for,For
+window_for_desc,Birden fazla Kod Hızını tek bir hıza birleştirir
+window_if,If
+window_if_desc,Kod Hızını iki farklı çıktıya böler
+window_ide,IDE
+window_ide_desc,Kullanıcı kontrollü oranlarla tüm ilkel değişken türlerini üretir
+window_code_variable,Kod Değişkeni
+window_code_bool,Kod bool
+window_code_bool_desc,Saat Hızını kullanarak bool değişkenleri üretir
+window_code_char,Kod char
+window_code_char_desc,Saat Hızını kullanarak char değişkenleri üretir
+window_code_int,Kod int
+window_code_int_desc,Saat Hızını kullanarak int değişkenleri üretir
+window_code_float,Kod float
+window_code_float_desc,Saat Hızını kullanarak float değişkenleri üretir
+window_variable_combiner,Variable Combiner
+window_variable_combiner_desc,Girilen ilkel değişkenlere göre gelişmiş değişkenler üretir
+window_code_array,New Array
+window_code_array_desc,Değişkenlerden Array üretir
+window_code_hashmap,New HashMap
+window_code_hashmap_desc,Bir Array[String] ve başka bir array kullanarak HashMap üretir
+window_pull_optimization,Optimizasyon Kodu Çek
+window_pull_optimization_desc,Kod Hızı kullanarak hatalı etkisine sahip optimizasyon kodlarını çeker
+window_pull_application,Uygulama Kodu Çek
+window_pull_application_desc,Kod Hızı kullanarak hatalı etkisine sahip uygulama kodlarını çeker
+window_pull_driver,Sürücü Kodu Çek
+window_pull_driver_desc,Kod Hızı kullanarak hatalı etkisine sahip sürücü kodlarını çeker
+window_commit,Gönder
+window_commit_desc,Kodu Katkı karşılığında gönderir
+window_build,Derle
+window_build_desc,"Optimizasyon, uygulama ve sürücüleri derler"
+window_code_bugfix,Hata Düzeltme Kodu
+window_code_bugfix_desc,İlkel değişken türlerini kullanarak hata düzeltme kodu üretir
+window_code_optimization,Kod Optimizasyonu
+window_code_optimization_desc,Gelişmiş değişkenleri kullanarak optimizasyon kodu üretir
+window_code_application,Kod Uygulaması
+window_code_application_desc,Arrays kullanarak uygulama kodu üretir
+window_code_driver,Sürücü Kodu
+window_code_driver_desc,HashMaps kullanarak sürücü kodu üretir
+window_debug,Hata Ayıkla
+window_debug_desc,"Olası hatalar için kodu hata ayıklar, test edilmiş etkisini ekler ve kalitesini 4 kat artırır"
+window_fix_code,Kodu Düzelt
+window_fix_code_desc,Hata düzeltmeleri kullanarak hatalı kodları düzeltir ve kalitesini 4 kat artırır
+window_optimize_code,Kodu Optimize Et
+window_optimize_code_desc,Optimizasyonlar kullanarak kodları optimize eder ve kalitesini 4 kat artırır
+window_collect,Toplayıcı
+window_collect_desc,Kaynakları masaüstü dışında kullanılmak üzere toplar
+window_auto_collect,Otomatik Toplayıcı
+window_auto_collect_desc,Kaynakları masaüstü dışında kullanılmak üzere otomatik olarak toplar
+window_inventory,Envanter
+window_inventory_desc,Aynı türdeki kaynakları depolar ve tek bir çıktıda birleştirir
+window_splitter,Bölücü
+window_splitter_desc,Kaynakları iki farklı çıktıya böler
+window_folder,Klasör
+window_folder_desc,Aynı türdeki dosyaları depolar ve tek bir çıktıda birleştirir
+window_allocator,Dağıtıcı
+window_allocator_desc,Dosyaları iki farklı çıktıya dağıtır
+window_repository,Depo
+window_repository_desc,Aynı türdeki elementleri depolar ve tek bir çıktıda birleştirir
+window_segmenter,Bölümlendirici
+window_segmenter_desc,Elementleri iki farklı çıktıya böler
+window_container,Konteyner
+window_container_desc,Aynı türdeki malzemeleri depolar ve tek bir çıktıda birleştirir
+window_distributor,Dağıtıcı
+window_distributor_desc,Malzemeleri iki farklı çıktıya dağıtır
+window_group,Düğüm Grubu
+window_group_desc,Düğümleri daha kolay yönetim ve geliştirilmiş düzen için bir araya gruplar
+window_bin,Çöp
+window_network_exchanger,Ağ Değiştirici
+window_network_exchanger_desc,Yükleme Hızını İndirme Hızına ve İndirme Hızını Yükleme Hızına dönüştürür
+window_overclocker,Overclocker
+window_overclocker_desc,Overclock miktarını ayarlar
+window_heat_sink,Isı Soğutucu
+window_heat_sink_desc,Overclocking ile üretilen ısıyı dağıtır
+window_air_cooler,Hava Soğutucu
+window_water_cooler,Su Soğutucu
+window_jet_cooler,Jet Soğutucu
+window_cryo_cooler,Kriyojenik Soğutucu
+window_thermal_field_generator,Termal Alan Üreticisi
+upgrade_premium_texts,Premium Metinler
+upgrade_premium_texts_desc,Metin dosyalarının değerini %100 artırır
+upgrade_processor,Merkezi İşlem Birimi
+upgrade_processor_desc,İşlemciyi açar
+upgrade_request_uploader,Yükleyici Kartı
+upgrade_request_uploader_desc,"İstek Yükleyicisini açar, isteklerin Token karşılığında yüklenmesine izin verir"
+upgrade_image_downloader,Görüntü İndirici
+upgrade_image_downloader_desc,Görüntü İndiriciyi açar
+upgrade_antivirus,Antivirüs
+upgrade_antivirus_desc,Dosyaları virüs için tarayan ve değerlerini artıran Virüs Tarayıcısını açar
+upgrade_antivirus_plus,Antivirüs+
+upgrade_antivirus_plus_desc,Dosyalardan virüsleri kaldırarak değerlerini artıran Karantinayı açar
+upgrade_premium_images,Premium Görseller
+upgrade_premium_images_desc,Görüntü dosyalarının değerini %100 artırır
+upgrade_sound_downloader,Ses İndirici
+upgrade_sound_downloader_desc,Ses İndiriciyi açar
+upgrade_gpu,Grafik İşlem Birimi
+upgrade_gpu_desc,GPU’yu açar
+upgrade_premium_sounds,Premium Sesler
+upgrade_premium_sounds_desc,Ses dosyalarının değerini %100 artırır
+upgrade_video_downloader,Video İndirici
+upgrade_video_downloader_desc,Video İndiriciyi açar
+upgrade_premium_videos,Premium Videolar
+upgrade_premium_videos_desc,Video dosyalarının değerini %100 artırır
+upgrade_research,Araştırma
+upgrade_research_desc,Araştırmayı ve Veri Laboratuvarını açar
+upgrade_data_lab,Veri Laboratuvarı
+upgrade_data_lab_desc,Veri Laboratuvarı limitini 1 artırır
+upgrade_program_downloader,Program İndirici
+upgrade_program_downloader_desc,Program İndiriciyi açar
+upgrade_premium_programs,Premium Programlar
+upgrade_premium_programs_desc,Program dosyalarının değerini %100 artırır
+upgrade_game_downloader,Oyun İndirici
+upgrade_game_downloader_desc,Oyun İndiriciyi açar
+upgrade_premium_games,Premium Oyunlar
+upgrade_premium_games_desc,Oyun dosyalarının değerini %100 artırır
+upgrade_improved_ai_texts,Geliştirilmiş Metin Üretimi
+upgrade_improved_ai_texts_desc,Üretilen Metnin değerini %100 artırır
+upgrade_improved_ai_images,Geliştirilmiş Görsel Üretimi
+upgrade_improved_ai_images_desc,Üretilen Görselin değerini %100 artırır
+upgrade_improved_ai_sounds,Geliştirilmiş Ses Üretimi
+upgrade_improved_ai_sounds_desc,Üretilen Sesin değerini %100 artırır
+upgrade_improved_ai_videos,Geliştirilmiş Video Üretimi
+upgrade_improved_ai_videos_desc,Üretilen Videonun değerini %100 artırır
+upgrade_improved_ai_programs,Geliştirilmiş Program Üretimi
+upgrade_improved_ai_programs_desc,Üretilen Programın değerini %100 artırır
+upgrade_improved_ai_games,Geliştirilmiş Oyun Üretimi
+upgrade_improved_ai_games_desc,Üretilen Oyunun değerini %100 artırır
+upgrade_heat_sink,Isı Soğutucu
+upgrade_heat_sink_desc,Isı Soğutucu limitini 1 artırır
+upgrade_router_assembler,Yönlendirici Birleştirici
+upgrade_router_assembler_desc,Yönlendirici Birleştirici limitini 1 artırır
+upgrade_cpu_core_assembler,CPU Çekirdeği Birleştirici
+upgrade_cpu_core_assembler_desc,CPU Çekirdeği Birleştirici limitini 1 artırır
+upgrade_gpu_assembler,GPU Birleştirici
+upgrade_gpu_assembler_desc,GPU Birleştirici limitini 1 artırır
+upgrade_pcb_solder,PCB Lehimleyici
+upgrade_pcb_solder_desc,PCB Lehimleyici limitini 1 artırır
+upgrade_wafer_cutter,Wafer Kesici
+upgrade_wafer_cutter_desc,Wafer Kesici limitini 1 artırır
+upgrade_wire_mill,Tel Değirmeni
+upgrade_wire_mill_desc,Tel Değirmeni limitini 1 artırır
+upgrade_polymerizer,Polimerleştirici
+upgrade_polymerizer_desc,Polimerleştirici limitini 1 artırır
+upgrade_wafer_synthesizer,Wafer Sentezleyici
+upgrade_wafer_synthesizer_desc,Wafer Sentezleyici limitini 1 artırır
+upgrade_oil_refiner,Petrol Rafineri
+upgrade_oil_refiner_desc,Petrol Rafineri limitini 1 artırır
+upgrade_metal_press,Metal Presi
+upgrade_metal_press_desc,Metal Presi limitini 1 artırır
+upgrade_silicon_purifier,Silikon Arıtıcı
+upgrade_silicon_purifier_desc,Silikon Arıtıcı limitini 1 artırır
+upgrade_miner,Madenci
+upgrade_miner_desc,Madenci limitini 1 artırır
+upgrade_oil_pump,Petrol Pompası
+upgrade_oil_pump_desc,Petrol Pompası limitini 1 artırır
+upgrade_excavator,Ekskavatör
+upgrade_excavator_desc,Ekskavatör limitini 1 artırır
+upgrade_factory_space,Fabrika Alanı
+upgrade_factory_space_desc,Makine kapasitesini 1 artırır
+upgrade_server,Sunucu
+upgrade_server_desc,Sunucu limitini 1 artırır
+upgrade_processing_value_multiplier,İşleme Değeri
+upgrade_processing_value_multiplier_desc,İşleme Satıcısından kazanılan parayı çarpımsal olarak %100 artırır
+upgrade_mining_multiplier,Kripto Değeri
+upgrade_mining_multiplier_desc,Kripto paralardan kazanılan Parayı çarpımsal olarak %100 artırır
+upgrade_hack_breach_damage,Yük Hasarı
+upgrade_hack_breach_damage_desc,Yük Hasarını %10 artırır
+upgrade_hack_breach_speed,İhlal Hızı
+upgrade_hack_breach_speed_desc,İhlal Hızını %4 artırır
+upgrade_hack_breach_critical_chance,Kritik Şansı
+upgrade_hack_breach_critical_chance_desc,Kritik hasar oluşturma şansına %2 ekler
+upgrade_hack_breach_critical_multiplier,Kritik Çarpanı
+upgrade_hack_breach_critical_multiplier_desc,Kritik hasarı %12 artırır
+upgrade_hack_infection_damage,Enfeksiyon Hasarı
+upgrade_hack_infection_damage_desc,Enfeksiyon Hasarını %10 artırır
+upgrade_hack_infection_specialist,Enfeksiyon Uzmanı
+upgrade_hack_infection_specialist_desc,Enfeksiyon Hasarını çarpımsal olarak %100 artırır. Yük Hasarını %40 azaltır
+upgrade_hack_sneak_attack,Gizli Saldırı
+upgrade_hack_sneak_attack_desc,İhlal süre limitini 1 saniye artırır
+upgrade_hack_spoil,Ganimet
+upgrade_hack_spoil_desc,İhlal ödüllerini %100 artırır
+upgrade_breach_money_multiplier,İçeriden Ticaret
+upgrade_breach_money_multiplier_desc,Kazanılan Parayı çarpımsal olarak %20 artırır
+upgrade_breach_research_multiplier,Casusluk
+upgrade_breach_research_multiplier_desc,Kazanılan Araştırmayı çarpımsal olarak %20 artırır
+upgrade_breach_price_multiplier,Şantaj
+upgrade_breach_price_multiplier_desc,Fiyatları %5 azaltır
+upgrade_breach_research_speed_multiplier,Etik Dışı Araştırma
+upgrade_breach_research_speed_multiplier_desc,Araştırma hızını %10 artırır
+upgrade_breach_government_layers,Hükümet Sabotajı
+upgrade_breach_government_layers_desc,Hükümet savunma katmanlarını çarpımsal olarak %10 azaltır
+upgrade_breach_corporation_layers,Korporasyon Sabotajı
+upgrade_breach_corporation_layers_desc,Korporasyon savunma katmanlarını çarpımsal olarak %10 azaltır
+upgrade_optimization,Optimizasyon
+upgrade_optimization_desc,Bir optimizasyon puanı verir
+upgrade_application,Uygulama
+upgrade_application_desc,Bir uygulama puanı verir
+upgrade_driver,Sürücü
+upgrade_driver_desc,Bileşenlerin performansını artırır
+upgrade_optimization_download_size,Sıkıştırılmış İndirmeler
+upgrade_optimization_download_size_desc,İndirilen dosyaların boyutunu yarıya düşürür
+upgrade_optimization_upload_size,Sıkıştırılmış Yüklemeler
+upgrade_optimization_upload_size_desc,Yüklenen dosyaların boyutunu yarıya düşürür
+upgrade_optimization_hashing,Optimize Edilmiş Hashleme
+upgrade_optimization_hashing_desc,Kripto para madenciliği için gereken saat döngülerini yarıya düşürür
+upgrade_optimization_virus_scanner,Optimize Edilmiş Virüs Tarayıcı
+upgrade_optimization_virus_scanner_desc,Virüs Tarayıcı tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_quarantine,Optimize Edilmiş Karantina
+upgrade_optimization_quarantine_desc,Karantina tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_verifier,Optimize Edilmiş Bütünlük Kontrolü
+upgrade_optimization_verifier_desc,Doğrulayıcı tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_compression,Optimize Edilmiş Sıkıştırma
+upgrade_optimization_compression_desc,Sıkıştırıcı tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_enhancement,Optimize Edilmiş Geliştirme
+upgrade_optimization_enhancement_desc,Geliştirici tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_refinement,Optimize Edilmiş Arıtma
+upgrade_optimization_refinement_desc,Veri Arıtıcı tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_analysis,Optimize Edilmiş Ön-Analiz
+upgrade_optimization_analysis_desc,Ön-Analizci tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_distillation,Optimize Edilmiş Damıtma
+upgrade_optimization_distillation_desc,Damıtıcı tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_torrent_browsing,Optimize Edilmiş Torrent Gezintisi
+upgrade_optimization_torrent_browsing_desc,Torrent Tarayıcılar tarafından gereken bant genişliğini yarıya düşürür
+upgrade_optimization_decryption,Optimize Edilmiş Şifre Çözme
+upgrade_optimization_decryption_desc,Şifre Çözücü tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_virus_extractor,Optimize Edilmiş Virüs Çıkarma
+upgrade_optimization_virus_extractor_desc,Virüs Çıkarıcı tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_trojan_injector,Optimize Edilmiş Truva Atı Enjeksiyonu
+upgrade_optimization_trojan_injector_desc,Truva Atı Enjektörü tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_decompiler,Optimize Edilmiş Dekompilasyon
+upgrade_optimization_decompiler_desc,Dekompilatör tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_decomposer,Optimize Edilmiş Ayrıştırma
+upgrade_optimization_decomposer_desc,Ayrıştırıcı tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_demuxer,Optimize Edilmiş Demux
+upgrade_optimization_demuxer_desc,Demuxer tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_scrapper,Optimize Edilmiş Hurdaya Çıkarma
+upgrade_optimization_scrapper_desc,Hurdaya Çıkarıcı tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_ripper,Optimize Edilmiş Kesim
+upgrade_optimization_ripper_desc,Kesici tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_movie_maker,Optimize Edilmiş İşleme
+upgrade_optimization_movie_maker_desc,Film Yapıcı tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_compiler,Optimize Edilmiş Derleme
+upgrade_optimization_compiler_desc,Derleyici tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_game_engine,Optimize Edilmiş Oyun Motoru
+upgrade_optimization_game_engine_desc,Oyun Motoru tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_trainer,Optimize Edilmiş Öğrenme
+upgrade_optimization_trainer_desc,Yapay Zekâ Eğiticisi tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_movie_renderer,Optimize Edilmiş GPU İşleme
+upgrade_optimization_movie_renderer_desc,Film İşleyici tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_encompressor,Optimize Edilmiş Enkompresyon
+upgrade_optimization_encompressor_desc,Enkompresör tarafından gereken saat döngülerini yarıya düşürür
+upgrade_optimization_torrent_filtering,Optimize Edilmiş Torrent Filtreleme
+upgrade_optimization_torrent_filtering_desc,Torrent Filtresi tarafından gereken bant genişliğini yarıya düşürür
+research_network,Ağ
+research_network_desc,Ağ donanımını ve dosya indirme ile yükleme yeteneğini açar
+research_processor,İşlemci
+research_processor_desc,İşlemci donanımını ve işlem gücü satma yeteneğini açar
+research_gpu,GPU
+research_gpu_desc,GPU Kümesi donanımını ve kripto para madenciliği ile satış yapma yeteneğini açar
+research_research,Araştırma
+research_research_desc,Yeni teknolojileri kalıcı olarak açmak için Araştırma üreten Veri Laboratuvarını açar
+research_verifier,Sağlama Doğrulaması
+research_verifier_desc,Dosya bütünlüğünü doğrulayarak değerini artıran Doğrulayıcıyı açar
+research_redownload,Yeniden İndir
+research_redownload_desc,Bozuk dosyaları düzelterek değerini artıran Yeniden İndiriciyi açar
+research_synchronizer,Paralellik
+research_synchronizer_desc,CPU Çekirdekleri ve GPU’ların eşzamanlı çalışmasını sağlayan Senkronizer düğümlerini açar
+research_network_exchanger,Ağ Değiştirici
+research_network_exchanger_desc,Yükleme Hızını İndirme Hızına ve İndirme Hızını Yükleme Hızına dönüştürür
+research_network_merging,Ağ Birleştirme
+research_network_merging_desc,"İndirme ve Yükleme Birleştiricilerini açar, her iki hızın tek bir hızda birleştirilmesine izin verir"
+research_scheduler,Zamanlama
+research_scheduler_desc,GPU Hızının Saat Hızına dönüştürülmesine izin veren Zamanlayıcıyı açar
+research_gpu_manager,GPU Yöneticisi
+research_gpu_manager_desc,GPU Hızının kullanıcı tarafından belirlenen oranlarla bölünmesine izin verir
+research_file_processing,Dosya İşlemleri
+research_file_processing_desc,Dosyaların boyutunun sıkıştırılmasına veya kalitesinin artırılmasına izin veren Sıkıştırıcı ve Geliştiriciyi açar
+research_compression_level2,Çift Sıkıştırma
+research_compression_level3,Üçlü Sıkıştırma
+research_compression_level_desc,Dosyalardaki maksimum sıkıştırma sayısını 1 artırır
+research_enhancement_level2,Çift Geliştirme
+research_enhancement_level3,Üçlü Geliştirme
+research_enhancement_level_desc,Dosyalardaki maksimum geliştirme sayısını 1 artırır
+research_bitcoin,Bitcoin Madenciliği
+research_bitcoin_desc,Orta volatiliteye sahip bir para olan Bitcoin’i kazma yeteneğini açar
+research_hacking,Hackleme
+research_hacking_desc,Hacklemeye erişimi açar
+research_breach_corporation,Korporasyon İhlali
+research_breach_corporation_desc,Şirketlere sızarak gizli veri çalma yeteneğini açar
+research_breach_bank,Banka İhlali
+research_breach_bank_desc,Bankalara sızarak Token çalma yeteneğini açar
+research_infection_damage,Enfeksiyon Hasarı
+research_infection_damage_desc,Enfeksiyon Hasarı oluşturma yeteneğini açar
+research_breach_government,Hükümet İhlali
+research_breach_government_desc,Kamu kurumlarına sızarak araştırma amacıyla istihbarat çalma yeteneğini açar
+research_hack_skills,İhlal Yetenekleri
+research_hack_skills_desc,"İhlal saldırılarını güçlendiren düğümlere erişimi açar. Aynı anda yalnızca bir yetenek aktif olabilir. Her seviye, seçtiğin bir yeteneği araştırmana izin verir"
+research_infect_payload,Yük Enfekte Et
+research_infect_payload_desc,"Yük Enfekte Et yeteneğini açar, Yük Hasarının ekstra Enfeksiyon Hasarı kazanmasını sağlar"
+research_critical_payload,Kritik Yük
+research_critical_payload_desc,"Kritik Yük yeteneğini açar, Yük Hasarının gücünü büyük ölçüde artırma şansı verir"
+research_ghost_attack,Hayalet Saldırı
+research_ghost_attack_desc,"Hayalet Saldırı yeteneğini açar, herhangi bir hasarın Güvenlik Duvarını yok saymasını sağlar"
+research_charged_attack,Yüklü Saldırı
+research_charged_attack_desc,"Yüklü Saldırı yeteneğini açar, hasarın süper bir saldırı için yüklenmesini sağlar"
+research_spread_infection,Enfeksiyonu Yay
+research_spread_infection_desc,"Enfeksiyonu Yay yeteneğini açar, Enfeksiyon Hasarının konak içinde kendini çoğaltmasını sağlar"
+research_injection,Enjeksiyon
+research_injection_desc,"Zayıflığı Ortaya Çıkar düğümünü açar, ihlal hedeflerinin Hack Gücüne bağlı olarak daha fazla hasar almasını sağlar"
+research_split_attack,Bölünmüş Saldırı
+research_split_attack_desc,"Bölünmüş Saldırı düğümünü açar, birden fazla hedefin aynı anda saldırıya uğramasını sağlar"
+research_trojan,Truva Atları
+research_trojan_desc,Enfekte dosyalardan Virüs çıkarılmasını ve Truva Atlarına dönüştürülmesini sağlar; bu Truva Atları dosyalara enjekte edilip yüklenerek enfekte bilgisayarlardan güç kazanımı sağlar
+research_refinement,Veri Arıtma
+research_refinement_desc,Dosyaları arıtarak araştırma değerini artıran Veri Arıtıcıyı açar
+research_analysis,Ön-Analiz
+research_analysis_desc,Dosyaları ön-analiz ederek araştırma hızını artıran Ön-Analizciyi açar
+research_coding,Kodlama
+research_coding_desc,Kodlamaya erişimi açar
+research_build_tools,Derleme Araçları
+research_build_tools_desc,Kod oluşturarak sistemine kurma ve kod türüne göre farklı yükseltmeler elde etme yeteneğini açar
+research_optimizations,Optimizasyonlar
+research_optimizations_desc,Değişken kombinasyonlarına ve optimizasyon kodlamasına erişimi açar
+research_applications,Uygulamalar
+research_applications_desc,Dizilere ve uygulama kodlamasına erişimi açar
+research_drivers,Sürücüler
+research_drivers_desc,HashMap’lere ve sürücü kodlamasına erişimi açar
+research_debugging,Hata Ayıklama
+research_debugging_desc,Koddaki olası hataları test ederek kalitesini artıran hata ayıklamaya erişimi açar
+research_code_optimization,Kod Optimizasyonu
+research_code_optimization_desc,Kaliteyi artırmak için kodu optimize eden kod optimizasyonlarına erişimi açar
+research_optimization_level2,Çift Optimizasyon
+research_optimization_level3,Üçlü Optimizasyon
+research_optimization_level_desc,Bir koddaki maksimum optimizasyon sayısını 1 artırır
+research_portal,Portal
+research_portal_desc,Boyutsal Portala erişimi ve Araştırmayı Portal yükseltmeleri için kullanılan İleri Araştırmaya dönüştürme yeteneğini açar
+research_ethereum,Ethereum Madenciliği
+research_ethereum_desc,Yüksek volatiliteye sahip bir para olan Ethereum’u kazma yeteneğini açar
+research_token_mining,Token Madenciliği
+research_token_mining_desc,Token kazma yeteneğini açar
+research_torrents,Torrentler
+research_torrents_desc,"Torrent gezinme ve indirmeyi açar. Her seviye, seçtiğin bir tarayıcıyı araştırmana izin verir"
+research_torrents_scanned,Virüssüz Torrentler
+research_torrents_scanned_desc,Taranmış dosyalar için torrent gezinmeyi açar
+research_torrents_verified,IntegriMAX Torrentler
+research_torrents_verified_desc,Doğrulanmış dosyalar için torrent gezinmeyi açar
+research_torrents_analyzed,Labs Torrentler
+guide_window_breach_anonymous,"Hedefi ihlal et. Süre sınırı içinde Anonymous’u ihlal
+etmeyi denemek için herhangi bir hasar ekle. 
+Başarılı olursan Sızma Deneyimi alırsın.
+Anonymous’u maksimum tehdit seviyesinde
+başarıylaihlal etmek,
+maksimum tehdit seviyesini de artırır, 
+zorluk ve ödülleri yükseltir."
+guide_window_breach_corps,"Hedefi ihlal et. Süre sınırı içinde şirketleri ihlal etmeyi
+denemek için herhangi bir hasar ekle. 
+Başarılı olursan Şirket Verisi alırsın.
+Şirketleri maksimum tehdit seviyesinde başarıyla ihlal
+etmek, maksimum tehdit seviyesini de artırır, 
+zorluk ve ödülleri yükseltir."
+guide_window_breach_government,"Hedefi ihlal et. Süre sınırı içinde hükümeti ihlal etmeyi
+denemek için herhangi bir hasar ekle.
+Başarılı olursan Hükümet İstihbaratı alırsın. 
+Hükümeti maksimum tehdit seviyesinde başarıyla ihlal
+etmek, maksimum tehdit seviyesini de artırır, zorluk ve
+ödülleri yükseltir."
+guide_window_breach_bank,"Hedefi ihlal et. Süre sınırı içinde bankaları ihlal etmeyi
+denemek için herhangi bir hasar ekle. 
+Başarılı olursan Jeton alırsın ve ayrıca maksimum tehdit 
+seviyesini kalıcı olarak yükseltirsin, zorluğu artırarak.
+İhlali tamamlamak veya başarısız olmak düğümün 
+çökmesine neden olacaktır."
+guide_window_drain,"Eklenen Enfekte Bilgisayarlardan performans çeker,
+Bileşen Artışı üretir."
+guide_window_coder,"Katkı Seviyene göre Kod Hızı sağlar. 
+Katkı ekleyerek Katkı Seviyesi yükseltilebilir."
+guide_window_commit,"Eklenen kodu Katkı karşılığında işler. 
+Ödül, kod karmaşıklığına ve değiştiricilerine bağlıdır."
+guide_window_build,"Eklenen koda dayalı bir proje oluşturur. 
+Projeleri tamamlamak benzersiz yükseltmeler kazandırır."
+guide_window_code_bugfix,"Gerekli değişkenler olan bool, int ile 
+Hata Düzeltme Kodu yapar."
+guide_window_code_optimization,"Gerekli değişkenler olan BitFlag, Vector ile 
+Optimizasyon Kodu yapar."
+guide_window_code_application,"Gerekli değişkenler olan Array[String], Array[BigInt] ile 
+Uygulama Kodu yapar."
+guide_window_code_driver,"Gerekli değişkenler olan 
+HashMap[Decimal], HashMap[Vector] ile 
+Sürücü Kodu yapar."
+guide_window_code_variable,Bir ilkel tür değişkenini Kod Hızı kullanarak kodlar.
+guide_window_variable_combiner,"Eklenen iki ilkel değişkeni gelişmiş bir değişkene birleştirir.
+BitFlag = bool + int
+BigInt = int + int
+Decimal = int + float
+String = char + char
+Vector = float + float"
+guide_window_code_array,Eklenen değişkenin bir array kodlar.
+guide_window_code_hashmap,Eklenen dizinin bir dize dizisi kullanarak bir hashmap'ini kodlar
+guide_window_debug,"Eklenen kodu hata ayıklar, test edilmiş etkisini ekler ve kod kalitesini 4 kat artırır
+Kodların ayrıca kaliteyi 4 kat azaltan hatalı etkisine sahip olma ihtimali %50'dir
+Gerekli işlem (ops) miktarı eklenen koda bağlıdır"
+guide_window_fix_code,Hatalı etkisini kaldırarak eklenen kodu bir Hata Düzeltme Kodu kullanarak düzeltir
+guide_window_optimize_code,"Eklenen kodu bir Optimizasyon Kodu kullanarak optimize eder, optimize edilmiş etkisini ekler ve kaliteyi 4 kat artırır
+Optimizasyon Kodunun etkileri optimize edilen koda da uygulanır"
+guide_window_overclocker,Bileşenlerde kullanılacak istenen Overclock miktarını ayarlamayı sağlar
+guide_window_heat_sink,Seviyesine bağlı olarak bileşenlerden üretilen Isıyı dağıtır ve Para kullanılarak yükseltilebilir
+tutorial_desc_press,Bu kısa tanıtımda laboratuvarını nasıl yöneteceğini öğrenelim
+tutorial_desc_drag_download,İndirme Hızı çıkışını sürükleyerek bir bağlantı başlat
+tutorial_desc_connect_download,Bağlantıyı oluşturmak için bağlayıcıyı İndirme Hızı girişinin üzerine bırak
+tutorial_desc_press2,"Bağlantılar soldan sağa gider. Çıkışlar kaynak gönderir, girişler kaynak alır"
+tutorial_desc_drag_bin_connector,Bir girişi sürükleyerek bağlantıyı kaldır
+tutorial_desc_press3,Şimdi indirilen dosyaları yüklemek için bir düğüm ekleyelim
+tutorial_desc_open_menu,Ağ düğümleri menüsünü açmak için bas
+tutorial_desc_select_uploader,Düğüm listesinde Yükleyiciyi seç
+tutorial_desc_add_uploader,Düğümü masaüstüne yerleştirmek için bas
+tutorial_desc_drag_uploader,Yükleyici düğümünün üst kısmını sürükleyerek taşımayı başlat
+tutorial_desc_move_uploader,Yükleyiciyi belirtilen konuma taşı ve bırak
+tutorial_desc_connect_file,Yüklemeyi başlatmak için indirilen dosyalarını Yükleyiciye bağla
+tutorial_desc_connect_upload,Şimdi Yükleme Hızını Yükleyicine bağla
+tutorial_desc_press4,Yüklemeden elde edilen Parayı toplamak için bir düğüm ekleyelim
+tutorial_desc_open_menu2,Yardımcı düğümler menüsünü aç
+tutorial_desc_select_collector,Toplayıcı düğümü seç
+tutorial_desc_add_collector,Toplayıcı düğümü ekle
+tutorial_desc_connect_money,Şimdi Para çıkışını Toplayıcının girişine bağla
+tutorial_desc_press5,"Şu an için Çöp düğümüne ihtiyacın olmayacak, o yüzden onu silelim"
+tutorial_desc_select_bin,Üstüne basarak Çöp düğümünü seç
+tutorial_desc_delete_bin,Şimdi onu silmek için alttaki çöp düğmesine bas
+tutorial_desc_press6,İşte bu kadar! Şimdi kurulumunu geliştirmek için biraz para kazanmaya başla.
+heat_death_universe,Evrenin Isı Ölümü
+august_12_2036,12 Ağustos 2036
+you_failed,Evreni kurtarmayı başaramadın
+for_now,Şimdilik
+english,İngilizce
+spanish,İspanyolca
+german,Almanca
+french,Fransızca
+korean,Korece
+indonesian,Endonezyaca
+portuguese,Portekizce
+polish,Lehçe
+italian,İtalyanca
+traditional_chinese,Geleneksel Çince
+japanese,Japonca
+credits,Katkılar
+credits_desc,"[h]EnigmaDev Studios[/h]
+
+[h]Music[/h]
+Andrea Baroni
+Cyberleaf Studio
+
+[h]Translators[/h]
+French: aclim
+German: holyfire
+Japanese: anonym
+Korean: 르에, Hatsuseizuna
+Kurdish: LOTS-4EVER
+Polish: szajni_
+Portuguese: EnigmaDev Studios
+Simplified Chinese: FEVM, Flying Pigeon
+Vietnamese: ThqnhZ
+Turkish: zlpfilee"

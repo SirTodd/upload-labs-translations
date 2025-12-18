@@ -1,0 +1,186 @@
+labs_os,Labs OS
+initializing,Betöltés
+menu_tutorial,Bemutató
+menu_upgrades,Fejlesztések
+menu_hacking,Hackelés
+menu_coding,Kódolás
+menu_portal,Portál
+menu_guide,Útmutató
+menu_shop,Bolt
+menu_support,Támogatás
+menu_rest,Pihenés
+menu_stats,Statisztikák
+menu_settings,Beállítások
+menu_server,Szerver
+menu_in_progress,Folyamatban
+menu_achievements,Teljesítmények
+menu_requests,Kérések
+menu_save,Mentés
+menu_completed,Teljesítve
+menu_basics,Alapok
+menu_nodes,Node
+menu_resources,Erőforrások
+menu_perks,Előnyök
+menu_boosts,Gyorsítások
+menu_services,Szolgáltatások
+menu_watch_ad,Hirdetés nézése?
+menu_watch_ad_desc,"Nézz meg egy rövid reklámot, és jutalmakat kapsz érte!"
+menu_new_schematic,Új schematic
+menu_wipe,Előrehaladás törlése
+menu_wipe_desc,Biztos törölni szeretnéd minden előrehaladásodat? A teljesítmények is elvesznek!
+menu_sync_save,Mentés szinkronizálása
+menu_sync_save_desc,Szinkronizáld a mentésed több eszközön
+menu_sync_save_instructions,"Kattints az Exportra a kódhoz, vagy importálj egy kódot."
+action_add,Hozzáadás
+action_install,Letöltés
+action_upgrade,Fejlesztés
+action_research,Kutatás
+action_add_core,Mag hozzáadása
+action_add_gpu,GPU hozzáadása
+action_collect,Összegyűjtés
+action_sell,Eladás
+action_open,Megnyitás
+action_enter,Belépés
+action_cancel,Mégse
+action_close,Bezár
+action_claim,Begyűjt
+action_purchase,Vásárlás
+action_watch,Megtekintés
+action_optimize,Optimalizálás
+action_save,Mentés
+action_confirm,Megerősítés
+action_export,Export
+action_import,Import
+quit,Kilépés
+setting_fps_limit,FPS limit
+setting_ui_scale,UI méret
+setting_language,Nyelv
+setting_colorblind_mode,Színvak mód
+setting_glow,Fénylés
+setting_mute_sfx,Hanghatások kikapcsolása
+setting_volume_sfx,Hanghatások hangereje
+setting_mute_nodes,Nodeok lenémítása
+setting_volume_nodes,Nodeok hangereje
+setting_mute_bgm,Zene lenémítása
+setting_volume_bgm,Zene hangereje
+setting_show_completed,Befejezettek mutatása
+setting_wipe_data,Adatok törlése
+setting_sync_data,Adatok szinkronizálása
+loading,Betöltés
+active,Aktív
+queue,Várólista
+value,Érték
+size,Méret
+quality,Minőség
+research,Kutatás
+cost,Ár
+reward,Jutalom
+claimed,Igényelt
+owned,Birtokolt
+support_level,Támogatási szint
+schematic_name,Schematic név
+sending,Küldés
+connecting,Csatlakozás
+exported,Exportálva
+code_invalid,Érvénytelen kód
+code_expired,A kód lejárt
+error,Hiba
+no_schematics_saved,Nincs még egy schematicod sem
+nodes_required,# Nodeok
+threat,Veszély
+level,Szint
+lv.,Lv.
+storage_size,Tárhely mérete
+storage_value,Tárhely értéke
+server_stats,Szerver statisztikák
+tokens_mined,Kibányászott tokenek
+tokens_stolen,Ellopott tokenek
+free,Ingyenes
+points,Pontok
+hack_points,Hack pontok
+bug,Bug
+empty,Üres
+input_currency,Pénznem bevitele
+input_file,Fájl bevitele
+insert_coin,Érme betétele
+input_element,Elem bevitele
+input_damage,Sebzés bevitele
+max,Max
+mk.,Mk.
+version,Verzió
+ver.,Ver.
+progress,Előrehaladás
+ratio,Arány
+speed,Sebesség
+sell at,Eladás ennyinél
+rest_time,Pihenési idő
+rest_time_desc,Felgyorsítja a játékot 5×-re. Minden 72 másodpercben offlineként 1 másodpercet kapsz.
+time,Idő
+seconds,Másodperc
+second_abbreviation,mp
+breach_speed,Behatolási sebesség
+breached,Behatolva
+firewall,Tűzfal
+time_left,Idő van hátra
+vulnerable,Sebezhető
+critical,Kritikus
+completed,Teljesíve
+ready,Készen áll
+new_achievement,Új teljesítmény
+request_completed,Kérés teljesíve
+new_windows_processor,Új CPU nodeok elérhetőek
+new_windows_network,Új hálózati nodeok elérhetőek
+new_windows_gpu,Új GPU nodeok elérhetőek
+new_windows_research,Új kutatás nodeok elérhetőek
+new_windows_hacking,Új hackelési nodeok elérhetőek
+new_windows_coding,Új kódolási nodeok elérhetőek
+new_windows_utilities,Új segéd nodeok elérhetőek
+new_upgrades_available,Új fejlesztések elérhetőek
+new_hack_level,Hack szintlépés
+new_code_level,Hozzájárulás szintlépés
+new_application_point,Új applikációs pont
+new_optimization_point,Új optimalizációs pont
+breach_bank_failed,Bank behatolás sikertelen
+breach_bank_success,Bank behatolás sikeres
+tool_cursor,Kurzor eszköz
+tool_move,Mozgató eszköz
+tool_selection,Kiválaszó eszköz
+tool_connection_editor_on,Kapcsolatszerkeztő be
+tool_connection_editor_off,Kapcsolatszerkeztő ki
+schematic_saved,Schematic elmentve
+hold_to_skip,Tartsd nyomva a kihagyáshoz
+support_us,Támogass minket vásárlással és kapj jelvényeket
+thank_you,Köszönjük!
+tokens_claimed,Prémium tokenek begyűjtve
+resource_download_speed,Letöltési sebesség
+resource_download_speed_desc,Hálózati sebesség fájlletöltésekhez (bit/másodperc)
+resource_upload_speed,Feltöltési sebesség
+resource_upload_speed_desc,Hálózati sebesség fájlfeltöltésekhez (bit/másodperc)
+resource_clock_speed,Órajel sebesség
+resource_hack_power,Hack erő
+resource_hack_power_desc,"A behatolási sebesség, amely a Hack szinttel növekszik"
+resource_code_speed,Kódolási sebesség
+resource_overclock,Overclock
+resource_heat,Hő
+resource_heat_desc,Overclockolás által generálva
+resource_money,Pénz
+resource_research,Kutatás
+resource_contribution,Hozzájárulás
+resource_ai,AI Erő
+resource_trojan,Trójai
+heat_death_universe,Heat Death of the Universe
+august_12_2036,"Augusztus 12, 2036"
+you_failed,Nem sikerült megmentened az univerzumot
+for_now,Egyenlőre
+english,Angol (English)
+spanish,Spanyol
+german,Német
+french,Francia
+korean,Kóreai
+indonesian,Indonéz
+portuguese,Portugál
+polish,Lengyel
+italian,Olasz
+traditional_chinese,Hagyományos kínai
+japanese,Japán
+credits,Alkotók

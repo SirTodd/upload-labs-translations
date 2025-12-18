@@ -1,0 +1,257 @@
+labs_os,Labs OS
+initializing,Initialisierung
+menu_tutorial,Tutorial
+menu_upgrades,Verbesserungen
+menu_hacking,Hacking
+menu_coding,Programmieren
+menu_portal,Portal
+menu_guide,Guide
+menu_shop,Shop
+menu_support,Support
+menu_rest,Ruhe
+menu_stats,Statistiken
+menu_attributes,Attribute
+menu_settings,Einstellungen
+menu_server,Server
+menu_in_progress,In Arbeit
+menu_achievements,Erfolge
+menu_requests,Anfragen
+menu_save,Speichern
+menu_completed,Abgeschlossen
+menu_basics,Grundlagen
+menu_nodes,Node
+menu_resources,Ressourcen
+menu_perks,Vorteile
+menu_boosts,Boosts
+menu_services,Services
+menu_clear,Löschen
+menu_watch_ad,Werbung anschauen?
+menu_watch_ad_desc,Schau dir eine kurze Werbung an und erhalte eine Belohnung
+menu_new_schematic,Neue Blaupause
+menu_wipe,Daten löschen
+menu_wipe_desc,Möchtest du deinen Fortschritt inklusive aller Erfolge löschen?
+menu_sync_save,Spielstand synchronisieren
+menu_sync_save_desc,Synchronisiert den Spielstand zwischen verschiedenen Geräten
+menu_sync_save_instructions,Drücke Exportieren um einen Code zu erhalten oder Importieren um einen Code einzugeben
+action_add,Hinzufügen
+action_install,Installieren
+action_upgrade,Verbessern
+action_tier_up,Stufe verbessern
+action_research,Forschung
+action_add_core,Kern hinzufügen
+action_add_gpu,GPU hinzufügen
+action_collect,Sammeln
+action_sell,Verkaufen
+action_open,Öffnen
+action_enter,Bestätigen
+action_cancel,Abbrechen
+action_close,Schließen
+action_claim,Beanspruchen
+action_purchase,Kaufen
+action_watch,Beobachten
+action_optimize,Optimieren
+action_add_threat,Gefahr erhöhen
+action_reduce_threat,Gefahr verringern
+action_save,Speichern
+action_confirm,Bestätigen
+action_export,Exportieren
+action_import,Importieren
+quit,Verlassen
+setting_fps_limit,FPS Limit
+setting_ui_scale,UI Scale
+setting_language,Sprache
+setting_colorblind_mode,Farbenblindheitsmodus
+setting_glow,Glühen
+setting_mute_sfx,Stummschalten der Soundeffekte
+setting_volume_sfx,Lautstärke der Soundeffekte
+setting_mute_nodes,Stummschalten der Nodes
+setting_volume_nodes,Lautstärke der Nodes
+setting_mute_bgm,Stummschalten der Musik
+setting_volume_bgm,Lautstärke der Musik
+setting_show_completed,Abgeschlossene anzeigen
+setting_wipe_data,Daten löschen
+setting_sync_data,Spielstand synchronisieren
+loading,Lädt
+active,Aktiv
+queue,Warteschlange
+value,Wert
+size,Größe
+quality,Qualität
+research,Forschung
+cost,Kosten
+reward,Belohnung
+claimed,Eingesammelt
+owned,Im Besitz
+support_level,Unterstützerlevel
+schematic_name,Blaupausenname
+sending,Senden
+connecting,Verbinden
+exported,Exportiert
+code_invalid,Ungültiger Code
+code_expired,Code abgelaufen
+error,Fehler
+no_schematics_saved,Du hast noch keine Blaupausen
+nodes_required,# Nodes
+threat,Gefahr
+level,Level
+lv.,Lv.
+storage_size,Speichergröße
+storage_value,Speicherwert
+server_stats,Serverstatus
+tokens_mined,Tokens gesammelt
+tokens_stolen,Tokens gestolen
+free,Kostenlos
+points,Punkte
+hack_points,Hack-Punkte
+bug,Bug
+empty,Leer
+input_currency,Währung eingeben
+input_file,Datei eingeben
+insert_coin,Münze eingeben
+input_element,Element eingeben
+input_damage,Schaden eingeben
+input_variable,Variable eingeben
+input_array,Array eingeben
+input_code,Code eingeben
+invalid_request,Ungültige Anfrage
+invalid_request_desc,Angefragte Datei eingeben
+invalid_project,Ungültiges Projekt
+invalid_project_desc,Gültigen Code eingeben
+optimization_points,Optimierungspunkte
+application_points,Applikationspunkte
+driver,Treiber
+hardware_multiplier,Hardware Multiplikator
+max,Max.
+mk.,MK.
+version,Version
+ver.,Ver.
+progress,Fortschritt
+ratio,Verhältnis
+burn_rate,Brennrate
+speed,Geschwindigkeit
+sell at,Alle verkaufen
+rest_time,Ruhezeit
+rest_time_desc,Erhöht die Zeit um 5x. Erhalte 1 Sekunde für jede 72 Sekunden offline.
+time,Zeit
+seconds,Sekunden
+second_abbreviation,s
+consumption,Verbrauch
+multiplier,Multiplikator
+breach_speed,Durchbruchsgeschwindigkeit
+breached,Durchbrochen
+firewall,Firewall
+time_left,Zeit übrig
+vulnerable,Verwundbar
+critical,Kritisch
+completed,Abgeschlossen
+ready,Bereit
+new_achievement,Neuer Erfolg
+request_completed,Anfrage abgeschlossen
+new_windows_processor,Neue CPU-Nodes verfügbar
+new_windows_network,Neue Netzwerk-Nodes verfügbar
+new_windows_gpu,Neue GPU-Nodes verfügbar
+new_windows_research,Neue Forschungs-Nodes verfügbar
+new_windows_hacking,Neue Hacking-Nodes verfügbar
+new_windows_coding,Neue Programmierungs-Nodes verfügbar
+new_windows_utilities,Neue Sonstigen-Nodes verfügbar
+new_upgrades_available,Neue Upgrades verfügbar
+new_hack_level,Hacking Level up
+new_code_level,Beitragslevel erhöht
+new_application_point,Neuer Applikationspunkt
+new_optimization_point,Neuer Optimierungspunkt
+breach_bank_failed,Bankdurchbruch fehlgeschlagen
+breach_bank_success,Bankdurchbruch erfolgreich
+tool_cursor,Mauszeigerwerkzeug
+tool_move,Bewegungswerkzeug
+tool_selection,Auswahlswerkzeug
+tool_connection_editor_on,Verbindungseditor an
+tool_connection_editor_off,Verbindungseditor aus
+schematic_saved,Blaupause gespeichert
+hold_to_skip,Halten zum Überspringen
+support_us,Unterstütze uns durch kaufen von Items und erhalte Abzeichen
+thank_you,Danke!
+tokens_claimed,Premium Token erhalten
+resource_download_speed,Downloadgeschwindigkeit
+resource_download_speed_desc,Netzwerkgeschwindigkeit für das herunterladen von Dateien (Bits/s).
+resource_upload_speed,Uploadgeschwindigkeit
+resource_upload_speed_desc,Netzwerkgeschwindigkeit für das Hochladen von Dateien (Bits/s).
+resource_clock_speed,CPU Taktrate
+resource_clock_speed_desc,Prozessor Geschwindigkeit für das Berechnen in Nodes (Hertz).
+resource_gpu_speed,GPU Geschwindigkeit
+resource_gpu_speed_desc,GPU Geschwindigkeit für parallelisierte Prozesse (Hertz)
+resource_research_power,Forschungsgeschwindigkeit
+resource_research_power_desc,Geschwindigkeit mit der Dateien pro Sekunde erforscht werden.
+resource_hack_power,Hack Stärke
+resource_hack_power_desc,"Durchbruchsgeschwindigkeit, die mit dem Hack-Level skaliert."
+resource_code_speed,Programmier Geschwindigkeit
+resource_code_speed_desc,"Variable Programmiergeschwindigkeit, die sich nach dem Beitragsniveau richtet."
+resource_boost_component,Komponenten-Boost
+resource_boost_component_desc,Boost für die Hardwarekomponenten.
+resource_boost_research,Forschungs-Boost
+resource_boost_research_desc,Beschleunigung der Forschungsgeschwindigkeit.
+resource_boost_hack,Hack-Boost
+resource_boost_hack_desc,Boost für die Hack-Stärke.
+resource_boost_code,Code-Boost
+resource_boost_code_desc,Boost für die Codegeschwindigkeit.
+resource_overclock,Übertaktung
+resource_overclock_desc,Einstellung zur Leistungssteigerung von Komponenten.
+resource_heat,Hitze
+resource_heat_desc,Durch Übertaktung erzeugt.
+resource_money,Geld
+resource_money_desc,Währung zum Freischalten von Upgrades.
+resource_research,Forschung
+resource_research_desc,Währung zum Freischalten von Technologien.
+resource_token,Token
+resource_token_desc,"Seltene Währung für einzigartige Vorteile, Boosts und Leistungen."
+resource_infected_computer,Infizierter Computer
+resource_infected_computer_desc,Erlangt durch das Infiltrieren von Computern mit Trojanern.
+resource_hack_experience,Hacking-Erfahrung
+resource_hack_experience_desc,Erhöht das Hack-Level; wird durch das Knacken von Anonymous erlangt.
+resource_corporation_data,Unternehmensdaten
+resource_corporation_data_desc,Erhalten durch das Infiltrieren von Unternehmen; wird für Hack-Upgrades verwendet.
+resource_government_data,Regierungsinformationen
+resource_government_data_desc,Erlangt durch das Infiltrieren staatlicher Einrichtungen; verwendet für Upgrades von Einbruchssystemen.
+resource_contribution,Beitrag
+resource_contribution_desc,Erhöht das Beitragslevel; wird durch das Committen von Code erreicht.
+resource_ai,KI-Power
+resource_ai_desc,Steigert die Produktion; wird aus Neuronen gewonnen.
+resource_trojan,Trojaner
+resource_trojan_desc,"Infiltriert Computer, wenn es in eine Datei injiziert wird; die Erzeugung skaliert mit dem Hack-Level."
+resource_neuron_text,Text-Neuron
+resource_neuron_text_desc,Erstellt anhand von KI-Training mit Textdateien.
+resource_neuron_image,Bild-Neuron
+resource_neuron_image_desc,Erstellt anhand von KI-Training mit Bilddateien.
+resource_neuron_sound,Ton-Neuron
+resource_neuron_sound_desc,Erstellt anhand von KI-Training mit Tondateien.
+resource_neuron_video,Video-Neuron
+resource_neuron_video_desc,Erstellt anhand von KI-Training mit Videodateien.
+resource_neuron_program,Programm-Neuron.
+resource_neuron_program_desc,Erstellt anhand von KI-Training mit Programmdateien.
+resource_neuron_game,Spiel-Neuron
+resource_neuron_game_desc,Erstellt anhand von KI-Training mit Spieldateien.
+window_breach_corps,Unternehmen infiltrieren
+window_breach_corps_desc,Startet einen Angriff auf Unternehmen und stiehlt bei Erfolg Unternehmensdaten.
+window_breach_government,Regierung infiltrieren
+window_breach_government_desc,Startet einen Angriff gegen die Regierung und stiehlt bei Erfolg Regierungsinformationen.
+window_breach_bank,Bank infiltrieren
+window_breach_bank_desc,Startet einen Banküberfall und gewährt bei Erfolg Tokens.
+window_commit,Commit
+window_commit_desc,Committet Code im Austausch für einen Beitrag
+window_code_optimization,Code Optimierung
+window_code_optimization_desc,Optimierung mit Hilfe von erweiterten Variablen programmieren
+window_code_application,Code Applikation
+window_code_application_desc,Applikationen mit Arrays programmieren
+upgrade_application,Applikation
+august_12_2036,8/12/2036
+english,Englisch
+spanish,Spanisch
+german,Deutsch
+french,Französisch
+korean,Koreanisch
+indonesian,Indonesisch
+portuguese,Portugiesisch
+polish,Polnisch
+italian,Italienisch
+traditional_chinese,Traditional Chinesisch
+japanese,Japanisch
+credits,Anerkennung

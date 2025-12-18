@@ -1,0 +1,1058 @@
+labs_os,Labs OS
+initializing,Đang khởi tạo
+menu_tutorial,Hướng dẫn
+menu_upgrades,Nâng cấp
+menu_hacking,Hack
+menu_coding,Code
+menu_portal,Cổng
+menu_guide,Chỉ dẫn
+menu_shop,Cửa hàng
+menu_support,Hỗ trợ
+menu_rest,Nghỉ
+menu_stats,Thông số
+menu_attributes,Thuộc tính
+menu_settings,Cài đặt
+menu_server,Server
+menu_in_progress,Trong tiến trình
+menu_achievements,Thành tựu
+menu_requests,Yêu cầu
+menu_save,Lưu
+menu_completed,Hoàn thành
+menu_basics,Cơ bản
+menu_nodes,Node
+menu_resources,Tài nguyên
+menu_perks,Đặc quyền
+menu_boosts,Tăng tốc
+menu_services,Dịch vụ
+menu_clear,Xóa
+menu_watch_ad,Xem QC?
+menu_watch_ad_desc,Xem một đoạn quảng cáo ngắn và nhận thưởng
+menu_new_schematic,Bản vẽ mới
+menu_wipe,Xóa dữ liệu
+menu_wipe_desc,"Bạn có muốn xóa toàn bộ dữ liệu, kể cả thành tựu đã đạt được?"
+menu_sync_save,Đồng bộ hóa Bản lưu
+menu_sync_save_desc,Đồng bộ hóa bản lưu của bạn trên mọi thiết bị
+menu_sync_save_instructions,"Bấm Xuất để nhận một mã, hoặc nhập một mã vào để nhập"
+action_add,Thêm
+action_install,Cài đặt
+action_upgrade,Nâng cấp
+action_tier_up,Nâng hạng
+action_research,Nghiên cứu
+action_add_core,Thêm Nhân
+action_add_gpu,Thêm GPU
+action_collect,Thu thập
+action_sell,Bán
+action_open,Mở
+action_enter,Vào
+action_cancel,Hủy
+action_close,Đóng
+action_claim,Nhận
+action_purchase,Mua
+action_watch,Xem
+action_optimize,Tối ưu
+action_add_threat,Tăng Mối đe dọa
+action_reduce_threat,Giảm Mối đe dọa
+action_save,Lưu
+action_confirm,Xác nhận
+action_export,Xuất
+action_import,Nhập
+quit,Thoát
+setting_fps_limit,Giới hạn FPS
+setting_ui_scale,Tỉ lệ UI
+setting_language,Ngôn ngữ
+setting_colorblind_mode,Chế độ Mù màu
+setting_glow,Tỏa sáng
+setting_mute_sfx,Tắt Âm Hiệu ứng
+setting_volume_sfx,Âm lượng Hiệu ứng
+setting_mute_nodes,Tắt âm Node
+setting_volume_nodes,Âm lượng Node
+setting_mute_bgm,Tắt âm Nhạc
+setting_volume_bgm,Âm lượng Nhạc
+setting_show_completed,Hiển thị Đã hoàn thành
+setting_wipe_data,Xóa dữ liệu
+setting_sync_data,Đồng bộ hóa Bản lưu
+loading,Đang tải
+active,Hoạt động
+queue,Hàng chờ
+value,Giá trị
+size,Kích cỡ
+quality,Số lượng
+research,Nghiên cứu
+cost,Giá
+reward,Thưởng
+claimed,Đã nhận
+owned,Đã sở hữu
+support_level,Cấp Hỗ trợ
+schematic_name,Tên bản vẽ
+sending,Đang gửi
+connecting,Đang kết nối
+exported,Đã xuất
+code_invalid,Mã không hợp lệ
+code_expired,Mã hết hạn
+error,Lỗi
+no_schematics_saved,Bạn không có bản vẽ nào
+nodes_required,# Node
+threat,Mối đe dọa
+level,Cấp
+lv.,Lv.
+storage_size,Kích cỡ Bộ nhớ
+storage_value,Giá trị Bộ nhớ
+server_stats,Thông số Server
+tokens_mined,Token đã đào
+tokens_stolen,Token đã trộm
+free,Miễn phí
+points,Điểm
+hack_points,Điểm hack
+bug,Lỗi
+empty,Trống
+input_currency,Nhập Đơn vị tiền tệ
+input_file,Nhập File
+insert_coin,Nhập Xu
+input_element,Nhập Nguyên tố
+input_damage,Nhập Sát thương
+input_variable,Nhập Biến số
+input_array,Nhập Mảng
+input_code,Nhập Mã
+invalid_request,Yêu cầu Không hợp lệ
+invalid_request_desc,Nhập file được yêu cầu
+invalid_project,Dự án Không hợp lệ
+invalid_project_desc,Nhập mã hợp lệ
+optimization_points,Điểm Tối ưu
+application_points,Điểm Ứng dụng
+driver,Driver
+hardware_multiplier,Hệ số Phần cứng
+max,Tối đa
+mk.,Mk.
+version,Phiên bản
+ver.,Ver.
+progress,Tiến trình
+ratio,Tỉ lệ
+burn_rate,Tốc độ Đốt cháy
+speed,Tốc độ
+sell at,Bán với
+rest_time,Thời gian Nghỉ
+rest_time_desc,Tăng tốc thời gian lên x5. Nhận 1 giây mỗi 72 giây offline
+time,Thời gian
+seconds,Giây
+second_abbreviation,s
+consumption,Mức độ tiêu thụ
+multiplier,Hệ số nhân
+breach_speed,Tốc độ Xâm nhập
+breached,Đã xâm nhập
+firewall,Tường lửa
+time_left,Thời gian còn lại
+vulnerable,Dễ bị tổn hại
+critical,Chí mạng
+completed,Đã hoàn thành
+ready,Sẵn sàng
+new_achievement,Thành tựu mới
+request_completed,Yêu cầu đã hoàn thành
+new_windows_processor,Node CPU mới
+new_windows_network,Node Mạng mới
+new_windows_gpu,Node GPU mới
+new_windows_research,Node Nghiên cứu mới
+new_windows_hacking,Node Hack mới
+new_windows_coding,Node Code mới
+new_windows_utilities,Node Đa dụng mới
+new_upgrades_available,Nâng cấp mới
+new_hack_level,Lên cấp Hack
+new_code_level,Lên cấp Đóng góp
+new_application_point,Điểm ứng dụng mới
+new_optimization_point,Điểm tối ưu hóa mới
+breach_bank_failed,Xâm nhập ngân hàng thất bại
+breach_bank_success,Xâm nhập ngân hàng thành công
+tool_cursor,Con trỏ
+tool_move,Di chuyển
+tool_selection,Chọn
+tool_connection_editor_on,Chỉnh sửa kết nối BẬT
+tool_connection_editor_off,Chỉnh sửa kết nối TẮT
+schematic_saved,Đã lưu bản vẽ
+hold_to_skip,Giữ để bỏ qua
+support_us,Hỗ trợ chúng tôi bằng cách mua vật phẩm và nhận huy hiệu!
+thank_you,Cảm Ơn Rất Nhiều!
+tokens_claimed,Đã nhận token premium
+resource_download_speed,Tốc độ tải xuống
+resource_download_speed_desc,Tốc độ tải xuống của mạng (bit/giây).
+resource_upload_speed,Tốc độ tải lên
+resource_upload_speed_desc,Tốc độ tải lên của mạng (bit/giây).
+resource_clock_speed,Tốc độ xung nhịp
+resource_clock_speed_desc,Tốc độ xung nhịp của Node CPU (hertz)
+resource_gpu_speed,Tốc độ GPU
+resource_gpu_speed_desc,Tốc độ GPU để xử lý song song (hertz)
+resource_research_power,Tốc độ nghiên cứu
+resource_research_power_desc,Tốc độ nghiên cứu file trên giây.
+resource_hack_power,Sức mạnh Hack
+resource_hack_power_desc,Tốc độ xâm nhập tỉ lệ với Cấp độ Hack.
+resource_code_speed,Tốc độ Code
+resource_code_speed_desc,Biến số chỉ tốc độ code tỉ lệ với Cấp độ Đóng góp.
+resource_boost_component,Tăng tốc Phần cứng
+resource_boost_component_desc,Tăng tốc phần cứng.
+resource_boost_research,Tăng tốc Nghiên cứu
+resource_boost_research_desc,Tăng Tốc độ Nghiên cứu.
+resource_boost_hack,Tăng tốc Hack
+resource_boost_hack_desc,Tăng Sức mạnh Hack
+resource_boost_code,Tăng tốc Code
+resource_boost_code_desc,Tăng Tốc độ Code.
+resource_overclock,Ép xung
+resource_overclock_desc,Cài đặt được dùng để tăng tốc độ phần cứng.
+resource_heat,Nhiệt
+resource_heat_desc,Tạo ra từ việc ép xung.
+resource_money,Tiền
+resource_money_desc,Đơn vị dùng để mở khóa nâng cấp.
+resource_research,Điểm nghiên cứu
+resource_research_desc,Đơn vị dùng để mở khóa công nghệ.
+resource_token,Token
+resource_token_desc,"Đơn vị hiếm dùng để mua độc quyền, tăng tốc, và dịch vụ."
+resource_infected_computer,Máy bị nhiễm
+resource_infected_computer_desc,Nhận được khi dùng Trojans hack vào các máy tính.
+resource_hack_experience,Kinh nghiệm Hack
+resource_hack_experience_desc,Tăng Cấp độ Hack; nhận được khi xâm nhập Anonymous
+resource_corporation_data,Dữ liệu Tổ chức
+resource_corporation_data_desc,Nhận được khi xâm nhập Tổ chức; dùng để nâng cấp xâm nhập.
+resource_government_data,Thông tin Chính phủ
+resource_government_data_desc,Nhận được khi xâm nhập Chính phủ; dùng để nâng cấp xâm nhập.
+resource_contribution,Đóng góp
+resource_contribution_desc,Tăng Cấp độ Đóng góp; nhận được khi commit code.
+resource_ai,Sức mạnh AI
+resource_ai_desc,Tăng tốc sản phẩm; nhận được từ neuron.
+resource_trojan,Trojan
+resource_trojan_desc,Xâm nhập vào máy tính khi được cấy vào trong file; sản phẩm tỉ lệ với Cấp độ Hack.
+resource_neuron_text,Neuron Chữ
+resource_neuron_text_desc,Nhận được từ việc train AI trên các file Chữ.
+resource_neuron_image,Neuron Ảnh
+resource_neuron_image_desc,Nhận được từ việc train AI trên các file Ảnh.
+resource_neuron_sound,Neuron Âm thanh
+resource_neuron_sound_desc,Nhận được từ việc train AI trên các file Âm thanh.
+resource_neuron_video,Neuron Video
+resource_neuron_video_desc,Nhận được từ việc train AI trên các file Video.
+resource_neuron_program,Neuron Ứng dụng
+resource_neuron_program_desc,Nhận được từ việc train AI trên các file Ứng dụng.
+resource_neuron_game,Neuron Game
+resource_neuron_game_desc,Nhận được từ việc train AI trên các file Game.
+resource_payload_damage,Sát thương Payload
+resource_infection_damage,Sát thương Nhiễm
+resource_vulnerability,Lỗ hỏng
+resource_vulnerability_desc,Tăng sát thương nhận được từ đối tượng đã bị xâm nhập; gây ra bởi Sức mạnh Hack
+resource_litecoin,Litecoin
+resource_bitcoin,Bitcoin
+resource_ethereum,Ethereum
+resource_bool,bool
+resource_bool_desc,Kiểu biến cơ bản nhận được từ việc code.
+resource_char,char
+resource_char_desc,Kiểu biến cơ bản nhận được từ việc code.
+resource_int,int
+resource_int_desc,Kiểu biến cơ bản nhận được từ việc code.
+resource_float,float
+resource_float_desc,Kiểu biến cơ bản nhận được từ việc code.
+resource_bitflag,BitFlag
+resource_bitflag_desc,Biến hỗn hợp từ việc code sử dụng bool + int.
+resource_bigint,BigInt
+resource_bigint_desc,Biến hỗn hợp từ việc code sử dụng int + int.
+resource_decimal,Decimal
+resource_decimal_desc,Biến hỗn hợp từ việc code sử dụng int + float.
+resource_string,String
+resource_string_desc,Biến hỗn hợp từ việc code sử dụng char + char.
+resource_vector,Vector
+resource_vector_desc,Biến hỗn hợp từ việc code sử dụng float + float.
+resource_array_bool,Array[bool]
+resource_array_bool_desc,Biến mảng sử dụng 1 tập bool.
+resource_array_char,Array[char]
+resource_array_char_desc,Biến mảng sử dụng 1 tập char.
+resource_array_int,Array[int]
+resource_array_int_desc,Biến mảng sử dụng 1 tập int.
+resource_array_float,Array[float]
+resource_array_float_desc,Biến mảng sử dụng một tập float.
+resource_array_bitflag,Array[BitFlag]
+resource_array_bitflag_desc,Biến mảng sử dụng một tập BitFlag.
+resource_array_bigint,Array[BigInt]
+resource_array_bigint_desc,Biến mảng sử dụng một tập BigInt.
+resource_array_decimal,Array[Decimal]
+resource_array_decimal_desc,Biến mảng sử dụng một tập Decimal.
+resource_array_string,Array[String]
+resource_array_string_desc,Biến mảng sử dụng một tập String.
+resource_array_vector,Array[Vector]
+resource_array_vector_desc,Biến mảng sử dụng một tập Vector.
+resource_hashmap_bool,HashMap[bool]
+resource_hashmap_bool_desc,Bảng băm sử dụng Array[String] và Array[bool].
+resource_hashmap_char,HashMap[char]
+resource_hashmap_char_desc,Bảng băm sử dụng Array[String] và Array[char].
+resource_hashmap_int,HashMap[int]
+resource_hashmap_int_desc,Bảng băm sử dụng Array[String] và Array[int].
+resource_hashmap_float,HashMap[float]
+resource_hashmap_float_desc,Bảng băm sử dụng Array[String] và Array[float].
+resource_hashmap_bitflag,HashMap[BitFlag]
+resource_hashmap_bitflag_desc,Bảng băm sử dụng Array[String] và Array[BitFlag].
+resource_hashmap_bigint,HashMap[BigInt]
+resource_hashmap_bigint_desc,Bảng băm sử dụng Array[String] và Array[BigInt].
+resource_hashmap_decimal,HashMap[Decimal]
+resource_hashmap_decimal_desc,Bảng băm sử dụng Array[String] và Array[Decimal].
+resource_hashmap_string,HashMap[String]
+resource_hashmap_string_desc,Bảng băm sử dụng Array[String] và Array[String].
+resource_hashmap_vector,HashMap[Vector]
+resource_hashmap_vector_desc,Bảng băm sử dụng Array[String] và Array[Vetor].
+resource_code_bugfix,Code Fix Lỗi
+resource_code_bugfix_desc,Code để sữa lỗi; có thể commit để chuyển đổi thành Đóng góp.
+resource_code_optimization,Code Tối ưu hóa
+resource_code_optimization_desc,Code để tối ưu hóa các phần code khác; có thể commit để chuyển đổi thành Đóng góp hoặc để xây dựng Điểm Tối ưu hóa.
+resource_code_application,Code Ứng dụng
+resource_code_application_desc,Code cho các ứng dụng; có thể commit để chuyển đổi thành Đóng góp hoặc để xây dựng Điểm Ứng dụng.
+resource_code_driver,Code Driver
+resource_code_driver_desc,Code cho các driver; có thể commit để tăng uy tín và để xây dựng các nâng cấp phần cứng.
+resource_text,Chữ
+resource_text_desc,File chữ dùng để tải lên và nghiên cứu.
+resource_image,Ảnh
+resource_image_desc,File ảnh dùng để tải lên và nghiên cứu.
+resource_sound,Âm thanh
+resource_sound_desc,File âm thành dùng để tải lên và nghiên cứu.
+resource_video,Video
+resource_video_desc,File video dùng để tải lên và nghiên cứu.
+resource_program,Ứng dụng
+resource_program_desc,File ứng dụng dùng để tải lên và nghiên cứu.
+resource_game,Game
+resource_game_desc,File game dùng để tải lên và nghiên cứu.
+window_processor,CPU
+window_processor_desc,Cho Tốc độ Xung nhịp
+window_synchronizer,Bộ Đồng bộ hóa
+window_synchronizer_desc,Kết hợp Xung nhịp từ nhiều lõi về làm một
+window_thread_manager,Bộ Quản lý Luồng
+window_thread_manager_desc,Chia Tốc độ Xung nhịp thành hai đầu ra
+window_processing_seller,Bán Tốc độ Xử lý
+window_processing_seller_desc,Bán Tốc độ Xung nhịp để đổi thành tiền
+window_virus_scanner,Trình Quét Virus
+window_virus_scanner_desc,Quét file tìm virus. File đã quét sẽ tăng 4x giá trị. File bị nhiễm sẽ giảm 4x
+window_quarantine,Trình Cách ly virus
+window_quarantine_desc,Loại bỏ virus khỏi file. File bị nhiễm sẽ giảm 4x giá trị
+window_antivirus_pro,BKAV Pro
+window_antivirus_pro_desc,"Quét và loại bỏ virus khỏi file, tăng 4x giá trị"
+window_verifier,Xác minh Checksum
+window_enhancer,Bộ Tăng cường
+window_enhancer_desc,Tăng 2x giá trị nhưng cũng tăng 2x kích thước file
+window_compressor,Bộ Nén
+window_compressor_desc,File đã nén sẽ giảm 2x kích thước
+window_encompressor,Bộ Tăng Nén 2 trong 1
+window_encompressor_desc,"Vừa tăng cường file, vừa nén file, tăng 2x giá trị và giảm 2x kích thước file"
+window_decompiler,Bộ Giải mã
+window_decompiler_desc,Giải mã Ứng dụng thành file Chữ
+window_decomposer,Bộ Phân tích
+window_decomposer_desc,Phân tính Video thành Ảnh
+window_demuxer,Bộ Tách âm
+window_demuxer_desc,Tách Video thành Âm Thanh
+window_scrapper,Scrapper
+window_scrapper_desc,Chuyển đổi Game thành Video
+window_ripper,Ripper
+window_ripper_desc,Chuyển đổi Game thành Ứng dụng
+window_movie_maker,Movie Maker
+window_movie_maker_desc,Làm Video từ Ảnh và Âm thanh
+window_compiler,Bộ Phiên dịch
+window_compiler_desc,Phiên dịch file Chữ thành Ứng dụng
+window_game_engine,Game Engine
+window_game_engine_desc,Làm Game từ Ứng dụng và Video
+window_refiner,Máy Làm giàu Dữ liệu
+window_refiner_desc,Làm giàu file để tăng 100% giá trị nghiên cứu
+window_analyzer,Bộ Phân tích sẵn
+window_analyzer_desc,Phân tích file sẵn để tăng 100% tốc độ nghiên cứu
+window_distillator,Bộ Chưng cất Tri thức
+window_distillator_desc,Chưng cất tri thức từ file để tăng 100% lượng neuron nhận được
+window_network,Mạng
+window_network_desc,Cho Tốc độ Tải lên và Tải xuống
+window_download_merger,Bộ hợp nhất Tải xuống
+window_download_merger_desc,Hợp nhất nhiều luồng Tải xuống vào làm một
+window_upload_merger,Bộ hợp nhất Tải lên
+window_upload_merger_desc,Hợp nhất nhiều luồng Tải lên vào làm một
+window_download_manager,Trình Quản lý Tải xuống
+window_download_manager_desc,Tải xuống mọi loại file với tỉ lệ người dùng đặt ra
+window_downloader,Trình tải xuống
+window_downloader_text,Trình tải file Chữ
+window_downloader_text_desc,Tải file Chữ với Tốc độ Tải xuống
+window_downloader_image,Trình tải Ảnh
+window_downloader_image_desc,Tải file Ảnh với Tốc độ Tải xuống
+window_downloader_sound,Trình tải Âm thanh
+window_downloader_sound_desc,Tải file Âm thanh với Tốc độ Tải xuống
+window_downloader_video,Trình tải Video
+window_downloader_video_desc,Tải file Video với Tốc độ Tải xuống
+window_downloader_program,Trình tải Ứng dụng
+window_downloader_program_desc,Tải file Ứng dụng với Tốc độ Tải xuống
+window_downloader_game,Trình tải Game
+window_downloader_game_desc,Tải file Game với Tốc độ Tải xuống
+window_redownloader,Trình Tải lại
+window_server,Server
+window_uploader,Trình tải lên
+window_uploader_desc,Tải lên file với Tốc độ Tải lên để kiếm tiền
+window_request_uploader,Trình tải lên theo yêu cầu
+window_request_uploader_desc,Tải lên file được yêu cầu để đổi lấy token
+window_gpu_cluster,Cụm GPU
+window_gpu_cluster_desc,Cung cấp Tốc độ GPU
+window_gpu_synchronizer,Bộ đồng bộ hóa GPU
+window_gpu_synchronizer_desc,Kết hợp nhiều nguồn Tốc độ GPU thành một
+window_mine,Đào tiền ảo
+window_mine_litecoin,Đào Litecoin
+window_mine_litecoin_desc,"Sử dụng Tốc độ GPU để đào Litecoin, đồng tiền ảo với độ biến động thấp"
+window_mine_bitcoin,Đào Bitcoin
+window_mine_bitcoin_desc,"Sử dụng Tốc độ GPU để đào Bitcoin, đồng tiền ảo với độ biến động vừa"
+window_mine_ethereum,Đào Ethereum
+window_mine_ethereum_desc,"Sử dụng Tốc độ GPU để đào Ethereum, đồng tiền ảo với độ biến động cao"
+window_mine_tether,Đào Tether
+window_mine_tether_desc,"Sử dụng Tốc độ GPU để đào Tether, đồng tiền ảo không có biến động. Tự động chuyển thành tiền"
+window_mine_token,Đào token
+window_mine_token_desc,Sử dụng Tốc độ GPU để đào token
+window_crypto_seller,Bán Tiền ảo
+window_crypto_seller_desc,Bán tiền ảo để đổi lấy tiền
+window_auto_crypto_seller,Tự động Bán Tiền ảo
+window_auto_crypto_seller_desc,Bán tiền ảo tự động để đổi lấy tiền
+window_task_scheduler,Lập lịch
+window_task_scheduler_desc,Chuyển hóa Tốc độ GPU thành Tốc độ Xung nhịp
+window_movie_renderer,Trình Render Phim
+window_movie_renderer_desc,Tạo Video từ file Ảnh và Âm thanh
+window_trainer,Bộ train AI
+window_file_generator,Trình tạo File
+window_generator_text,Trình tạo file Chữ
+window_generator_text_desc,Tạo file Chữ tùy chỉnh sử dụng Neuron Chữ
+window_generator_image,Trình tạo Ảnh
+window_generator_image_desc,Tạo file Ảnh tùy chỉnh sử dụng Neuron Ảnh
+window_generator_sound,Trình tạo Âm thanh
+window_generator_sound_desc,Tạo file Âm thanh tùy chỉnh sử dụng Neuron Âm thanh
+window_generator_video,Trình tạo Video
+window_generator_video_desc,Tạo file Video tùy chỉnh sử dụng Neuron Video
+window_generator_program,Trình tạo Ứng dụng
+window_generator_program_desc,Tạo file Ứng dụng tùy chỉnh sử dụng Neuron Ứng dụng
+window_generator_game,Trình tạo Game
+window_generator_game_desc,Tạo file Game tùy chỉnh sử dụng Neuron Game
+window_data_lab,Thí nghiệm Dữ liệu
+window_data_lab_desc,Sử dụng file để tạo ra Điểm nghiên cứu
+window_agi,Lõi AGI
+window_agi_desc,Cung cấp Sức mạnh AI dựa trên số lượng neuron đã nhập
+window_research,Nghiên cứu
+window_research_desc,Cung cấp Tăng tốc Nghiên cứu sử dụng Sức mạnh AI
+window_hack,Hack
+window_hack_desc,Cung cấp Tăng tốc Hack sử dụng Sức mạnh AI
+window_code,Code
+window_code_desc,Cung cấp Tăng tốc Code sử dụng Sức mạnh AI
+window_hacker,Giao diện Hack
+window_hacker_desc,Cung cấp Sức mạnh Hack dựa trên Kinh nghiệm Hack
+window_payload_launcher,Khởi chạy Payload
+window_payload_launcher_desc,Xây dựng Sát thương Payload sử dụng Sức mạnh Hack để dùng xâm nhập các đối tượng
+window_build_infection,Xây dựng Nhiễm mã
+window_build_infection_desc,Xây dựng Sát thương Nhiễm sử dụng Sức mạnh Hack để dùng xâm nhập các đối tượng
+window_execute_injection,Thực thi Tiêm mã
+window_execute_injection_desc,"Sử dụng Sức mạnh Hack để tạo ra Lỗ hỏng, sử dụng để làm yếu đối tượng"
+window_infect_payload,Payload Nhiễm mã
+window_critical_payload,Payload Chí mạng
+window_ghost_attack,Tấn công Ma
+window_breach_anonymous,Xâm nhập Anonymous
+window_breach_anonymous_desc,"Bắt đầu xâm nhập vào anonymous, nhận Kinh nghiệm Hack nếu thành công"
+window_breach_corps,Xâm nhập Tổ chức
+window_breach_corps_desc,"Bắt đầu xâm nhập vào các tổ chức, chiếm đoạt Thông tin Tổ chức nếu thành công"
+window_breach_government,Xâm nhập Chính phủ
+window_breach_government_desc,"Bắt đầu xâm nhập vào chính phủ, chiếm đoạt Thông tin mật Chính phủ nếu thành công"
+window_breach_bank,Xâm nhập Ngân hàng
+window_breach_bank_desc,"Bắt đầu xâm nhập ngân hàng, nhận Token nếu thành công"
+window_drain,Rút cạn
+window_drain_desc,Tạo ra tăng tốc cho phần cứng dựa trên các Máy bị Nhiễm
+window_coder,Giao diện Code
+window_coder_desc,Cung cấp Tốc độ Code
+window_ide,IDE
+window_ide_desc,Tạo ra các kiểu biến cơ bản với tỉ lệ tùy chỉnh
+window_code_variable,Code Biến số
+window_code_bool,Code bool
+window_code_bool_desc,Tạo ra biến kiểu bool với Tốc độ Code
+window_code_char,Code char
+window_code_char_desc,Tạo ra biến kiểu char với Tốc độ Code
+window_code_int,Code int
+window_code_int_desc,Tạo ra biến kiểu int với Tốc độ Code
+window_code_float,Code float
+window_code_float_desc,Tạo ra biến kiểu float với Tốc độ Code
+window_variable_combiner,Kết hợp Biến số
+window_variable_combiner_desc,Tạo ra các biến số cao cấp dựa trên các biến số cơ bản được nhập vào
+window_code_array,Mảng mới
+window_code_array_desc,Tạo ra mảng (array) dựa trên các biến số
+window_code_hashmap,Bảng băm mới
+window_code_hashmap_desc,Tạo ra bảng băm (hashmap) từ mảng String và một mảng khác
+window_commit,Commit
+window_commit_desc,Commit code để đổi lấy Đóng góp
+window_build,Xây dựng
+window_build_desc,"Xây dựng tối ưu hóa, ứng dụng và driver"
+window_code_bugfix,Code Sửa Lỗi
+window_code_bugfix_desc,Code các bản sửa lỗi sử dụng các kiểu biến cơ bản
+window_code_optimization,Code Tối ưu hóa
+window_code_optimization_desc,Code các bản tối ưu hóa sử dụng các biến nâng cao
+window_code_application,Code Ứng dụng
+window_code_application_desc,Code ứng dụng sử dụng các mảng
+window_code_driver,Code Driver
+window_code_driver_desc,Code driver sử dụng các bảng băm
+window_debug,Chế độ sửa lỗi
+window_fix_code,Sửa Code
+window_optimize_code,Tối ưu hóa Code
+window_collect,Bộ thu thập
+window_collect_desc,Thu thập tài nguyên để sử dụng bên ngoài desktop
+window_auto_collect,Bộ thu thập tự động
+window_auto_collect_desc,Tự động thu thập tài nguyên để sử dụng bên ngoài desktop
+window_inventory,Kho chứa
+window_inventory_desc,Chứa tài nguyên cùng loại và kết hợp chúng thành 1 đầu ra duy nhất
+window_splitter,Bộ chia
+window_splitter_desc,Chia tài nguyên thành 2 đầu ra
+window_folder,Thư mục
+window_folder_desc,Chứa các file cùng loại và kết hợp chúng thành 1 đầu ra duy nhất
+window_allocator,Bộ phân bổ
+window_allocator_desc,Phân bổ các file thành 2 đầu ra
+window_repository,Repository
+window_repository_desc,Chứa các nguyên tố cùng loại và kết hợp chúng thành 1 đầu ra duy nhất
+window_segmenter,Bộ phân mảnh
+window_segmenter_desc,Chia nguyên tố thành 2 đầu ra
+window_container,Container
+window_container_desc,Chứa nguyên liệu cùng loại và kết hợp chúng thành 1 đầu ra duy nhất
+window_distributor,Bộ phân phối
+window_distributor_desc,Phân phối nguyên liệu thành 2 đầu ra
+window_group,Nhóm Node
+window_group_desc,Nhóm các node lại để dễ dàng quản lý và tăng tính gọn gàng
+window_bin,Thùng rác
+window_network_exchanger,Bộ chuyển đổi mạng
+window_network_exchanger_desc,Chuyển đổi Tốc độ Tải lên thành xuống và xuống thành lên
+window_overclocker,Ép xung
+window_overclocker_desc,Đặt lượng xung cần tăng
+window_heat_sink,Tản nhiệt nhôm
+window_heat_sink_desc,Phân bổ nhiệt độ sinh ra từ việc ép xung
+window_air_cooler,Quạt tản nhiệt
+window_water_cooler,Tản nhiệt nước
+window_jet_cooler,Quạt tản nhiệt phản lực
+window_cryo_cooler,Tản nhiệt đông lạnh
+window_thermal_field_generator,Máy phát trường nhiệt
+upgrade_premium_texts,File Chữ Xịn
+upgrade_premium_texts_desc,Tăng giá trị file Chữ lên 100%
+upgrade_processor,Bộ xử lý trung tâm
+upgrade_processor_desc,Mở khóa CPU
+upgrade_request_uploader,Vé tải lên
+upgrade_request_uploader_desc,"Mở khóa Trình tải lên theo yêu cầu, cho phép tải lên theo các yêu cầu để đổi lấy token"
+upgrade_image_downloader,Trình tải Ảnh
+upgrade_image_downloader_desc,Mở khóa Trình tải Ảnh
+upgrade_antivirus,Trình quét Virus
+upgrade_antivirus_desc,"Mở khóa Trình quét Virus, quét file tìm virus và tăng giá trị file"
+upgrade_antivirus_plus,Trình quét Virus+
+upgrade_antivirus_plus_desc,"Mở khóa Trình cách ly virus, loại từ virus từ file và tăng giá trị file"
+upgrade_premium_images,Ảnh Xịn
+upgrade_premium_images_desc,Tăng giá trị file Ảnh lên 100%
+upgrade_sound_downloader,Trình tải Âm thanh
+upgrade_sound_downloader_desc,Mở khóa Trình tải Âm thanh
+upgrade_gpu,Bộ xử lý đồ họa
+upgrade_gpu_desc,Mở khóa GPU
+upgrade_premium_sounds,Âm thanh Xịn
+upgrade_premium_sounds_desc,Tăng giá trị file Âm thanh lên 100%
+upgrade_video_downloader,Trình tải Video
+upgrade_video_downloader_desc,Mở khóa Trình tải Video
+upgrade_premium_videos,Video Xịn
+upgrade_premium_videos_desc,Tăng giá trị file Video lên 100%
+upgrade_research,Nghiên cứu
+upgrade_research_desc,Mở khóa nghiên cứu và Phòng thí nghiệm Thông tin
+upgrade_program_downloader,Trình tải Ứng dụng
+upgrade_program_downloader_desc,Mở khóa Trình tải Ứng dụng
+upgrade_premium_programs,Ứng dụng Xịn
+upgrade_premium_programs_desc,Tăng giá trị file Ứng dụng lên 100%
+upgrade_game_downloader,Trình tải Game
+upgrade_game_downloader_desc,Mở khóa Trình tải Game
+upgrade_premium_games,Game Xịn
+upgrade_premium_games_desc,Tăng giá trị file Game lên 100%
+upgrade_improved_ai_texts,Tạo file Chữ Nâng cao
+upgrade_improved_ai_texts_desc,Tăng giá trị file Chữ được AI tạo lên 100%
+upgrade_improved_ai_images,Tạo Ảnh Nâng cao
+upgrade_improved_ai_images_desc,Tăng giá trị file Ảnh được AI tạo lên 100%
+upgrade_improved_ai_sounds,Tạo Âm thanh Nâng cao
+upgrade_improved_ai_sounds_desc,Tăng giá trị file Âm thanh được AI tạo lên 100%
+upgrade_improved_ai_videos,Tạo Video Nâng cao
+upgrade_improved_ai_videos_desc,Tăng giá trị file Video được AI tạo lên 100%
+upgrade_improved_ai_programs,Tạo Ứng dụng Nâng cao
+upgrade_improved_ai_programs_desc,Tăng giá trị file Ứng dụng được AI tạo lên 100%
+upgrade_improved_ai_games,Tạo Game Nâng cao
+upgrade_improved_ai_games_desc,Tăng giá trị file Game được AI tạo lên 100%
+upgrade_heat_sink,Tản nhiệt Nhôm
+upgrade_heat_sink_desc,Tăng số lượng Tản nhiệt Nhôm lên 1
+upgrade_server,Server
+upgrade_processing_value_multiplier,Giá trị Xử lý
+upgrade_processing_value_multiplier_desc,Tăng lượng tiền nhận được từ node Bán Tốc độ Xử lý lên 100% theo cấp số nhân
+upgrade_mining_multiplier,Giá trị Tiền ảo
+upgrade_mining_multiplier_desc,Tăng giá trị tiền thu được khi bán tiền ảo lên 100% theo cấp số nhân
+upgrade_hack_breach_damage,Sát thương Payload
+upgrade_hack_breach_damage_desc,Tăng Sát thương Payload lên 10%
+upgrade_hack_breach_speed,Tốc độ Xâm nhập
+upgrade_hack_breach_speed_desc,Tăng Tốc độ Xâm nhập lên 4%
+upgrade_hack_breach_critical_chance,Tỉ lệ Chí mạng
+upgrade_hack_breach_critical_chance_desc,Tăng 2% tỉ lệ tạo ra sát thương chí mạng
+upgrade_hack_breach_critical_multiplier,Sát thương Chí mạng
+upgrade_hack_breach_critical_multiplier_desc,Tăng sát thương chí mạng lên 12%
+upgrade_hack_infection_damage,Sát thương Nhiễm
+upgrade_hack_infection_damage_desc,Tăng Sát thương Nhiễm lên 10%
+upgrade_hack_infection_specialist,Chuyên môn gây Nhiễm
+upgrade_hack_infection_specialist_desc,Tăng Sát thương Nhiễm lên 100%. Giảm Sát thương Payload đi 40%
+upgrade_hack_sneak_attack,Tấn công Lén lút
+upgrade_hack_sneak_attack_desc,Tăng giới hạn thời gian xâm nhập lên 1 giây
+upgrade_hack_spoil,Làm hỏng hóc
+upgrade_hack_spoil_desc,Tăng phần thưởng xâm nhập lên 100%
+upgrade_breach_money_multiplier,Trao đổi Thông tin mật
+upgrade_breach_money_multiplier_desc,Tăng lượng tiền kiếm được lên 20% theo cấp số nhân
+upgrade_breach_research_multiplier,Gián điệp
+upgrade_breach_research_multiplier_desc,Tăng lượng điểm Nghiên cứu nhận được lên 20% theo cấp số nhân
+upgrade_breach_price_multiplier,Tống tiền
+upgrade_breach_price_multiplier_desc,Giảm 5% chi phí
+upgrade_breach_research_speed_multiplier,Nghiên cứu Vô đạo đức
+upgrade_breach_research_speed_multiplier_desc,Tăng tốc độ nghiên cứu lên 10%
+upgrade_breach_government_layers,Phá hoại Chính phủ
+upgrade_breach_government_layers_desc,Giảm lớp phòng thủ của chính phủ đi 10% theo cấp số nhân
+upgrade_breach_corporation_layers,Phá hoại Tổ chức
+upgrade_breach_corporation_layers_desc,Giảm lớp phòng thủ của tổ chức đi 10% theo cấp số nhân
+upgrade_optimization,Tối ưu hóa
+upgrade_optimization_desc,Nhận 1 điểm tối ưu hóa
+upgrade_application,Ứng dụng
+upgrade_application_desc,Nhận 1 điểm ứng dụng
+upgrade_driver,Driver
+upgrade_driver_desc,Tăng hiệu năng các thành phần
+upgrade_optimization_download_size,Tải xuống nén
+upgrade_optimization_download_size_desc,Giảm kích thước file khi tải đi một nửa
+upgrade_optimization_upload_size,Tải lên nén
+upgrade_optimization_upload_size_desc,Giảm kích thước file khi tải lên đi một nửa
+upgrade_optimization_hashing,Tối ưu hàm băm
+upgrade_optimization_hashing_desc,Giảm chu kỳ xung cần thiết để đào tiền ảo đi một nửa
+upgrade_optimization_virus_scanner,Tối ưu Quét Virus
+upgrade_optimization_virus_scanner_desc,Giảm chu kỳ xung cần thiết của Trình Quét Virus đi một nửa
+upgrade_optimization_quarantine,Tối ưu Trình cách ly virus
+upgrade_optimization_quarantine_desc,Giảm chu kỳ xung cần thiết của Trình Cách ly virus đi một nửa
+upgrade_optimization_verifier,Tối ưu Kiểm tra Toàn vẹn
+upgrade_optimization_verifier_desc,Giảm chu kỳ xung cần thiết của Trình Xác minh vẹn đi một nửa
+upgrade_optimization_compression,Tối ưu Nén
+upgrade_optimization_compression_desc,Giảm chu kỳ xung cần thiết của Bộ nén đi một nửa
+upgrade_optimization_enhancement,Tối ưu Tăng cường
+upgrade_optimization_enhancement_desc,Giảm chu kỳ xung cần thiết của Bộ tăng cường đi một nửa
+upgrade_optimization_refinement,Tối ưu Làm giàu
+upgrade_optimization_refinement_desc,Giảm chu kỳ xung cần thiết của Máy làm giàu dữ liệu đi một nửa
+upgrade_optimization_analysis,Tối ưu Phân tích trước
+upgrade_optimization_analysis_desc,Giảm chu kỳ xung cần thiết của Bộ phân tích trước đi một nửa
+upgrade_optimization_distillation,Tối ưu Chưng cất
+upgrade_optimization_distillation_desc,Giảm chu kỳ xung cần thiết của Bộ chưng cất dữ liệu đi một nửa
+upgrade_optimization_decompiler,Tối ưu Giải mã
+upgrade_optimization_decompiler_desc,Giảm chu kỳ xung cần thiết của Bộ giải mã đi một nửa
+upgrade_optimization_decomposer,Tối ưu Phân tích
+upgrade_optimization_decomposer_desc,Giảm chu kỳ xung cần thiết của Bộ phân tích đi một nửa
+upgrade_optimization_demuxer,Tối ưu Tách âm
+upgrade_optimization_demuxer_desc,Giảm chu kỳ xung cần thiết của Bộ tách âm đi một nửa
+upgrade_optimization_scrapper,Tối ưu Scrapper
+upgrade_optimization_scrapper_desc,Giảm chu kỳ xung cần thiết của Scrapper đi một nửa
+upgrade_optimization_ripper,Tối ưu Ripper
+upgrade_optimization_ripper_desc,Giảm chu kỳ xung cần thiết của Ripper đi một nửa
+upgrade_optimization_movie_maker,Tối ưu Render
+upgrade_optimization_movie_maker_desc,Giảm chu kỳ xung cần thiết của Movie Maker đi một nửa
+upgrade_optimization_compiler,Tối ưu Phiên dịch
+upgrade_optimization_compiler_desc,Giảm chu kỳ xung cần thiết của Bộ phiên dịch đi một nửa
+upgrade_optimization_game_engine,Tối ưu Game Engine
+upgrade_optimization_game_engine_desc,Giảm chu kỳ xung cần thiết của Game Engine đi một nửa
+upgrade_optimization_trainer,Tối ưu Học
+upgrade_optimization_trainer_desc,Giảm chu kỳ xung cần thiết của node Train AI đi một nửa
+upgrade_optimization_movie_renderer,Tối ưu Render GPU
+upgrade_optimization_movie_renderer_desc,Giảm chu kỳ xung cần thiết của Trình render phim đi một nửa
+upgrade_optimization_encompressor,Tối ưu Tăng Nén
+upgrade_optimization_encompressor_desc,Giảm chu kỳ xung cần thiết của Bộ Tăng Nén 2 trong 1 đi một nửa
+research_research,Nghiên cứu
+research_verifier,Xác minh Checksum
+research_verifier_desc,"Mở khóa trình Xác minh, xác minh tính toàn vẹn của file để tăng giá trị của chúng"
+research_redownload,Tải lại
+research_redownload_desc,"Mở khóa Trình tải lại, tải lại các file bị hỏng để tăng giá trị của chúng"
+research_synchronizer,Song song song song
+research_synchronizer_desc,"Mở khóa các node Đồng bộ, cho phép các lõi CPU và GPU hoạt động một cách đồng bộ"
+research_network_exchanger,Trao đổi Mạng
+research_network_exchanger_desc,Chuyển đổi Tốc độ Tải lên thành Tốc độ tải xuống và ngược lại
+research_network_merging,Gộp Mạng
+research_network_merging_desc,"Mở khóa Bộ gộp Tải lên/xuống, cho phép cả 2 tốc độ có thể được gom lại thành một"
+research_scheduler,Lập lịch
+research_scheduler_desc,"Mở khóa Trình lập lịch, cho phép chuyển đổi Tốc độ GPU thành Tốc độ Xung nhịp"
+research_compression_level2,Nén đôi
+research_compression_level3,Nén ba
+research_compression_level_desc,Tăng số lần có thể nén file lên 1
+research_enhancement_level2,Tăng cường gấp đôi
+research_enhancement_level3,Tăng cường gấp ba
+research_enhancement_level_desc,Tăng số lần có thể tăng cường file lên 1
+research_bitcoin,Đào Bitcoin
+research_bitcoin_desc,"Mở khóa khả năng đào Bitcoin, đồng tiền có độ biến động vừa"
+research_hacking,Hacking
+research_hacking_desc,Mở khóa truy cập vào hacking
+research_breach_corporation,Xâm nhập Tổ chức
+research_breach_corporation_desc,Mở khóa khả năng xâm nhập tổ chức và trộm đi dữ liệu bí mật vì mục đích kiếm tiền
+research_breach_bank,Xâm nhập Ngân hàng
+research_infection_damage,Sát thương Nhiễm
+research_infection_damage_desc,Mở khóa khả năng xây dựng Sát thương Nhiễm
+research_breach_government,Xâm nhập Chính phủ
+research_breach_government_desc,Mở khóa khả năng xâm nhập vào các trụ sở chính phủ và trộm thông tin vì mục đích nghiên cứu
+research_infect_payload,Payload Nhiễm
+research_infect_payload_desc,"Mở khóa kỹ năng Payload Nhiễm, cho phép Sát thương Payload nhận thêm Sát thương Nhiễm"
+research_critical_payload,Payload Chí mạng
+research_critical_payload_desc,"Mở khóa kỹ năng Payload Chí mạng, cho phép Sát thương Payload có cơ hội tăng một cách đáng kể"
+research_ghost_attack,Tấn công Ma
+research_ghost_attack_desc,"Mở khóa kỹ năng Tấn công Ma, cho phép bất kỳ sát thương nào bỏ qua tường lửa"
+research_injection,Tiêm
+research_injection_desc,"Mở khóa kỹ năng Làm lộ Điểm yếu, làm cho mục tiêu xâm nhập nhận nhiều sát thương hơn dựa trên Sức mạnh Hack"
+research_trojan,Trojan
+research_refinement,Làm giàu Dữ liệu
+research_refinement_desc,"Mở khóa Bộ Làm giàu Dữ liệu, làm giàu file để tăng giá trị nghiên cứu"
+research_analysis,Phân tích sẵn
+research_analysis_desc,"Mở khóa Bộ Phân tích sẵn, phân tích trước các file để tăng tốc độ nghiên cứu"
+research_coding,Coding
+research_coding_desc,Mở khóa truy cập vào coding
+research_optimizations,Tối ưu hóa
+research_optimizations_desc,"Mở khóa truy cập vào kết hợp biến, tối ưu hóa code và xây dựng"
+research_applications,Ứng dụng
+research_applications_desc,Mở khóa truy cập vào Mảng và code ứng dụng
+research_drivers,Drivers
+research_drivers_desc,Mở khóa truy cập vào Bảng băm (HashMap) và code driver
+research_debugging,Sửa lỗi
+research_debugging_desc,"Mở khóa truy cập vào công cụ sửa lỗi, kiểm tra code xem code đã fix lỗi hay vẫn có lỗi"
+research_code_optimization,Tối ưu hóa Code
+research_code_optimization_desc,"Mở khóa truy cập vào tối ưu hóa code, tối ưu code để tăng giá trị của chúng"
+research_portal,Cổng
+research_ethereum,Đào Ethereum
+research_ethereum_desc,"Mở khóa khả năng đào Ethereum, đồng tiền có tính đột biến cao"
+research_token_mining,Đào token
+research_token_mining_desc,Mở khóa tính năng đào Token
+research_ai,Trí tuệ nhân tạo
+research_ai_texts,Mô hình ngôn ngữ lớn
+research_ai_texts_desc,Mở khóa truy cập vào tạo file Chữ
+research_ai_images,Diffusion
+research_ai_images_desc,Mở khóa truy cập vào tạo file Ảnh
+research_ai_sounds,Vocoder Network
+research_ai_sounds_desc,Mở khóa truy cập vào tạo file Âm thanh
+research_ai_videos,Video Transformer
+research_ai_videos_desc,Mở khóa truy cập vào tạo file Video
+research_ai_programs,Program Synthesis
+research_ai_programs_desc,Mở khóa truy cập vào tạo file Ứng dụng
+research_ai_games,Procedural Simulation
+research_ai_games_desc,Mở khóa truy cập vào làm Game
+research_overclocking,Ép xung
+research_overclocking_desc,"Mở khóa khả năng ép xung cho các thành phần, tăng tốc hiệu năng"
+research_distillation,Chưng cất Dữ liệu
+research_distillation_desc,"Mở khóa Bộ chưng cất dữ liệu, tăng cường sản suất neuron"
+research_cooling,Làm mát
+research_cooling_desc,"Mở khóa Tản nhiệt Nhôm, cho phép Nhiệt được tản ra từ việc ép xung"
+research_agi,Trí tuệ nhân tạo tổng quát
+research_agi_desc,"Mở khóa AGI, tăng tốc sản suất dựa trên số lượng neuron"
+perk_auto_collect,Tự động Thu thập
+perk_auto_collect_desc,"Mở khóa node Tự thu thập, tự động thu thập các tài nguyên được bỏ vào"
+perk_groups,Nhóm Node
+perk_groups_desc,"Mở khóa Nhóm Node, nhóm và duy chuyển các Node cùng lúc"
+perk_network_limiter,Giới hạn Mạng
+perk_network_limiter_desc,"Mở khóa node Giới hạn Mạng, cho phép tải lên và xuống được chia ra với các tỉ lệ khác nhau"
+perk_cheapskate,Keo kiệt
+perk_cheapskate_desc,Giảm chi phí đi 5%
+perk_download_manager,Trình quản lý tải xuống
+perk_download_manager_desc,"Mở khóa trình quản lý tải xuống, cho phép tất cả các file được tải xuống với tỉ lệ cụ thể"
+perk_antivirus_pro,BKAV Pro
+perk_antivirus_pro_desc,"Mở khóa Trình dọn virus chuyên nghiệp, quét và loại bỏ virus từ các file"
+perk_token_multiplier,May mắn
+perk_token_multiplier_desc,Tăng số lượng token xuất hiện ngẫu nhiên nhận được lên 1
+perk_max_rest_time,Bộ đệm thời gian
+perk_max_rest_time_desc,Tăng giới hạn Thời gian Nghỉ lên 30 giây
+perk_rest_time_multiplier,Xúc tác nhàn rỗi
+perk_rest_time_multiplier_desc,Tăng số lượng Thời gian Nghỉ nhận được lên 10%
+perk_thread_manager,Quản lý Luồng
+perk_thread_manager_desc,"Mở khóa node Quản lý Luồng, cho phép Tốc độ Xung nhịp được chia thành các tỉ lệ khác nhau"
+perk_plus_network,Hai mạng
+perk_plus_network_desc,Tăng số lượng node Mạng lên 1
+perk_mine_tether,Đào Tether
+perk_mine_tether_desc,"Mở khóa đào Tether, đồng tiền ảo ổn định được quy đổi thẳng thành tiền"
+perk_automated_crypto_seller,Tự động bán tiền ảo
+perk_automated_crypto_seller_desc,"Mở khóa node Tự bán tiền ảo, bán tiền ảo tự động"
+perk_plus_laboratory,Nghiên cứu sâu rộng
+perk_plus_laboratory_desc,Tăng giới hạn node Phòng thí nghiệm lên 1
+perk_system_upgrade,Nâng cấp Hệ thống
+perk_system_upgrade_desc,Tăng hiệu năng toàn bộ hệ thống lên 20% theo cấp số nhân
+perk_hack_specialization,Chuyên môn Hack
+perk_hack_specialization_desc,Tăng Sức mạnh Hack lên 20% theo cấp số nhân
+perk_code_specialization,Chuyên môn Code
+perk_code_specialization_desc,Tăng Tốc độ Code lên 20% theo cấp số nhân
+perk_ide,IDE
+perk_ide_desc,"Mở khóa IDE, cho phép các biến số được code với tỉ lệ cụ thể"
+premium_daily_tokens,Token mỗi ngày
+premium_daily_tokens_desc,"Nhận ngay 1400 token
+Nhận 200 token mỗi ngày
++1 Cấp độ hỗ trợ"
+premium_token_pack,Gói token
+premium_token_pack_desc,"Nhận ngay 5000 token
++1 Cấp độ hỗ trợ"
+premium_chronomancer,Máy tạo thời gian
+premium_chronomancer_desc,"Gấp đôi tốc độ và giới hạn Thời gian Nghỉ
+Tạo ra Thời gian Nghỉ ngay cả khi online
++1 Cấp độ hỗ trợ"
+premium_permanent_boost,Tăng tốc Vĩnh viễn
+premium_permanent_boost_desc,"Các tăng tốc trở nên vĩnh viễn
++1 Cấp hỗ trợ"
+boost_money,Máy in tiền
+boost_money_desc,Tăng gấp đôi tiền thu vào trong 10 phút
+boost_bandwidth,Chiếm đoạt tên miền
+boost_bandwidth_desc,Gấp đôi tốc độ mạng trong 10 phút
+boost_clock,Ép xung
+boost_clock_desc,Gấp đôi Tốc độ Xung nhịp trong 10 phút
+boost_gpu,Quá nhiệt
+boost_gpu_desc,Gấp đôi Tốc độ GPU trong 10 phút
+boost_research,Nghiên cứu chọn lọc
+boost_research_desc,Gấp đôi Tốc độ Nghiên cứu trong 10 phút
+boost_hack_power,Tăng cường Payload
+boost_hack_power_desc,Gấp đôi Sức mạnh Hack trong 10 phút
+boost_code_speed,Phân chia Luồng
+boost_code_speed_desc,Gấp đôi Tốc độ Code trong 10 phút
+service_hack_reset,Tái cấu hình
+service_hack_reset_desc,Reset và hoàn trả tất cả điểm hack và các nâng cấp
+service_optimization_reset,Ôn tập
+service_optimization_reset_desc,Reset và hoàn trả tất cả điểm tối ưu hóa và các nâng cấp
+service_application_reset,Tải lại
+service_application_reset_desc,"Reset và hoàn trả tất cả điểm ứng dụng, các nâng cấp và các node"
+build_limit_reached,Lỗi: lượng node đạt giới hạn
+placement_error,Một hoặc một số node không thể được đặt xuống
+stats_max_money,Tổng tiền
+stats_max_research,Tổng điểm nghiên cứu
+stats_max_infections,Tổng lượng nhiễm
+stats_max_tokens,Tổng số token
+stats_downloads,Tổng số tải xuống
+stats_uploads,Tổng số tải lên
+stats_scanned,Số lượng file đã quét
+stats_quarantined,Số lượng file đã cách ly
+stats_verified,Số lượng file đã xác minh
+stats_redownloaded,Số lượng file đã tải lại
+stats_compressed,Số lượng file đã nén
+stats_enhanced,Số lượng file đã tăng cường
+stats_refined,Số lượng file đã làm giàu
+stats_analyzed,Số lượng file đã phân tích sẵn
+stats_distilled,Số lượng file đã chưng cất
+stats_researched,Số lượng file đã nghiên cứu
+stats_max_hack_experience,Tổng kinh nghiệm hack
+stats_max_corporation_data,Tổng dữ liệu tổ chức
+stats_max_government_intel,Tổng thông tin chính phủ
+stats_anonymous_breached,Số lần xâm nhập Anonymous
+stats_corporation_breached,Số lần xâm nhập tổ chức
+stats_government_breached,Số lần xâm nhập chính phủ
+stats_bank_breached,Số lần xâm nhập ngân hàng
+stats_commits,Số lần commit
+stats_max_neurons,Tổng số neuron
+stats_generated,Số lượng file đã tạo
+stats_reborns,Số lượng cổng đã đi vào
+stats_sessions,Số lượng phiên
+stats_elapsed_time,Tổng thời gian
+stats_time_played,Thời gian chơi
+achievement_first_upload,Khai giảng
+achievement_first_upload_desc,Tải lên file đầu tiên
+achievement_variety_downloader,Người tải xuống đa dạng
+achievement_variety_downloader_desc,Tải mọi loại file cùng lúc
+achievement_wasted_effort,Lãng phí công sức
+achievement_wasted_effort_desc,Nén file đã tăng cường hoặc ngược lại
+achievement_infected,Hổng sao đâu ha?
+achievement_infected_desc,Tải lên một file bị nhiễm
+achievement_quarantined,Giao thức ngăn chặn
+achievement_quarantined_desc,Loại bỏ virus khỏi file bị nhiễm
+achievement_redownloaded,Hồi phục dữ liệu
+achievement_redownloaded_desc,Sửa file bị hỏng
+achievement_reborn,Nhà lữ hành đa không gian
+achievement_reborn_desc,Vào cổng
+achievement_hacking,Hacker
+achievement_hacking_desc,Mở khóa Hack
+achievement_serial_breacher,Xâm nhập hàng loạt
+achievement_serial_breacher_desc,"Xâm nhập Anonymous, tổ chức và chính phủ trong dưới 1 giây"
+achievement_grand_heist,Cướp ngân hàng
+achievement_grand_heist_desc,Xâm nhập ngân hàng thành công 10 lần
+achievement_trojan,Khách không mời
+achievement_trojan_desc,Tải lên một file có trojan
+achievement_coding,Coder
+achievement_coding_desc,Mở khóa Code
+achievement_its_a_feature,Nó là tính năng
+achievement_its_a_feature_desc,Commit code có lỗi
+achievement_fully_optimized,Back-end Dev
+achievement_fully_optimized_desc,Mở khóa tất cả tối ưu hóa
+achievement_aspirant_dev,Front-end Dev
+achievement_aspirant_dev_desc,Mở khóa tất cả ứng dụng
+achievement_agi,AGI
+achievement_agi_desc,Sở hữu trí tuệ nhân tạo phổ quát
+achievement_text_completionist,Nhà văn
+achievement_text_completionist_desc,Hoàn thành tất cả yêu cầu tải lên liên quan đến file Chữ
+achievement_image_completionist,Thợ chụp ảnh
+achievement_image_completionist_desc,Hoàn thành tất cả yêu cầu tải lên liên quan đến file Ảnh
+achievement_sound_completionist,Producer
+achievement_sound_completionist_desc,Hoàn thành tất cả yêu cầu tải lên liên quan đến file Âm thanh
+achievement_video_completionist,YouTuber
+achievement_video_completionist_desc,Hoàn thành tất cả yêu cầu tải lên liên quan đến file Video
+achievement_program_completionist,Coder Chính hiệu
+achievement_program_completionist_desc,Hoàn thành tất cả yêu cầu tải lên liên quan đến file Ứng dụng
+achievement_game_completionist,Game thủ chuyên nghiệp
+achievement_game_completionist_desc,Hoàn thành tất cả yêu cầu tải lên liên quan đến file Game
+achievement_completionist,Trăm phần trăm
+achievement_completionist_desc,Hoàn thành tất cả yêu cầu tải lên
+achievement_out_of_memory,Không đủ bộ nhớ
+achievement_out_of_memory_desc,Đạt giới hạn số lượng node
+guide_nodes,Node
+guide_nodes_desc,"Node là các cửa sổ tương tác có thể được đặt trên desktop. Mỗi node đại diện cho một thành phần cụ thể hoặc tác vụ trong hệ thống.
+
+[h]Chức năng[/h]
+Node có hai chức năng chính:
+[l]Sản xuất tài nguyên:[/l] Một số node tạo ra tài nguyên mới.
+[l]Chuyển đổi tài nguyên:[/l] Các node khác nhận tài nguyên ở đầu vào, chuyển đổi chúng thành các tài nguyên khác ở đầu ra.
+
+[h]Ví dụ[/h]
+Một node mạng cung cấp Tốc độ tải xuống, có thể kết nối với node Trình tải xuống, tạo ra một file. Một Trình quét file sao đó có thể nhận file này, quét nó, tạo ra file đã quét với giá trị được tăng.
+
+[h]Giới hạn[/h]
+Một số loại node có giới hạn số lượng có thể hoạt động cùng lúc.
+Các loại node khác có thể được đặt tự do.
+
+[h]Thêm node[/h]
+Các node mới có thể được thêm vào desktop bằng các nhấn vào nút ở giữa dưới màn hình."
+guide_connections,Kết nối
+guide_connections_desc,"Kết nối là các đường liên kết để quản lý luồng tài nguyên giữa các node. Chúng được tạo ra bằng các liên kết đầu ra của node này sang các đầu vào của các node khác.
+
+[h]Tạo kết nối[/h]
+Để tạo một kết nối, kéo thả từ đầu nối ra đến đầu nối vào. Để xóa một kết nối, kéo thả liên kết ở phần đầu nối vào.
+
+[h]Luật kết nốih]
+[l]Đầu ra:[/l] Một đầu ra có thể được liên kết với nhiều đầu vào.
+[l]Đầu vào:[/l] Một đầu vào chỉ có thể được liên kết với một đầu ra.
+[l]Màu sắc và hình dạng:[/l] Một kết nối được xem là hợp lệ khi đầu nối của cả hai phải có cùng màu sắc và hình dạng.
+[l]Đầu nối màu trắng:[/l] Đầu nối màu trắng có thể được kết nối với tất cả các đầu nối màu khác miễn là chúng cùng hình dạng.
+[l]Yêu cầu cụ thể:[/l] Hãy nhớ là một số đầu vào yêu cầu các tài nguyên cụ thể. Kể cả khi hình dạng và màu của các đầu nối giống nhau, đầu vào chỉ nhận một số loại tài nguyên."
+guide_files,File
+guide_files_desc,"File là một kiểu tài nguyên trong hệ thống, nhận diện bằng đầu nối hình vuông. Chúng có nhiều kiểu, với các giá trị và kích cỡ khác nhau.
+
+[h]Đặc điểm[/h]
+[l]Giá trị:[/l] Mỗi kiểu file có giá trị riêng, chỉ định lượng tiền nhận được khi tải lên.
+[l]Kích cỡ:[/l] Mỗi kiểu file cũng có kích cỡ khác nhau tính bằng đơn vị bit.
+[l]Chất lượng:[/l] File nhận chất lượng khi qua các quá trình xử lý. Chất lượng càng cao (nhiều) thì giá trị càng cao.
+
+[h]Xử lý & Thay đổi[/h]
+File có thể được thay đổi; chúng có thể thông qua các quá trình xử lý để thay đổi các đặc đỉểm, như giá trị, kích cỡ, và chất lượng. Các thay đổi của file sẽ được hiển thị bằng các ký hiệu cạnh tên của chúng."
+guide_file_modifiers_scanned, Đã quét: Tăng 4x giá trị
+guide_file_modifiers_infected, Nhiễm: Giảm 4x giá trị
+guide_file_modifiers_validated, Hợp lệ: Tăng 4x giá trị
+guide_file_modifiers_compressed, Đã nén: Giảm 2x kích cỡ
+guide_file_modifiers_enhanced, Đã tăng cường: Tăng 2x chất lượng và kích cỡ
+guide_file_modifiers_refined, Đã làm giàu: Tăng 2x giá trị nghiên cứu
+guide_file_modifiers_analyzed, Đã phân tích: Tăng 2x tốc độ nghiên cứu
+guide_file_modifiers_distilled, Đã chưng cất: Tăng 2x giá trị neuron
+guide_file_modifiers_trojan, Đã cấy trojan: Nhận được Máy đã nhiễm khi tải lên dựa trên chất lượng file
+guide_tokens,Token
+guide_tokens_desc,"Token là đơn vị tiền tệ đặc biệt khan hiếm.
+
+[h]Sử dụng[/h]
+[l]Đặc quyền:[/l] Cung cấp các cường hóa vĩnh viễn, bằng cách tăng tốc hiệu năng hoặc mở khóa node mới.
+[l]Tăng tốc:[/l] Cung cấp các lợi ích ngắn hạn.
+[l]Dịch vụ:[/l] Cho phép reset các lựa chọn cụ thể, như là reset điểm hack.
+
+[h]Cách tìm[/h]
+[l]Thu thập:[/l] Token thỉnh thoảng xuất hiện trên giao diện desktop.
+[l]Hoàn thành các thành tựu:[/l] Mở khóa thành tựu sẽ thưởng bạn một lượng token.
+[l]Thực hiện yêu cầu:[/l] Hoàn thành các yêu cầu tải lên là cách khác để nhận token.
+[l]Giao dịch mua:[/l] Token cũng có thể được nhận từ giao dịch mua trong game."
+guide_rest_time,Thời gian Nghỉ
+guide_rest_time_desc,"Thời gian nghỉ là cơ chế cho phép bạn tăng tốc tiến trình trong trò chơi sử dụng thời gian offline.
+
+[h]Cách hoạt động[/h]
+[l]Tích lũy:[/l] Với mỗi 72 giây offline, nhận 1 giây thời gian nghỉ.
+[l]Kích hoạt:[/l] Khi bạn quay trở lại game, bạn có thể chọn kích hoạt thời gian nghỉ đã tích lũy.
+[l]Hiệu ứng:[/l] Khi thời gian nghỉ hoạt động, tốc độ trò chơi sẽ được tăng 5x.
+[l]Giới hạn:[/l] Bạn chỉ có thể chứa 600 giây tối đa thời gian nghỉ.
+
+[h]Nâng cấp[/h]
+Hệ thống thời gian nghỉ có thể được nâng cấp bằng các đặc quyền, chẳn hạn như giới hạn hoặc tốc độ tích lũy."
+guide_portal,Cổng
+guide_breach,Xâm nhập
+guide_breach_desc,"Xâm nhập cho phép bạn xâm nhập và chiếm dụng các thực thể để đạt được các chiến lợi phẩm có giá trị.
+
+[h]Xâm nhập[/h]
+[l]Bắt đầu cuộc tấn công:[/l] Xây dựng và gửi Payload gây sát thương sử dụng Sức mạnh Hack.
+[l]Bộ đếm giờ:[/l] Tấn công đối tượng sẽ phát cảnh báo, bắt đầu bộ đếm giờ.
+
+Nếu bạn xâm nhập đối tượng thành công trước khi bộ đếm giờ hết hiệu lực, bạn sẽ nhận được thưởng. Nếu thời gian hết hiệu lực trước khi xâm nhập xong, bạn sẽ thấy bại, và đối tượng sẽ hồi phục từ cuộc tấn công.
+Xâm nhập thành công đối tượng cũng sẽ tăng Cấp độ mối đe dọa. Mối đe dọa càng lớn có nghĩa là đối tượng càng trở nên khó để xâm nhập hơn trong tương lai nhưng cũng cung cấp thưởng lớn hơn nhiều.
+
+[h]Tiến trình[/h]
+[l]Lên cấp:[/l] Nhận Kinh nghiệm Hack cho phép bạn nâng cấp Sức mạnh Hack.
+[l]Điểm Hack:[/l] Lên cấp hack cũng thưởng bạn điểm hack. Điểm này có thể được dùng để tăng kỹ năng xâm nhập.
+[l]Kỹ năng Hack:[/l] Kỹ năng Hack cho phép bạn thêm nhiều node Hack hơn. Số lượng node kỹ năng sẽ bằng số lượng kỹ năng Hack có thể sử dụng.
+
+[h]Đối tượng & Thưởng[/h]
+[l]Anonymous:[/l] Rewards you with Hacking Experience.
+[l]Tổ chức:[/l] Cung cấp dữ liệu tổ chức.
+[l]Chính phủ:[/l] Cung cấp thông tin chính phủ.
+
+[h]Xâm nhập ngân hàng[/h]
+[l]Thưởng token:[/l] Xâm nhập ngân hàng thành công sẽ thưởng cho bạn token.
+[l]Mối đe dọa dai dẳng:[/l] Cấp độ mối đe dọa của ngân hàng không thể được thay đổi và sẽ không reset kể cả khi bạn vào Cổng."
+guide_window_network,"Node phần cứng. Tạo ra Tốc độ Tải lên và xuống dựa trên cấp độ của nó, có thể được tăng cấp bằng Tiền, và hiệu năng còn có thể được tăng tốc bằng các Tăng tốc Thành phần."
+guide_window_uploader,"Tải lên file sử dụng Tốc độ Tải lên để đổi lấy Tiền, xóa file trong quá trình tải."
+guide_window_processor,"Node phần cứng. Tạo ra nhiều giá trị Tốc độ Xung nhịp dựa trên cấp độ và số lượng lõi; cấp độ có thể được nâng lên sử dụng Tiền để tăng cường hiệu năng của toàn bộ các lõi, và số lượng lõi có thể được tăng lên sử dụng Tiền để tăng số lượng đầu ra.
+Tốc độ Xung nhịp được tính bằng Hertz (Hz), đại diện cho số lượng cycle (C) trên giây, và có thể được tăng tốc bằng Tăng tốc Thành phần."
+guide_window_processing_seller,Tạo ra Tiền định kì dựa trên Tốc độ xung nhịp đầu vào.
+guide_window_virus_scanner,"Quét file để tìm virus sử dụng Tốc độ xung nhịp, thêm thay đổi ""đã quét"" vào file và tăng giá trị của nó lên 4x. File được tải xuống có 50% khả năng bị nhiễm, giảm giá trị của nó đi 4x.
+Số lượng cycle (C) cần thiết dựa trên kích cỡ file."
+guide_window_quarantine,"Loại bỏ thay đổi ""nhiễm"" khỏi file sử dụng Tốc độ xung nhịp.
+Số lượng cycle (C) cần thiết dựa trên kích cỡ file."
+guide_window_antivirus_pro,"Quét và loại bỏ virus khỏi file sử dụng Tốc độ xung nhịp, thêm thay đổi ""đã quét"" và tăng giá trị file lên 4x.
+Số lượng cycle (C) cần thiết dựa trên 2x kích cỡ file."
+guide_window_refiner,"Làm giàu file sử dụng Tốc độ xung nhịp, thêm thay đổi ""đã làm giàu"" và giá trị nghiên cứu lên 2x.
+Số lượng cycle (C) cần thiết dựa trên kích cỡ file."
+guide_window_analyzer,"Phân tích sẵn file sử dụng Tốc độ xung nhịp, thêm thay đổi ""đã phân tích"" và giảm tốc độ cần thiết để nghiên cứu trong Phòng thí nghiệm đi 2x.
+Số lượng cycle (C) cần thiết dựa trên 2x kích cỡ file."
+guide_window_distillator,"Chưng cất file sử dụng Tốc độ xung nhịp, thêm thay đổi ""đã chưng cất"" và tăng cường giá trị neuron khi train AI lên 2x.
+Số lượng cycle (C) cần thiết dựa trên kích cỡ file."
+guide_window_encompressor,"Tăng cường và nén file sử dụng Tốc độ xung nhịp, thêm thay đổi ""đã tăng cường"" và ""nén"" vào file, tăng giá trị của nó lên 2x.
+Số lượng cycle (C) cần thiết dựa trên 6x kích cỡ file."
+guide_window_mine_token,"Đào token sử dụng tốc độ GPU. Số lượng xung nhịp cần sẽ tăng theo cấp số nhân cho mỗi lần đào thành công, và không bị reset khi bạn đi qua Cổng."
+guide_window_breach_anonymous,"Đối tượng xâm nhập. Gây bất kì loại sát thương nào để thử xâm nhập anonymous trong thời gian giới hạn. Nếu thành công, bạn sẽ được thưởng một lượng kinh nghiệm hack. Xâm nhập thành công đối tượng ở cấp độ đe dọa cao nhất cũng sẽ tăng giới hạn cấp độ đe dọa, tăng độ khó cũng như phần thưởng."
+guide_window_breach_corps,"Đối tượng xâm nhập. Gây bất kì loại sát thương nào để thử xâm nhập tổ chức trong thời gian giới hạn. Nếu thành công, bạn sẽ được thưởng một lượng dữ liệu tổ chức. Xâm nhập thành công đối tượng ở cấp độ đe dọa cao nhất cũng sẽ tăng giới hạn cấp độ đe dọa, tăng độ khó cũng như phần thưởng."
+guide_window_breach_government,"Đối tượng xâm nhập. Gây bất kì loại sát thương nào để thử xâm nhập vào chính phủ trong thời gian giới hạn. Nếu thành công, bạn sẽ được thưởng một lượng thông tin chính phủ. Xâm nhập thành công đối tượng ở cấp độ đe dọa cao nhất cũng sẽ tăng giới hạn cấp độ đe dọa, tăng độ khó cũng như phần thưởng."
+guide_window_breach_bank,"Đối tượng xâm nhập. Gây bất kì loại sát thương nào để thử xâm nhập và chiếm đoạt tiền trong thời gian giới hạn. Nếu xâm nhập thành công, bạn sẽ được thưởng một lượng token và đối tượng sẽ được tăng cường mức độ đe dọa trên một cấp vĩnh viễn, tăng độ khó cho các lần xâm nhập sau. Hoàn thành hoặc thất bại trong việc xâm nhập sẽ làm node này biến mất."
+guide_window_drain,"Rút cạn hiệu năng từ các máy bị nhiễm được nhập vào, tạo ra tăng tốc thành phần."
+guide_window_coder,Cung cấp tốc độ Code dựa trên cấp độ đóng góp. Cấp độ đóng góp sẽ được nâng cấp bằng cách nhập vào điểm đóng góp.
+guide_window_commit,Commit code được nhập vào để đổi lấy điểm đóng góp. Thưởng sẽ dựa trên độ phức tạp và các chỉnh sửa của code.
+guide_window_build,Xây dựng dự án dựa trên code được nhập vào. Hoàn thành dự án sẽ thường cho bạn những nâng cấp đặc biệt
+guide_window_code_bugfix,Tạo code Fix bug sử dụng bool và int
+guide_window_code_optimization,Tạo code Tối ưu hóa sử dụng BitFlag và Vector
+guide_window_code_application,Tạo code Ứng dụng sử dụng Array[String] và Array[BigInt]
+guide_window_code_driver,Tạo code Driver sử dụng HashMap[Decimal] và HashMap[Vector]
+guide_window_code_variable,Code một biến cơ bản với Tốc độ code.
+guide_window_variable_combiner,"Kết hợp hai kiểu biến cơ bản thành một biến nâng cao.
+BitFlag = bool + int
+BigInt = int + int
+Decimal = int + float
+String = char + char
+Vector = float + float"
+guide_window_code_array,Code mảng từ các biến được nhập vào
+guide_window_code_hashmap,Code bảng băm từ mảng được nhập vào sử dụng một mảng chuỗi
+guide_window_overclocker,"Cho phép đặt tỉ lệ ép xung theo ý muốn để dùng trên các thành phần.
+"
+guide_window_heat_sink,"Phân giải nhiệt tỏa ra từ các thành phần dựa trên cấp độ của nó, có thể được nâng cấp bằng tiền."
+tutorial_desc_press,Hãy tìm hiểu cách quản lý phòng lab trong phần hướng dẫn ngắn này
+tutorial_desc_drag_download,Bắt đầu kết nối bằng cách kéo đầu ra Tốc độ tải xuống
+tutorial_desc_connect_download,Thả vào đầu nối vào Tốc độ tải xuống để tạo kết nối
+tutorial_desc_press2,Kết nối đi từ trái sang phải. Đầu ra gửi và đầu vào nhận tài nguyên
+tutorial_desc_drag_bin_connector,Loại bỏ kết nối bằng cách thả bỏ đầu vào
+tutorial_desc_press3,Hãy thêm một node để tải lên file đã tải xuống
+tutorial_desc_open_menu,Nhấn mở menu node Mạng
+tutorial_desc_select_uploader,Chọn Trình tải lên trên danh sách các node
+tutorial_desc_add_uploader,Nhấn để thêm node vào màn hình chính
+tutorial_desc_drag_uploader,Kéo thả phần tiêu đề của node để di chuyển nó
+tutorial_desc_move_uploader,Di chuyển Trình tải lên đến chỗ được chỉ định và thả nó
+tutorial_desc_connect_file,Kết nối file đã tải xuống vào Trình tải lên để bắt đầu tải
+tutorial_desc_connect_upload,Giờ thì nãy kết nối Tốc độ tải lên vào Trình tải lên
+tutorial_desc_press4,Thêm node để thu thập Tiền nhận được từ việc tải lên này
+tutorial_desc_open_menu2,Mở menu node tiện ích
+tutorial_desc_select_collector,Chọn node Thu thập
+tutorial_desc_add_collector,THêm node Thu thập
+tutorial_desc_connect_money,Hãy kết nối đầu ra vào đầu vào của node Thu thập
+tutorial_desc_press5,"Bạn không cần node Thùng rác đâu, nên hãy xóa nó"
+tutorial_desc_select_bin,Chọn node Thùng rác bằng cách nhấn lên tiêu đề của nó
+tutorial_desc_delete_bin,Nhấn nút thùng rác ở dưới để xóa
+tutorial_desc_press6,Thế là xong phần hướng dẫn rồi! Hãy kiếm tiền và năng cấp hệ thống thôi nào
+heat_death_universe,Heat Death of the Universe
+august_12_2036,12 tháng 7 năm 2036
+you_failed,Bạn không thể cứu lấy vũ trụ
+for_now,Lúc này thôi
+english,English
+spanish,Español
+german,Deutsch
+french,Français
+korean,한국인
+indonesian,Bahasa Indo
+portuguese,Português
+polish,Polski
+italian,Italiana
+traditional_chinese,繁體中文
+japanese,日本語
+credits,Ghi công

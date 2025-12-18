@@ -1,0 +1,1605 @@
+labs_os,Labs OS
+initializing,Inicializando
+menu_tutorial,Tutorial
+menu_upgrades,Melhorias
+menu_hacking,Hacking
+menu_coding,Programação
+menu_portal,Portal
+menu_guide,Guia
+menu_shop,Loja
+menu_support,Suporte
+menu_rest,Descanso
+menu_stats,Estatísticas
+menu_attributes,Atributos
+menu_settings,Configurações
+menu_server,Servidor
+menu_in_progress,Em Progresso
+menu_achievements,Conquistas
+menu_requests,Pedidos
+menu_save,Salvar
+menu_completed,Completado
+menu_basics,Básicos
+menu_nodes,Nódulos
+menu_resources,Recursos
+menu_perks,Benefícios
+menu_boosts,Impulsos
+menu_services,Serviços
+menu_clear,Limpar
+menu_watch_ad,Assistir Propaganda?
+menu_watch_ad_desc,Assista a uma propaganda rápida e receba recompensas
+menu_new_schematic,Novo Esquema
+menu_wipe,Limpar Dados
+menu_wipe_desc,"Deseja redefinir todo o seu progresso, incluindo conquistas?"
+menu_sync_save,Sincronizar Save
+menu_sync_save_desc,Sincroniza seus dados entre dispositivos
+menu_sync_save_instructions,"Pressione Exportar para receber um código, ou insira um código para importar"
+menu_edit_group,Editar Grupo
+prompt_delete_node,Deletar Nódulo?
+prompt_delete_node_desc,Deletar nódulos fará com que todos seus recursos e melhorias sejam perdidas
+prompt_delete_schematic,Deletar Esquema?
+prompt_delete_schematic_desc,Esta ação não pode ser desfeita
+prompt_enter_portal,Entrar no Portal?
+prompt_enter_portal_desc,Gostaria de entrar no portal agora e reivindicar as melhorias na fila?
+prompt_portal_warning,Isto irá reiniciar toda sua área de trabalho e suas melhorias
+prompt_hack_reset,Reset de Hack
+prompt_hack_reset_desc,Esse serviço removerá todos suas melhorias de hack e reembolsará seus pontos de Hack utilizados
+prompt_optimization_reset,Reset de Otimizações
+prompt_optimization_reset_desc,Esse serviço removerá todas suas otimizações feitas e reembolsará seus pontos de otimização utilizados
+prompt_application_reset,Reset de Aplicações
+prompt_application_reset_desc,"Esse serviço removerá todas aplicações desbloqueadas, removendo todos nódulos associados, e também reembolsará todos pontos de aplicação utilizados"
+prompt_portal_reset,Reset de Portal
+prompt_portal_reset_desc,"Esse serviço irá forçar uma entrada ao portal, removendo todas melhorias de portal que estão ativas ou na fila, e também reembolsará toda Pesquisa Avançada utilizada"
+prompt_update_2.0,A Versão 2.0 Chegou!
+prompt_update_2.0_desc,"A versão 2.0 apresenta novos conteúdos, funcionalidades, alterações de equilíbrio e uma reformulação da progressão.
+
+Esta é uma excelente oportunidade para recomeçar e experimentar o jogo como se fosse a primeira vez. Prefere manter o seu progresso? Não há problema! Pode continuar a jogar com o seu salvamento atual e todos os novos conteúdos.
+
+Gostaria de recomeçar?"
+action_add,Adicionar
+action_install,Instalar
+action_upgrade,Melhorar
+action_tier_up,Aprimorar
+action_research,Pesquisar
+action_add_core,Ad. Núcleo
+action_add_gpu,Ad. GPU
+action_collect,Coletar
+action_sell,Vender
+action_open,Abrir
+action_enter,Entrar
+action_cancel,Cancelar
+action_close,Fechar
+action_claim,Resgatar
+action_purchase,Comprar
+action_watch,Assistir
+action_optimize,Otimizar
+action_add_threat,Aumentar Risco
+action_reduce_threat,Diminuir Risco
+action_save,Salvar
+action_confirm,Confirmar
+action_export,Exportar
+action_import,Importar
+quit,Sair
+import_from_clipboard,Importar da Área de Transferência
+setting_fps_limit,Limite de FPS
+setting_ui_scale,Escala da Interface
+setting_language,Idioma
+setting_colorblind_mode,Modo Daltônico
+setting_notation,Notação
+setting_glow,Brilho
+setting_mute_sfx,Silenciar Efeitos Sonoros
+setting_volume_sfx,Volume Efeitos Sonoros
+setting_mute_nodes,Silenciar Nódulos
+setting_volume_nodes,Volume Nódulos
+setting_mute_bgm,Silenciar Música
+setting_volume_bgm,Volume Música
+setting_show_completed,Mostrar Concluído
+setting_wipe_data,Limpar Dados
+setting_sync_data,Sincronizar Save
+default,Padrão
+latin,Latina
+scientific,Científica
+engineering,Engenharia
+loading,Carregando
+active,Ativo
+queue,Fila
+value,Valor
+size,Tamanho
+quality,Qualidade
+research,Pesquisa
+cost,Custo
+reward,Recompensa
+claimed,Resgatado
+owned,Adquirido
+researched,Pesquisado
+available,Disponível
+locked,Bloqueado
+support_level,Nível de Suporte
+schematic_name,Nome do esquema
+sending,Enviando
+connecting,Conectando
+exported,Exportado
+code_invalid,Código invalido
+code_expired,Código expirado
+error,Erro
+no_schematics_saved,Você não possui esquemas ainda
+nodes_required,# Nódulos
+threat,Risco
+level,Nível
+lv.,Nv.
+storage_size,Capacidade
+storage_value,Valor
+server_stats,Estatísticas do Servidor
+tokens_mined,Fichas Mineradas
+tokens_stolen,Fichas Roubadas
+free,Gratuito
+points,Pontos
+hack_points,Pontos de Hack
+bug,Bug
+empty,Vazio
+input_currency,Insira um câmbio
+input_file,Insira um arquivo
+insert_coin,Insira uma moeda
+input_torrent,Insira um torrent
+input_element,Insira um elemento
+input_material,Insira um material
+input_damage,Insira um dano
+input_variable,Insira uma variável
+input_array,Insira uma array
+input_code,Insira um código
+invalid_request,Pedido Inválido
+invalid_request_desc,Insira um pedido de arquivo
+invalid_project,Projeto Inválido
+invalid_project_desc,Insira um código válido
+optimization_points,Pontos de Otimização
+application_points,Pontos de Aplicação
+driver,Driver
+hardware_multiplier,Multiplicador de Hardware
+max,Max
+mk.,Mk.
+version,Versão
+ver.,Ver.
+progress,Progresso
+ratio,Taxa
+burn_rate,Taxa de Queima
+speed,Velocidade
+sell at,Vender em
+rest_time,Tempo de Descanso
+rest_time_desc,Aumenta a velocidade do tempo em 5x. Ganhe 1 segundo a cada 72 segundos offline
+time,Tempo
+seconds,Segundos
+second_abbreviation,s
+consumption,Consumo
+multiplier,Multiplicador
+breach_speed,Velocidade de Brecha
+breached,Invadido
+firewall,Firewall
+time_left,Tempo Restante
+vulnerable,Vulnerável
+critical,Crítico
+completed,Completo
+researched,Pesquisado
+queued,Na Fila
+ready,Pronto
+new_achievement,Nova Conquista
+request_completed,Pedido Entregue
+new_windows_processor,Novos nódulos de CPU estão disponíveis
+new_windows_network,Novos nódulos de rede estão disponíveis
+new_windows_gpu,Novos nódulos de GPU estão disponíveis
+new_windows_research,Novos nódulos de pesquisa estão disponíveis
+new_windows_factory,Novos nódulos de fábricação estão disponíveis
+new_windows_hacking,Novos nódulos de hack estão disponíveis
+new_windows_coding,Novos nódulos de programação estão disponíveis
+new_windows_utilities,Novos nódulos de utiliade estão disponíveis
+new_upgrades_available,Novas melhorias estão disponíveis
+new_hack_level,Nível de hack aumentado
+new_code_level,Nível de contribuição aumentado
+new_application_point,Novo ponto de aplicação
+new_optimization_point,Novo ponto de otimização
+breach_bank_failed,Falha na invasão de banco
+breach_bank_success,Banco invadido com sucesso
+tool_cursor,Ferramenta Cursor
+tool_move,Ferramenta Mover
+tool_selection,Ferramenta Selecionar
+tool_connection_editor_on,Editor de Conexão ON
+tool_connection_editor_off,Editor de Conexão OFF
+schematic_saved,Esquema salvo
+copied_to_clipboard,Copiado para a área de transferência
+invalid_schematic,Esquema inválido
+hold_to_skip,Segure para pular
+support_us,Apoie-nos comprando itens e ganhe emblemas!
+thank_you,Muito Obrigado!
+tokens_claimed,Fichas premium resgatadas
+components,Components
+management,Gestão
+upload,Upload
+download,Download
+processes,Processos
+composition,Composição
+decomposition,Decomposição
+mining,Mineração
+file_generation,Geração de Arquivos
+functions,Funções
+machines,Máquinas
+import,Importar
+interface,Interface
+manipulation,Manipulação
+targets,Alvos
+attacks,Ataques
+skills,Habilidade
+coding,Programação
+variables,Variáveis
+currency,Câmbio
+file,Arquivo
+organizers,Organizadores
+element,Elemento
+material,Material
+overclock,Overclock
+resource_download_speed,Velocidade de Download
+resource_download_speed_desc,Velocidade de rede para downloads (bits/segundo).
+resource_upload_speed,Velocidade de Upload
+resource_upload_speed_desc,Velocidade de rede para uploads (bits/segundo).
+resource_clock_speed,Velocidade de Clock
+resource_clock_speed_desc,Velocidade do processador (hertz).
+resource_gpu_speed,Velocidade de GPU
+resource_gpu_speed_desc,Velocidade de GPU usado em processo paralelizados (hertz).
+resource_research_power,Velocidade de Pesquisa
+resource_research_power_desc,Taxa de arquivos pesquisados por segundo.
+resource_hack_power,Poder de Hack
+resource_hack_power_desc,Velocidade de brecha que escala com Nível de Hack.
+resource_code_speed,Velocidade de Programação
+resource_code_speed_desc,Velocidade em que programa variáveis e que escala com o Nível de Contribuição.
+resource_work_speed,Velocidade de Trabalho
+resource_work_speed_desc,Taxa na qual uma máquina opera em segundos
+resource_boost_component,Impulso de Componente
+resource_boost_component_desc,Impulso para components de hardware.
+resource_boost_research,Impulso de Pesquisa
+resource_boost_research_desc,Impulso para Velocidade de Pesquisa.
+resource_boost_hack,Impulso de Hack
+resource_boost_hack_desc,Impulso para Poder de Hack.
+resource_boost_code,Impulso de Programação
+resource_boost_code_desc,Impulso para Velocidade de Programação.
+resource_overclock,Overclock
+resource_overclock_desc,Configuração usada para impulsionar componentes.
+resource_heat,Calor
+resource_heat_desc,Gerado através do overclocking.
+resource_money,Dinheiro
+resource_money_desc,Câmbio usado para desbloquear melhorias.
+resource_research,Pesquisa
+resource_research_desc,Câmbio usado para desbloquear tecnologias.
+resource_token,Ficha
+resource_token_desc,"Câmbio raro usado para benefícios únicos, impulsos e serviços."
+resource_infected_computer,Computador Infectado
+resource_infected_computer_desc,Obtido através da infiltração de computadores usando Cavalos de Tróia.
+resource_hack_experience,Experiência em Hack
+resource_hack_experience_desc,Aumenta o Nível de Hack; Obtido através de brechas de anônimos.
+resource_corporation_data,Dados de Corporação
+resource_corporation_data_desc,Obtido através de brechas de corporações; Usado para melhorias de brecha.
+resource_government_data,Inteligência do Governo
+resource_government_data_desc,Obtido através de brechas do governo; Usado para melhorias de brecha.
+resource_contribution,Contribuição
+resource_contribution_desc,Aumenta o nível de contribuição; Obtido ao enviar códigos.
+resource_ai,Poder de IA
+resource_ai_desc,Impulsiona produção; Obtido através de neurônios.
+resource_virus,Vírus
+resource_virus_desc,Vírus extraído de um arquivo infectado.
+resource_trojan,Cavalo de Tróia
+resource_trojan_desc,Se infiltra em computadores quando injetado em arquivos; Produção aumenta com nível de hack.
+resource_storage,Armanezamento
+resource_storage_desc,Unidade de armazenamento com capacidade para {1.0e26} de dados. Pode ser usada em um servidor para gerar renda.
+resource_torrent_text,Torrent de Texto
+resource_torrent_text_desc,Torrent que pode ser usado para baixar arquivos de texto de melhor qualidade.
+resource_torrent_image,Torrent de Imagem
+resource_torrent_image_desc,Torrent que pode ser usado para baixar arquivos de imagem de melhor qualidade.
+resource_torrent_sound,Torrent de Som
+resource_torrent_sound_desc,Torrent que pode ser usado para baixar arquivos de som de melhor qualidade.
+resource_torrent_video,Torrent de Vídeo
+resource_torrent_video_desc,Torrent que pode ser usado para baixar arquivos de vídeo de melhor qualidade.
+resource_torrent_program,Torrent de Programa
+resource_torrent_program_desc,Torrent que pode ser usado para baixar arquivos de programa de melhor qualidade.
+resource_torrent_game,Torrent de Jogo
+resource_torrent_game_desc,Torrent que pode ser usado para baixar arquivos de jogo de melhor qualidade.
+resource_neuron_text,Neurônio de Texto
+resource_neuron_text_desc,Produzido através do treinamento de IAs usando arquivos de texto.
+resource_neuron_image,Neurônio de Imagem
+resource_neuron_image_desc,Produzido através do treinamento de IAs usando arquivos de imagem.
+resource_neuron_sound,Neurônio de Som
+resource_neuron_sound_desc,Produzido através do treinamento de IAs usando arquivos de som.
+resource_neuron_video,Neurônio de Vídeo
+resource_neuron_video_desc,Produzido através do treinamento de IAs usando arquivos de vídeo.
+resource_neuron_program,Neurônio de Programa
+resource_neuron_program_desc,Produzido através do treinamento de IAs usando arquivos de programa.
+resource_neuron_game,Neurônio de Jogo
+resource_neuron_game_desc,Produzido através do treinamento de IAs usando arquivos de jogo.
+resource_payload_damage,Dano de Payload
+resource_payload_damage_desc,"Danifica alvos de brecha, sendo consumidos no processo; produzidos usando Poder de Hack."
+resource_infection_damage,Dano de Infecção
+resource_infection_damage_desc,Danifica alvos de brecha sem ser consumido; produzidos usando Poder de Hack.
+resource_vulnerability,Vulnerabilidade
+resource_vulnerability_desc,Aumenta o dano recebido pelos alvos de brecha; produzido usando Poder de Hack.
+resource_litecoin,Litecoin
+resource_litecoin_desc,Criptomoeda minerada (baixa volatilidade); vendida por {1.2e6} dinheiro.
+resource_bitcoin,Bitcoin
+resource_bitcoin_desc,Criptomoeda minerada (média volatilidade); vendida por {2.0e8} dinheiro.
+resource_ethereum,Ethereum
+resource_ethereum_desc,Criptomoeda minerada (alta volatilidade); vendida por {6.0e7} dinheiro.
+resource_bool,bool
+resource_bool_desc,Tipo de variável primitva produzida através da programação.
+resource_char,char
+resource_char_desc,Tipo de variável primitva produzida através da programação.
+resource_int,int
+resource_int_desc,Tipo de variável primitva produzida através da programação.
+resource_float,float
+resource_float_desc,Tipo de variável primitva produzida através da programação.
+resource_bitflag,BitFlag
+resource_bitflag_desc,Variável complexa produzida através da programação usando bool + int.
+resource_bigint,BigInt
+resource_bigint_desc,Variável complexa produzida através da programação usando int + int.
+resource_decimal,Decimal
+resource_decimal_desc,Variável complexa produzida através da programação usando int + float.
+resource_string,String
+resource_string_desc,Variável complexa produzida através da programação usando char + char.
+resource_vector,Vector
+resource_vector_desc,Variável complexa produzida através da programação usando float + float.
+resource_array_bool,Array[bool]
+resource_array_bool_desc,Variável produzida de uma coleção de bool.
+resource_array_char,Array[char]
+resource_array_char_desc,Variável produzida de uma coleção de char.
+resource_array_int,Array[int]
+resource_array_int_desc,Variável produzida de uma coleção de int.
+resource_array_float,Array[float]
+resource_array_float_desc,Variável produzida de uma coleção de float.
+resource_array_bitflag,Array[BitFlag]
+resource_array_bitflag_desc,Variável produzida de uma coleção de BitFlag.
+resource_array_bigint,Array[BigInt]
+resource_array_bigint_desc,Variável produzida de uma coleção de BigInt.
+resource_array_decimal,Array[Decimal]
+resource_array_decimal_desc,Variável produzida de uma coleção de Decimal.
+resource_array_string,Array[String]
+resource_array_string_desc,Variável produzida de uma coleção de String.
+resource_array_vector,Array[Vector]
+resource_array_vector_desc,Variável produzida de uma coleção de Vector.
+resource_hashmap_bool,HashMap[bool]
+resource_hashmap_bool_desc,Variável HashMap produzida usando um Array[String] e um Array[bool].
+resource_hashmap_char,HashMap[char]
+resource_hashmap_char_desc,Variável HashMap produzida usando um Array[String] e um Array[char].
+resource_hashmap_int,HashMap[int]
+resource_hashmap_int_desc,Variável HashMap produzida usando um Array[String] e um Array[int].
+resource_hashmap_float,HashMap[float]
+resource_hashmap_float_desc,Variável HashMap produzida usando um Array[String] e um Array[float].
+resource_hashmap_bitflag,HashMap[BitFlag]
+resource_hashmap_bitflag_desc,Variável HashMap produzida usando um Array[String] e um Array[BitFlag].
+resource_hashmap_bigint,HashMap[BigInt]
+resource_hashmap_bigint_desc,Variável HashMap produzida usando um Array[String] e um Array[BigInt].
+resource_hashmap_decimal,HashMap[Decimal]
+resource_hashmap_decimal_desc,Variável HashMap produzida usando um Array[String] e um Array[Decimal].
+resource_hashmap_string,HashMap[String]
+resource_hashmap_string_desc,Variável HashMap produzida usando um Array[String] e um Array[String].
+resource_hashmap_vector,HashMap[Vector]
+resource_hashmap_vector_desc,Variável HashMap produzida usando um Array[String] e um Array[Vector].
+resource_code_bugfix,Código de Bug Fix
+resource_code_bugfix_desc,Código para fixar bugs; pode ser enviado em troca de Contribuição.
+resource_code_optimization,Código de Otimização
+resource_code_optimization_desc,Código para otimizar outros códigos; pode ser enviado em troca de Contribuição ou compilado para Pontos de Otimização.
+resource_code_application,Código de Aplicação
+resource_code_application_desc,Código para aplicações; pode ser enviado em troca de Contribuição ou compilado para Pontos de Aplicação
+resource_code_driver,Código de Driver
+resource_code_driver_desc,Código para drivers; pode ser enviado em troca de Contribuição ou compilado para melhorias de hardware.
+resource_text,Texto
+resource_text_desc,Arquivo de texto usado para upload e pesquisa.
+resource_image,Imagem
+resource_image_desc,Arquivo de imagem usado para upload e pesquisa.
+resource_sound,Som
+resource_sound_desc,Arquivo de som usado para upload e pesquisa.
+resource_video,Vídeo
+resource_video_desc,Arquivo de vídeo usado para upload e pesquisa.
+resource_program,Programa
+resource_program_desc,Arquivo de programa usado para upload e pesquisa.
+resource_game,Jogo
+resource_game_desc,Arquivo de jogo usado para upload e pesquisa.
+resource_oil,Petróleo Bruto
+resource_oil_desc,Petróleo extraído em litros que pode ser usado na produção de hardware após refinamento.
+resource_copper,Cobre
+resource_copper_desc,Metal utilizado na produção de hardware.
+resource_silicon,Silício
+resource_silicon_desc,Metalóide essencial utilizado na produção de wafers após purificação.
+resource_sand,Areia
+resource_sand_desc,Material utilizado na produção de wafers.
+resource_refined_oil,Petróleo Refinado
+resource_refined_oil_desc,Petróleo que foi refinado. Utilizado na produção de plástico através de um polimerizador.
+resource_copper_plate,Placa de Cobre
+resource_copper_plate_desc,Placa feita de Cobre por estampagem. Pode ser usada em uma fábrica de fios para fabricar fios.
+resource_purified_silicon,Silício Purificado
+resource_purified_silicon_desc,Silício que foi purificado e está pronto para ser usado em um sintetizador de wafer.
+resource_plastic,Plástico
+resource_plastic_desc,Material usado na produção de PCIs.
+resource_wire,Fio
+resource_wire_desc,Condutor que pode ser soldado em plástico para formar uma placa de circuito impresso.
+resource_wafer,Wafer
+resource_wafer_desc,Semicondutor que pode ser cortado em vários transistores.
+resource_transistor,Transistor
+resource_transistor_desc,Semicondutor utilizado na produção de chips.
+resource_pcb,PCI
+resource_pcb_desc,Placa de circuito impresso feita de plástico e soldada com fios. Usada na produção de hardware.
+resource_router,Roteador
+resource_router_desc,"Hardware modular que pode ser instalado em uma rede para fornecer velocidade extra de download e upload.
+A velocidade extra é proporcional à raiz quadrada da quantidade de roteadores utilizados."
+resource_cpu_core,Núcleo de CPU
+resource_cpu_core_desc,"Hardware modular que pode ser instalado em um processador para fornecer Velocidade de Clock adicional.
+O bônus é proporcional à raiz quadrada da quantidade de núcleos de CPU utilizados."
+resource_gpu,GPU
+resource_gpu_desc,"Hardware modular que pode ser instalado em um cluster de GPU para fornecer Velocidade de GPU adicional.
+O bônus é proporcional à raiz quadrada da quantidade de GPUs utilizadas."
+window_processor,Processador
+window_processor_desc,Fornece Velocidade de Clock
+window_synchronizer,Sincronizador
+window_synchronizer_desc,Combina múltiplos Velocidade de Clock em uma única velocidade.
+window_thread_manager,Gerenciador de Threads
+window_thread_manager_desc,Divide Velocidade de Clock em duas velocidades diferentes
+window_processing_seller,Vendedor de Processamento
+window_processing_seller_desc,Vende Velocidade de Processamento em troca de Dinheiro
+window_virus_scanner,Scanner de Vírus
+window_virus_scanner_desc,Procura por vírus em arquivos. Arquivos escaneados valem 4x mais. Arquivos infectados valem 4x menos
+window_quarantine,Quarentena
+window_quarantine_desc,Remove vírus de arquivos. Arquivos infectados valem 4x menos
+window_antivirus_pro,Antivirus Pro
+window_antivirus_pro_desc,"Procura e remove vírus de arquivos, aumentando seu valor em 4x"
+window_verifier,Verificador Checksum
+window_verifier_desc,"Verifica a integridade dos arquivos. Arquivos validados valem 4 vezes mais. Arquivos corrompidos valem 10 vezes menos, mas têm 5 vezes menos tamanho"
+window_enhancer,Aprimorador
+window_enhancer_desc,"Aprimora arquivos, aumentando seu valor em 2x, ao custo de 2x mais tamanho"
+window_compressor,Compressor
+window_compressor_desc,"Comprime arquivos, reduzindo seu tamanho em 2x"
+window_encompressor,Comprimorador
+window_encompressor_desc,"Aprimora e comprime arquivos simultaneamente, aumentando seu valor em 2x e reduzindo o tamanho em 2x"
+window_decompiler,Decompilador
+window_decompiler_desc,Decompila Programas em Textos
+window_decomposer,Decompositor
+window_decomposer_desc,Decompõe Vídeos em Imagens
+window_demuxer,Demultiplexador
+window_demuxer_desc,Separa Vídeos em Sons
+window_scrapper,Raspador
+window_scrapper_desc,Separa Jogos em Vídeos
+window_ripper,Extrator
+window_ripper_desc,Extrai Jogos em Programas
+window_movie_maker,Movie Maker
+window_movie_maker_desc,Cria Vídeos através de Imagens e Sons
+window_compiler,Compilador
+window_compiler_desc,Cria Programas através de Textos
+window_game_engine,Motor de Jogo
+window_game_engine_desc,Cria Jogos através de Programas e Vídeos
+window_refiner,Refinador de Dados
+window_refiner_desc,Refina arquivos para aumentar o ganho de Pesquisa em 100%
+window_analyzer,Pré-analisador
+window_analyzer_desc,Pré-analiza arquivos para aumentar Velocidade de Pesquisa em 100%
+window_distillator,Destilador
+window_distillator_desc,Destila arquivos para aumentar o ganho de neurônios em 100%
+window_decryptor,Descriptografador
+window_decryptor_desc,"Descriptografa arquivos, substituindo o modificador Criptografado pelo modificador Descriptografado e aumentando a qualidade em 4x"
+window_virus_extractor,Extrator de Vírus
+window_virus_extractor_desc,"Extrai vírus de arquivos infectados usando a Velocidade de Clock, destruindo o arquivo no processo"
+window_trojan_injector,Injetor de Trojan
+window_trojan_injector_desc,"Injeta cavalos de Troia em arquivos usando a Velocidade do Clock, concedendo Computador Infectado durante o upload."
+window_network,Rede
+window_network_desc,Fornece Velocidade de Download e Upload
+window_download_limiter,Limitador de Download
+window_download_limiter_desc,Divide Velocidade de Download em duas velocidades diferentes
+window_upload_limiter,Limitador de Upload
+window_upload_limiter_desc,Divide Velocidade de Upload em duas velocidades diferentes
+window_download_merger,Agregador de Download
+window_download_merger_desc,Combina múltiplas Velocidade de Download em uma única velocidade.
+window_upload_merger,Agregador de Upload
+window_upload_merger_desc,Combina múltiplas Velocidade de Upload em uma única velocidade.
+window_download_manager,Gerenciador de Download
+window_download_manager_desc,Baixa todos os tipos de arquivos com proporções controladas pelo usuário
+window_downloader,Downloader
+window_downloader_text,Downloader de Texto
+window_downloader_text_desc,Baixa arquivos de Texto usando Velocidade de Download
+window_downloader_image,Downloader de Imagem
+window_downloader_image_desc,Baixa arquivos de Imagem usando Velocidade de Download
+window_downloader_sound,Downloader de Som
+window_downloader_sound_desc,Baixa arquivos de Som usando Velocidade de Download
+window_downloader_video,Downloader de Vídeo
+window_downloader_video_desc,Baixa arquivos de Vídeo usando Velocidade de Download
+window_downloader_program,Downloader de Programa
+window_downloader_program_desc,Baixa arquivos de Programa usando Velocidade de Download
+window_downloader_game,Downloader de Jogo
+window_downloader_game_desc,Baixa arquivos de Jogo usando Velocidade de Download
+window_torrent_browser,Navegador Torrent
+window_torrent_browser_scanned,Navegador VirusFree
+window_torrent_browser_scanned_desc,Utiliza a Velocidade de Download para pesquisar na Internet torrents que podem ser usados para baixar arquivos escaneados
+window_torrent_browser_verified,Navegador IntegriMax
+window_torrent_browser_verified_desc,Utiliza a Velocidade de Download para pesquisar na Internet torrents que podem ser usados para baixar arquivos validados
+window_torrent_browser_analyzed,Navegador TorrentLabs
+window_torrent_browser_analyzed_desc,Utiliza a Velocidade de Download para pesquisar na Internet torrents que podem ser usados para baixar arquivos pré-analizados
+window_torrent_browser_encrypted,Navegador Torrent Criptografado
+window_torrent_browser_encrypted_desc,Utiliza a Velocidade de Download para pesquisar na Internet torrents que podem ser usados para baixar arquivos criptografados
+window_torrent_downloader,Baixador de Torrent
+window_torrent_downloader_desc,Baixa arquivos usando torrents inseridos.
+window_torrent_filter,Filtro de Torrent
+window_torrent_filter_desc,Combina dois modificadores de torrent usando Velocidade de Download
+window_redownloader,Rebaixador
+window_redownloader_desc,"Rebaixa as partes dos arquivos que faltam, removendo a maioria dos seus modificadores, incluindo corrupção"
+window_store_file,Gravador de Armazenamento
+window_store_file_desc,Grava arquivos no armazenamento para serem usados em um servidor
+window_server,Servidor
+window_server_desc,Fornece renda com base no armazenamento inserido
+window_uploader,Uploader
+window_uploader_desc,Envia arquivos usando Velocidade de Upload em troca de Dinheiro
+window_request_uploader,Uploader de Pedido
+window_request_uploader_desc,Envia arquivos solicitados em troca de Fichas.
+window_gpu_cluster,Cluster de GPU
+window_gpu_cluster_desc,Fornece Velocidade de GPU
+window_gpu_synchronizer,Sincronizador de GPU
+window_gpu_synchronizer_desc,Combina múltiplas Velocidade de GPU em uma única velocidade
+window_gpu_manager,Gestor de GPU
+window_gpu_manager_desc,Divide Velocidade de GPU em duas velocidades diferentes
+window_mine,Minerar
+window_mine_litecoin,Minerar Litecoin
+window_mine_litecoin_desc,"Usa Velocidade de GPU para minerar Litecoin, uma criptomoeda de baixa volatilidade"
+window_mine_bitcoin,Minerar Bitcoin
+window_mine_bitcoin_desc,"Usa Velocidade de GPU para minerar Bitcoin, uma criptomoeda de volatilidade média"
+window_mine_ethereum,Minerar Ethereum
+window_mine_ethereum_desc,"Usa Velocidade de GPU para minerar Ethereum, uma criptomoeda de alta volatilidade"
+window_mine_tether,Minerar Tether
+window_mine_tether_desc,"Usa Velocidade de GPU para minerar Tether, uma criptomoeda sem volatilidade. Convertido em Dinheiro automaticamente"
+window_mine_token,Minerar Fichas
+window_mine_token_desc,Usa Velocidade de GPU para minerar Fichas
+window_crypto_seller,Vendedor de Cripto
+window_crypto_seller_desc,Vende criptomoedas em troca de Dinheiro
+window_auto_crypto_seller,Vendedor de Cripto Auto
+window_auto_crypto_seller_desc,Automaticamente vende criptomoedas em troca de Dinheiro
+window_task_scheduler,Agendador
+window_task_scheduler_desc,Converte Velocidade de GPU em Velocidade de Clock
+window_movie_renderer,Renderizador de Vídeo
+window_movie_renderer_desc,Cria Vídeos através de Imagens e Sons
+window_trainer,Treinador de IA
+window_trainer_desc,Usa Velocidade de GPU e arquivos para criar neurônios que herdam os modificadores do arquivo
+window_file_generator,Gerador de Arquivo
+window_generator_text,Gerador de Texto
+window_generator_text_desc,Gera arquivos de Texto customizados usando Neurônios de Texto
+window_generator_image,Gerador de Imagem
+window_generator_image_desc,Gera arquivos de Imagem usando Neurônios de Imagem
+window_generator_sound,Gerador de Som
+window_generator_sound_desc,Gera arquivos de Som usando Neurônios de Som
+window_generator_video,Gerador de Vídeo
+window_generator_video_desc,Gera arquivos de Vídeo usando Neurônios de Vídeo
+window_generator_program,Gerador de Programa
+window_generator_program_desc,Gera arquivos de Programa usando Neurônios de Programa
+window_generator_game,Gerador de Jogo
+window_generator_game_desc,Gera arquivos de Jogo usando Neurônios de Jogo
+window_data_lab,Laboratório de Dados
+window_data_lab_desc,Usa arquivos para gerar Pesquisa
+window_agi,Núcleo AGI
+window_agi_desc,Fornece Poder de IA baseado nos neurônios inseridos
+window_research,Pesquisar
+window_research_desc,Fornece Impulso de Pesquisa usando Poder de IA
+window_hack,Hackear
+window_hack_desc,Fornece Impulso de Hack usando Poder de IA
+window_code,Programar
+window_code_desc,Fornece Impulso de Programação usando Poder de IA
+window_research_advanced,Pesquisa Avançada
+window_research_advanced_desc,Converte Pesquisa em Pesquisa Avançada para ser usada em melhorias de portal
+window_router_assembler,Montador de Roteador
+window_router_assembler_desc,Monta roteadores a partir de duas PCIs
+window_cpu_core_assembler,Montador de Núcleo de CPU
+window_cpu_core_assembler_desc,Monta Núcleo de CPUs a partir de 8 Transistores
+window_gpu_assembler,Montador de GPU
+window_gpu_assembler_desc,Monta GPUs a partir de um PCI e 4 Transistores
+window_pcb_solder,Soldador de PCI
+window_pcb_solder_desc,Produz PCI a partir de um Plástico e 4 Fios
+window_wafer_cutter,Cortador de Wafer
+window_wafer_cutter_desc,Corta Wafer em 8 Transistores
+window_wire_mill,Fábrica de Fios
+window_wire_mill_desc,Produz 2 Fios a partir de uma Placa de Cobre
+window_polymerizer,Polimerizador
+window_polymerizer_desc,Produz Plástico a partir de 1L de Petróleo Refinado
+window_wafer_synthesizer,Sintetizador de Wafer
+window_wafer_synthesizer_desc,Produz Wafer a partir de 4 Silício Purificados e duas Areias
+window_oil_refiner,Refinador de Petróleo
+window_oil_refiner_desc,Refina 2L de Petróleo Bruto em Petróleo Refinado
+window_metal_press,Prensa de Metal
+window_metal_press_desc,Produz duas Placas de Cobre a partir de Cobre
+window_silicon_purifier,Purificador de Silício
+window_silicon_purifier_desc,Purifica 3 Silício em Silício Purificado
+window_miner,Mineradora
+window_miner_desc,Minera Cobre e Silício
+window_oil_pump,Bomba de Petróleo
+window_oil_pump_desc,Bombeia Petróleo Bruto
+window_excavator,Escavadora
+window_excavator_desc,Escava Areia
+window_importer_router,Importador de Roteador
+window_importer_router_desc,Importa Roteador ao custo de {8.0e35} Dinheiro
+window_importer_cpu_core,Importador de Núcleo de CPU
+window_importer_cpu_core_desc,Importa Núcleo de CPU ao custo de {8.0e35} Dinheiro
+window_importer_gpu,Importador de GPU
+window_importer_gpu_desc,"Importa GPU ao custo de {8.0e35} Dinheiro
+"
+window_importer_pcb,Importador de PCI
+window_importer_pcb_desc,Importa PCI ao custo de {2.0e35} Dinheiro
+window_importer_transistor,Importador de Transistor
+window_importer_transistor_desc,Importa Transistor ao custo de {1.0e35} Dinheiro
+window_importer_wire,Importador de Fio
+window_importer_wire_desc,Importa Fio ao custo de {1.0e34} Dinheiro
+window_importer_plastic,Importador de Plástico
+window_importer_plastic_desc,Importa Plástico ao custo de {6.0e34} Dinheiro
+window_importer_wafer,Importador de Wafer
+window_importer_wafer_desc,Importa Wafer ao custo de {4.0e35} Dinheiro
+window_importer_refined_oil,Importador de Petróleo Refinado
+window_importer_refined_oil_desc,Importa Petróleo Refinado ao custo de {3.0e34} Dinheiro
+window_importer_copper_plate,Importador de Placa de Cobre
+window_importer_copper_plate_desc,Importa Placa de Cobre ao custo de {1.0e34} Dinheiro
+window_importer_purified_silicon,Importador de Silício Purificado
+window_importer_purified_silicon_desc,Importa Silício Purificado ao custo de {4.5e34} Dinheiro
+window_importer_sand,Importador de Areia
+window_importer_sand_desc,Importa Areia ao custo de {1.0e34} Dinheiro
+window_importer_oil,Importador de Petróleo Bruto
+window_importer_oil_desc,Importa Petróleo Bruto ao custo de {7.5.e33} Dinheiro
+window_importer_copper,Importador de Cobre
+window_importer_copper_desc,Importa Cobre ao custo de {1.0e34} Dinheiro
+window_importer_silicon,Importador de Silício
+window_importer_silicon_desc,Importa Silício ao custo de {7.5e33} Dinheiro
+window_hacker,Interface Hacker
+window_hacker_desc,Fornece Poder de Hack baseado na Experiência em Hack
+window_payload_launcher,Lançar Payload
+window_payload_launcher_desc,Produz Dano de Payload usando Poder de Hack que pode ser usado para brechar alvos
+window_build_infection,Criar Infecção
+window_build_infection_desc,Produz Dano de Infecção usando Poder de Hack que pode ser usado para brechar alvos
+window_split_attack,Ataque Difuso
+window_split_attack_desc,Cria quatro saídas com o dano inserido
+window_execute_injection,Executar Injeção
+window_execute_injection_desc,"Usa Poder de Hack para criar Vulnerabilidade, que pode ser usado para enfraquecer alvos de brecha"
+window_infect_payload,Infectar Payload
+window_infect_payload_desc,Ganha 20% do Dano de Payload como Dano de Infecção
+window_critical_payload,Payload Crítico
+window_critical_payload_desc,Tem 10% de chance de aumentar o Dano de Payload em 150%
+window_ghost_attack,Ataque Fantasma
+window_ghost_attack_desc,"Adiciona o modificador de espreita a qualquer dano, fazendo com que ele ignore o firewall do alvo"
+window_spread_infection,Propagar Infecção
+window_spread_infection_desc,"Adiciona o modificador Propagação ao Dano de Infecção, fazendo com que ele cresça no hospedeiro em 10% a cada segundo"
+window_charged_attack,Ataque Carregado
+window_charged_attack_desc,"Carrega cada ataque. Com 3 cargas, aumenta o poder do próximo ataque em 100%"
+window_breach_anonymous,Invadir Anonymous
+window_breach_anonymous_desc,"Começa uma brecha contra os anonymous, concedendo Experiência em Hack em caso de sucesso"
+window_breach_corps,Invadir Corporações
+window_breach_corps_desc,"Começa uma brecha contra corporações, roubando Dados de Corporação em caso de sucesso"
+window_breach_government,Invadir Governo
+window_breach_government_desc,"Começa uma brecha contra o governo, concedendo Inteligência Governamental em caso de sucesso"
+window_breach_bank,Invadir Bancos
+window_breach_bank_desc,"Começa uma brecha contra bancos, concedendo Fichas em caso de sucesso"
+window_virus_manipulator,Manipular Vírus
+window_virus_manipulator_desc,Manipula Vírus em Trojans
+window_drain,Drenar
+window_drain_desc,Gera Impulso de Componente baseado nos Computador Infectados inseridos
+window_coder,Interface de Programação
+window_coder_desc,Fornece Velocidade de Programação
+window_for,For
+window_for_desc,Combina múltiplas Velocidade de Programação em uma única velocidade
+window_if,If
+window_if_desc,Divide Velocidade de Programação em duas velocidades diferentes
+window_ide,IDE
+window_ide_desc,Produz todos tipos de variáveis primitivas com taxas controladas pelo usuário
+window_code_variable,Programar Variável
+window_code_bool,Programar bool
+window_code_bool_desc,Gera variáveis bool usando Velocidade de Programação
+window_code_char,Programar char
+window_code_char_desc,Gera variáveis char usando Velocidade de Programação
+window_code_int,Programar int
+window_code_int_desc,Gera variáveis int usando Velocidade de Programação
+window_code_float,Programar float
+window_code_float_desc,Gera variáveis float usando Velocidade de Programação
+window_variable_combiner,Combinador de Variáveis
+window_variable_combiner_desc,Gera variáveis avançadas baseado nas variáveis primitivas inseridas
+window_code_array,Nova Array
+window_code_array_desc,Gera arrays usando variáveis
+window_code_hashmap,Nova HashMap
+window_code_hashmap_desc,Gera hashmaps com o uso de arrays de Strings e outra array
+window_pull_optimization,Puxar Código de Otimização
+window_pull_optimization_desc,Puxa códigos de otimização com o modificador bugado usando Velocidade de Programação
+window_pull_application,Puxar Código de Aplicação
+window_pull_application_desc,Puxa códigos de aplicação com o modificador bugado usando Velocidade de Programação
+window_pull_driver,Puxar Código de Driver
+window_pull_driver_desc,Puxa códigos de driver com o modificador bugado usando Velocidade de Programação
+window_commit,Comitar
+window_commit_desc,Comita código em troca de Contribuição
+window_build,Compilar
+window_build_desc,"Compila otimizações, aplicações e drivers"
+window_code_bugfix,Programar Bug Fix
+window_code_bugfix_desc,Programa bug fixes usando variáveis primitivas
+window_code_optimization,Programar Otimização
+window_code_optimization_desc,Programa otimizações usando variáveis avançadas
+window_code_application,Programar Aplicação
+window_code_application_desc,Programa aplicações usando arrays
+window_code_driver,Programar Driver
+window_code_driver_desc,Programa drivers usando hashmaps
+window_debug,Depurar
+window_debug_desc,"Depura códigos para possíveis bugs, adicionando o modificador testado e aumentando sua qualidade em 4x"
+window_fix_code,Fixar Código
+window_fix_code_desc,Fixa códigos bugados usando bug fixes para melhorar sua qualidade em 4x
+window_optimize_code,Otimizar Código
+window_optimize_code_desc,"Otimiza códigos usando otimizações, aumentando sua qualidade em 4x"
+window_collect,Coletor
+window_collect_desc,Colhe recursos para ser usado fora da área de trabalho
+window_auto_collect,Auto Coletor
+window_auto_collect_desc,Automaticamente colhe recursos para ser usado fora da área de trabalho
+window_inventory,Inventário
+window_inventory_desc,Armazena recursos do mesmo tipo e os combina em uma única saída
+window_splitter,Divisor
+window_splitter_desc,Divide recursos em duas saídas diferentes
+window_folder,Pasta
+window_folder_desc,Armazena arquivos do mesmo tipo e os combina em uma única saída
+window_allocator,Alocador
+window_allocator_desc,Distribui arquivos em duas saídas diferentes
+window_repository,Repositório
+window_repository_desc,Armazena elementos do mesmo tipo e os combina em uma única saída
+window_segmenter,Segmentador
+window_segmenter_desc,Divide elementos em duas saídas diferentes
+window_container,Contêiner
+window_container_desc,Armazena materiais do mesmo tipo e os combina em uma única saída
+window_distributor,Distribuidor
+window_distributor_desc,Divide materiais em duas saídas diferentes
+window_group,Grupo de Nódulos
+window_group_desc,Agrupa nódulos para facilitar sua organização
+window_bin,Lixo
+window_network_exchanger,Inversor de Rede
+window_network_exchanger_desc,Converte Velocidade de Upload em Velocidade de Download e Velocidade de Download em Velocidade de Upload
+window_overclocker,Overclocker
+window_overclocker_desc,Configura a quantia de overclock
+window_heat_sink,Dissipador de Calor
+window_heat_sink_desc,Dissipa calor produzido através do overclock
+window_air_cooler,Refrigerador de Ar
+window_water_cooler,Refrigerador de Água
+window_jet_cooler,Resfriador a Jato
+window_cryo_cooler,Resfriador Criogênico
+window_thermal_field_generator,Gerador de Campo Térmico
+upgrade_premium_texts,Textos Premium
+upgrade_premium_texts_desc,Aumenta o valor de arquivos de Texto em 100%
+upgrade_processor,Unidade Central de Processamento
+upgrade_processor_desc,Desbloqueia o Processador
+upgrade_request_uploader,Passe do Uploader
+upgrade_request_uploader_desc,"Desbloqueia o Uploader de Pedido, que permite que pedidos sejam completados em troca de Fichas"
+upgrade_image_downloader,Downloader de Imagem
+upgrade_image_downloader_desc,Desbloqueia o Downloader de Imagem
+upgrade_antivirus,Antivírus
+upgrade_antivirus_desc,"Desbloqueia o Scanner de Vírus, que escaneia arquivos para aumentar seu valor"
+upgrade_antivirus_plus,Antivírus+
+upgrade_antivirus_plus_desc,"Desbloqueia a Quarentena, que remove vírus de arquivos para aumentar seu valor"
+upgrade_premium_images,Imagens Premium
+upgrade_premium_images_desc,Aumenta o valor de arquivos de Imagem em 100%
+upgrade_sound_downloader,Downloader de Som
+upgrade_sound_downloader_desc,Desbloqueia o Downloader de Som
+upgrade_gpu,Unidade de Processamento Gráfico
+upgrade_gpu_desc,Desbloqueia a GPU
+upgrade_premium_sounds,Sons Premium
+upgrade_premium_sounds_desc,Aumenta o valor de arquivos de Som em 100%
+upgrade_video_downloader,Downloader de Vídeo
+upgrade_video_downloader_desc,Desbloqueia o Downloader de Vídeo
+upgrade_premium_videos,Vídeos Premium
+upgrade_premium_videos_desc,Aumenta o valor de arquivos de Vídeo em 100%
+upgrade_research,Pesquisa
+upgrade_research_desc,Desbloqueia pesquisas e o Laboratório de Dados
+upgrade_data_lab,Laboratório de Dados
+upgrade_data_lab_desc,Aumenta o limite de Laboratório de Dados em 1
+upgrade_program_downloader,Downloader de Programa
+upgrade_program_downloader_desc,Desbloqueia o Downloader de Programa
+upgrade_premium_programs,Programas Premium
+upgrade_premium_programs_desc,Aumenta o valor de arquivos de Programa em 100%
+upgrade_game_downloader,Downloader de Jogo
+upgrade_game_downloader_desc,Desbloqueia o Downloader de Jogo
+upgrade_premium_games,Jogos Premium
+upgrade_premium_games_desc,Aumenta o valor de arquivos de Jogo em 100%
+upgrade_improved_ai_texts,Geração de Texto Aprimorada
+upgrade_improved_ai_texts_desc,Aumenta o valor de Textos gerados em 100%
+upgrade_improved_ai_images,Geração de Imagem Aprimorada
+upgrade_improved_ai_images_desc,Aumenta o valor de Imagens geradas em 100%
+upgrade_improved_ai_sounds,Geração de Som Aprimorada
+upgrade_improved_ai_sounds_desc,Aumenta o valor de Sons gerados em 100%
+upgrade_improved_ai_videos,Geração de Vídeo Aprimorada
+upgrade_improved_ai_videos_desc,Aumenta o valor de Vídeos gerados em 100%
+upgrade_improved_ai_programs,Geração de Programa Aprimorada
+upgrade_improved_ai_programs_desc,Aumenta o valor de Programas gerados em 100%
+upgrade_improved_ai_games,Geração de Jogo Aprimorada
+upgrade_improved_ai_games_desc,Aumenta o valor de Jogos gerados em 100%
+upgrade_heat_sink,Dissipador de Calor
+upgrade_heat_sink_desc,Aumenta o limite de Dissipadores de Calor em 1
+upgrade_router_assembler,Montador de Roteador
+upgrade_router_assembler_desc,Aumenta o limite de Montador de Roteador em 1
+upgrade_cpu_core_assembler,Montador de Núcleo de CPU
+upgrade_cpu_core_assembler_desc,Aumenta o limite de Montador de Núcleo de CPU em 1
+upgrade_gpu_assembler,Montador de GPU
+upgrade_gpu_assembler_desc,Aumenta o limite de Montador de GPU em 1
+upgrade_pcb_solder,Soldador de PCI
+upgrade_pcb_solder_desc,Aumenta o limite de Soldador de PCI em 1
+upgrade_wafer_cutter,Cortador de Wafer
+upgrade_wafer_cutter_desc,Aumenta o limite de Cortador de Wafer em 1
+upgrade_wire_mill,Fábrica de Fios
+upgrade_wire_mill_desc,Aumenta o limite de Fábrica de Fios em 1
+upgrade_polymerizer,Polimerizador
+upgrade_polymerizer_desc,Aumenta o limite de Polimerizador em 1
+upgrade_wafer_synthesizer,Sintetizador de Wafer
+upgrade_wafer_synthesizer_desc,Aumenta o limite de Sintetizador de Wafer em 1
+upgrade_oil_refiner,Refinador de Petróleo
+upgrade_oil_refiner_desc,Aumenta o limite de Refinador de Petróleo em 1
+upgrade_metal_press,Prensa de Metal
+upgrade_metal_press_desc,Aumenta o limite de Prensa de Metal em 1
+upgrade_silicon_purifier,Purificador de Silício
+upgrade_silicon_purifier_desc,Aumenta o limite de Purificador de Silício em 1
+upgrade_miner,Mineradora
+upgrade_miner_desc,Aumenta o limite de Mineradora em 1
+upgrade_oil_pump,Bomba de Petróleo
+upgrade_oil_pump_desc,Aumenta o limite de Bomba de Petróleo em 1
+upgrade_excavator,Escavadora
+upgrade_excavator_desc,Aumenta o limite de Escavadora em 1
+upgrade_factory_space,Espaço de Fábrica
+upgrade_factory_space_desc,Aumenta a capacidade de máquina em 1
+upgrade_server,Servidor
+upgrade_server_desc,Aumenta o limite de Servidor em 1
+upgrade_processing_value_multiplier,Valor de Processamento
+upgrade_processing_value_multiplier_desc,Aumenta multiplicativamente os ganhos com o Vendedor de Processamento em 100%.
+upgrade_mining_multiplier,Valor de Cripto
+upgrade_mining_multiplier_desc,Aumenta multiplicativamente o dinheiro ganho com criptomoedas em 100%.
+upgrade_hack_breach_damage,Dano Payload
+upgrade_hack_breach_damage_desc,Aumenta o Dano de Payload em 10%
+upgrade_hack_breach_speed,Velocidade de Brecha
+upgrade_hack_breach_speed_desc,Aumenta a velocidade de brecha em 4%
+upgrade_hack_breach_critical_chance,Chance de Crítico
+upgrade_hack_breach_critical_chance_desc,Adiciona 2% de chance para a chance de dano crítico
+upgrade_hack_breach_critical_multiplier,Multiplicador de Crítico
+upgrade_hack_breach_critical_multiplier_desc,Aumenta o dano crítico em 12%
+upgrade_hack_infection_damage,Dano de Infecção
+upgrade_hack_infection_damage_desc,Aumenta o Dano de Infecção em 10%
+upgrade_hack_infection_specialist,Especialista em Infecção
+upgrade_hack_infection_specialist_desc,Multiplicativamente aumenta o Dano de Infecção em 100%. Reduz o Dano de Payload em 40%
+upgrade_hack_sneak_attack,Ataque Surpresa
+upgrade_hack_sneak_attack_desc,Aumenta o limite de tempo de brecha em 1 segundo
+upgrade_hack_spoil,Saquear
+upgrade_hack_spoil_desc,Aumenta a recompensa de brechas em 100%
+upgrade_breach_money_multiplier,Informação Privilegiada
+upgrade_breach_money_multiplier_desc,Multiplicativamente aumenta o Dinheiro ganho em 20%
+upgrade_breach_research_multiplier,Espionagem
+upgrade_breach_research_multiplier_desc,Multiplicativamente aumenta a Pesquisa ganha em 20%
+upgrade_breach_price_multiplier,Chantagem
+upgrade_breach_price_multiplier_desc,Reduz preços em 5%
+upgrade_breach_research_speed_multiplier,Pesquisa Antiética
+upgrade_breach_research_speed_multiplier_desc,Aumenta a Velocidade de Pesquisa em 10%
+upgrade_breach_government_layers,Sabotagem do Governo
+upgrade_breach_government_layers_desc,Multiplicativamente reduz as camadas de defesa do governo em 10%
+upgrade_breach_corporation_layers,Sabotagem de Corporações
+upgrade_breach_corporation_layers_desc,Multiplicativamente reduz as camadas de defesa de corporações em 10%
+upgrade_optimization,Otimização
+upgrade_optimization_desc,Concede um Ponto de Otimização
+upgrade_application,Aplicação
+upgrade_application_desc,Concede um Ponto de Aplicação
+upgrade_driver,Driver
+upgrade_driver_desc,Impulsiona a performance de componentes
+upgrade_optimization_download_size,Downloads Compactos
+upgrade_optimization_download_size_desc,Reduz o tamanho de downloads pela metade
+upgrade_optimization_upload_size,Uploads Compactos
+upgrade_optimization_upload_size_desc,Reduz o tamanho de uploads pela metade
+upgrade_optimization_hashing,Hash Otimizado
+upgrade_optimization_hashing_desc,Reduz pela metade os ciclos de clock necessários para minerar criptomoedas
+upgrade_optimization_virus_scanner,Scanner de Vírus Otimizado
+upgrade_optimization_virus_scanner_desc,Reduz pela metade os ciclos de clock necessários pelo Scanner de Vírus
+upgrade_optimization_quarantine,Quarentena Otimizada
+upgrade_optimization_quarantine_desc,Reduz pela metade os ciclos de clock necessários pela Quarentena
+upgrade_optimization_verifier,Verificação de Integridade Otimizada
+upgrade_optimization_verifier_desc,Reduz pela metade os ciclos de clock necessários pelo Verificador
+upgrade_optimization_compression,Compressão Otimizada
+upgrade_optimization_compression_desc,Reduz pela metade os ciclos de clock necessários pelo Compressor
+upgrade_optimization_enhancement,Aprimoramento Otimizado
+upgrade_optimization_enhancement_desc,Reduz pela metade os ciclos de clock necessários pelo Aprimorador
+upgrade_optimization_refinement,Refinamento Otimizado
+upgrade_optimization_refinement_desc,Reduz pela metade os ciclos de clock necessários pelo Refinador de Dados
+upgrade_optimization_analysis,Pré-análise Otmizada
+upgrade_optimization_analysis_desc,Reduz pela metade os ciclos de clock necessários pelo Pré-analisador
+upgrade_optimization_distillation,Destilação Otimizada
+upgrade_optimization_distillation_desc,Reduz pela metade os ciclos de clock necessários pelo Destilador
+upgrade_optimization_torrent_browsing,Navegação Torrent Otimizada
+upgrade_optimization_torrent_browsing_desc,Reduz pela metade a largura de banda necessária para navegadores Torrent
+upgrade_optimization_decryption,Descriptografia Otimizada
+upgrade_optimization_decryption_desc,Reduz pela metade os ciclos de clock necessários pelo Descriptografador
+upgrade_optimization_virus_extractor,Extração de Vírus Otimizada
+upgrade_optimization_virus_extractor_desc,Reduz pela metade os ciclos de clock necessários pelo Extrator de Vírus
+upgrade_optimization_trojan_injector,Injeção de Trojan Otimizada
+upgrade_optimization_trojan_injector_desc,Reduz pela metade os ciclos de clock necessários pelo Injetor de Trojan
+upgrade_optimization_decompiler,Decompilação Otimizada
+upgrade_optimization_decompiler_desc,Reduz pela metade os ciclos de clock necessários pelo Decompilador
+upgrade_optimization_decomposer,Decomposição Otimizada
+upgrade_optimization_decomposer_desc,Reduz pela metade os ciclos de clock necessários pelo Decompositor
+upgrade_optimization_demuxer,Demultiplexação Otimizada
+upgrade_optimization_demuxer_desc,Reduz pela metade os ciclos de clock necessários pelo Demultiplexador
+upgrade_optimization_scrapper,Raspagem Otimizada
+upgrade_optimization_scrapper_desc,Reduz pela metade os ciclos de clock necessários pelo Raspador
+upgrade_optimization_ripper,Extração Otimizada
+upgrade_optimization_ripper_desc,Reduz pela metade os ciclos de clock necessários pelo Extrator
+upgrade_optimization_movie_maker,Renderização Otimizada
+upgrade_optimization_movie_maker_desc,Reduz pela metade os ciclos de clock necessários pelo Movie Maker
+upgrade_optimization_compiler,Compilação Otimizada
+upgrade_optimization_compiler_desc,Reduz pela metade os ciclos de clock necessários pelo Compilador
+upgrade_optimization_game_engine,Motor de Jogo Otimizado
+upgrade_optimization_game_engine_desc,Reduz pela metade os ciclos de clock necessários pelo Motor de Jogo
+upgrade_optimization_trainer,Aprendizado Otimizado
+upgrade_optimization_trainer_desc,Reduz pela metade os ciclos de clock necessários pelo Treinador de IA
+upgrade_optimization_movie_renderer,Renderização com GPU Otmizada
+upgrade_optimization_movie_renderer_desc,Reduz pela metade os ciclos de clock necessários pelo Renderizador de Vídeo
+upgrade_optimization_encompressor,Comprimoração Otimizada
+upgrade_optimization_encompressor_desc,Reduz pela metade os ciclos de clock necessários pelo Comprimorador
+upgrade_optimization_torrent_filtering,Filtragem Otimizada de Torrents
+upgrade_optimization_torrent_filtering_desc,Reduz pela metade a largura de banda necessária para Filtros de Torrent
+research_network,Rede
+research_network_desc,Desbloqueia o hardware de rede e a habilidade de baixar e enviar arquivos
+research_processor,Processador
+research_processor_desc,Desbloqueia o hardware CPU e a habilidade de vender processamento
+research_gpu,GPU
+research_gpu_desc,Desbloqueia o hardware Cluster de GPU e a habilidade de minerar e vender criptomoedas
+research_research,Pesquisa
+research_research_desc,"Desbloqueia o Laboratório de Dados, que gera Pesquisa para desbloquear novas tecnologias permanentemente"
+research_verifier,Validação de Checksum
+research_verifier_desc,"Desbloqueia o Verificador, que valida a integridade de arquivos para aumentar seu valor"
+research_redownload,Rebaixar
+research_redownload_desc,"Desbloqueia o Rebaixador, que conserta arquivos corruptos para aumentar seu valor"
+research_synchronizer,Paralelismo
+research_synchronizer_desc,"Desbloqueia nódulos de sincronização, permitindo que núcleos de CPU e GPU trabalhem simultaneamente"
+research_network_exchanger,Inversor de Rede
+research_network_exchanger_desc,Converte Velocidade de Upload em Velocidade de Download e Velocidade de Download em Velocidade de Upload
+research_network_merging,Junção de Redes
+research_network_merging_desc,"Desbloqueia agregadores de Velocidade de Download e Upload, permitindo que ambas velocidades sejam combinadas em uma única velocidade"
+research_scheduler,Agendamento
+research_scheduler_desc,"Desbloqueia o Agendador, permitindo que Velocidade de GPU seja convertida em Velocidade de Clock"
+research_gpu_manager,Gestor de GPU
+research_gpu_manager_desc,Permite que a Velocidade da GPU seja dividida com proporções controladas pelo usuário
+research_file_processing,Operações de Arquivo
+research_file_processing_desc,"Desbloqueia o Compressor e o Aprimorador, permitindo que arquivos sejam compactados em tamanho ou aprimorados para maior qualidade"
+research_compression_level2,Compressão Dupla
+research_compression_level3,Compressão Tripla
+research_compression_level_desc,Aumenta o limite de compressões em um arquivo em 1
+research_enhancement_level2,Aprimoramento Duplo
+research_enhancement_level3,Aprimoramento Triplo
+research_enhancement_level_desc,Aumenta o limite de aprimoramentos em um arquivo em 1
+research_bitcoin,Mineração de Bitcoin
+research_bitcoin_desc,"Desbloqueia a habilidade de minerar Bitcoin, uma moeda de volatilidade média"
+research_hacking,Hackeamento
+research_hacking_desc,Desbloqueia o acesso ao hackeamento
+research_breach_corporation,Brecha de Corporação
+research_breach_corporation_desc,Desbloqueia a habilidade de invadir corporações e roubar dados para ganhos monetários
+research_breach_bank,Brecha de Bancos
+research_breach_bank_desc,Desbloqueia a habilidade de invadir bancos e roubar Fichas
+research_infection_damage,Dano de Infecção
+research_infection_damage_desc,Desbloqueia a habilidade de gerar Dano de Infecção
+research_breach_government,Brecha de Governo
+research_breach_government_desc,Desbloqueia a habilidade de invadir corporações e roubar inteligência para propósitos de pesquisa
+research_hack_skills,Habilidades de Brecha
+research_hack_skills_desc,Desbloqueia o acesso a nódulos de habilidade que compartilham seu limite entre si. Cada nível permite que você pesquise uma habilidade de sua escolha
+research_infect_payload,Infectar Payload
+research_infect_payload_desc,"Desbloqueia a habilidade ""Infectar Payload"", permitindo que Dano de Payload adquira Dano de Infecção"
+research_critical_payload,Payload Crítico
+research_critical_payload_desc,"Desbloqueia a habilidade ""Payload Crítico"", que permite que o Dano de Payload tenha uma chance de aumentar seu poder consideravelmente"
+research_ghost_attack,Ataque Fantasma
+research_ghost_attack_desc,"Desbloqueia a habilidade ""Ataque Fantasma"", permitindo que danos ignorem o Firewall dos alvos"
+research_charged_attack,Ataque Carregado
+research_charged_attack_desc,"Desbloqueia a habilidade Ataque Carregado, permitindo que danos sejam carregados para um superataque"
+research_spread_infection,Propagar Infecção
+research_spread_infection_desc,"Desbloqueia a habilidade Propagação da Infecção, permitindo que o Dano da Infecção se multiplique dentro do hospedeiro"
+research_injection,Injeção
+research_injection_desc,"Desbloqueia a habilidade ""Expor Fraqueza"", fazendo com que alvos de brecha recebam mais dano baseado no Poder de Hack"
+research_split_attack,Ataque Difuso
+research_split_attack_desc,"Desbloqueia o nódulo Ataque Difuso, que permite atacar vários alvos simultaneamente"
+research_trojan,Cavalo de Tróia
+research_trojan_desc,"Permite que vírus de arquivos infectados sejam extraídos e manipulados em cavalos de Troia, podendo ser injetados em arquivos para drenar computadores infectados e aumentar o desempenho"
+research_refinement,Refinamento de Dados
+research_refinement_desc,"Desbloqueia o Refinador de Dados, que refina arquivos para aumentar seu potencial de pesquisa"
+research_analysis,Pré-análise
+research_analysis_desc,"Desbloqueia o Pré-analisador, que permite pré-analisar arquivos para aumentar sua velocidade de pesquisa"
+research_coding,Programação
+research_coding_desc,Desbloqueia o acesso à programação
+research_build_tools,Ferramentas de Compilação
+research_build_tools_desc,Desbloqueia a capacidade de compilar código e instalá-lo no seu sistema para diferentes melhorias com base no tipo de código
+research_optimizations,Otimizações
+research_optimizations_desc,"Desbloqueia o acesso à combinações de variáveis, otimizações e compilação"
+research_applications,Aplicações
+research_applications_desc,Desbloqueia o acesso à arrays e à programação de aplicações
+research_drivers,Drivers
+research_drivers_desc,Desbloqueia o acesso à hashmaps e à programação de drivers
+research_debugging,Depuração
+research_debugging_desc,"Desbloqueia o acesso à depuração, que testa códigos por códigos consertados ou bugados"
+research_code_optimization,Otimização de Código
+research_code_optimization_desc,"Desbloqueia o acesso à otimização de códigos, que permite otimizar códigos e aumentar seu valor"
+research_optimization_level2,Otimização Dobrada
+research_optimization_level3,Otimização Triplicada
+research_optimization_level_desc,Aumenta a quantidade máxima de otimizações em um código em 1
+research_portal,Portal
+research_portal_desc,"Desbloqueia o acesso ao Portal Dimensional e a capacidade de converter Pesquisa em Pesquisa Avançada, que é usada para enfileirar melhorias de Portal"
+research_ethereum,Mineração de Ethereum
+research_ethereum_desc,"Desbloqueia a habilidade de minerar Ethereum, uma criptomoeda de alta volatilidade"
+research_token_mining,Mineração de Fichas
+research_token_mining_desc,Desbloqueia a habilidade de minerar Fichas
+research_torrents,Torrents
+research_torrents_desc,Desbloqueia a navegação e o download de torrents. Cada nível permite que você pesquise um navegador de sua escolha
+research_torrents_scanned,Torrents VirusFree
+research_torrents_scanned_desc,Desbloqueia a navegação por torrent para arquivos escaneados
+research_torrents_verified,Torrents IntegriMAX
+research_torrents_verified_desc,Desbloqueia a navegação por torrent para arquivos validados
+research_torrents_analyzed,Torrents Labs
+research_torrents_analyzed_desc,Desbloqueia a navegação por torrent para arquivos pré-analizados
+research_torrents_encrypted,Torrents Criptografados
+research_torrents_encrypted_desc,Desbloqueia a navegação por torrent para arquivos criptografados
+research_decryption,Descriptografia
+research_decryption_desc,"Desbloqueia o Descriptografador, permitindo que os arquivos criptografados sejam descriptografados para aumentar a qualidade"
+research_ai,Inteligência Artificial
+research_ai_desc,"Desbloqueia o acesso ao treinamento de IA para gerar neurônios a partir de arquivos, que podem ser usados para gerar arquivos de IA com modificadores personalizados"
+research_ai_texts,Modelo de Linguagem Grande
+research_ai_texts_desc,Desbloqueia o acesso à geração de Texto
+research_ai_images,Difusão
+research_ai_images_desc,Desbloqueia o acesso à geração de Imagem
+research_ai_sounds,Rede Vocoder
+research_ai_sounds_desc,Desbloqueia o acesso à geração de Som
+research_ai_videos,Transformador de Vídeo
+research_ai_videos_desc,Desbloqueia o acesso à geração de Vídeo
+research_ai_programs,Síntese de Programas
+research_ai_programs_desc,Desbloqueia o acesso à geração de Programa
+research_ai_games,Simulação Procedural
+research_ai_games_desc,Desbloqueia o acesso à geração de Jogo
+research_overclocking,Overclocking
+research_overclocking_desc,"Desbloqueia a habilidade de configurar o overclock de componentes, melhorando sua performance"
+research_distillation,Destilação de Dados
+research_distillation_desc,"Desbloqueia o Destilador, que permite destilar arquivos para potencializar seu ganho de neurônios"
+research_cooling,Refrigeração
+research_cooling_desc,"Desbloqueia o Dissipador de Calor, permitindo que o Calor produzido do overclocking seja dissipado"
+research_modular_components,Hardware Modulares
+research_modular_components_desc,"Permite a compra de Roteadores, Núcleos de CPU e GPUs que podem ser instalados em seus respectivos nódulos para escalabilidade infinita"
+research_assembly,Montagem de Hardware
+research_assembly_desc,"Desbloqueia montadoras que podem automatizar a produção de Roteador, Núcleo de CPUs e GPUs"
+research_soldering,Soldagem
+research_soldering_desc,Desbloqueia a produção de PCIs por meio da soldagem
+research_milling,Fresagem
+research_milling_desc,Desbloqueia a produção de Fios por meio da fresagem
+research_stamping,Estampagem
+research_stamping_desc,Desbloqueia a produção de Placas de Cobre por meio de estampagem
+research_polymerization,Polimerização
+research_polymerization_desc,Desbloqueia a produção de Plásticos por meio de polimerização
+research_oil_refining,Refinamento de Petróleo
+research_oil_refining_desc,Desbloqueia a produção de Petróleo Refinado por meio de refinamento
+research_wafer_cutting,Corte de Wafer
+research_wafer_cutting_desc,Desbloqueia a produção de Transistores através do corte de Wafers
+research_wafer_synthesis,Síntese de Wafer
+research_wafer_synthesis_desc,Desbloqueia a produção de Wafer através da síntese
+research_purification,Purificação do Silício
+research_purification_desc,Desbloqueia a produção de Silício Purificado por meio da purificação.
+research_server,Servidor
+research_server_desc,Permite que grandes quantidades de dados sejam armazenadas e entregues por servidores que geram receita com base nos arquivos armazenados
+research_agi,Inteligência Geral Artificial
+research_agi_desc,Desbloqueia uma inteligência capaz de impulsionar produtividade baseado na sua quantidade de neurônios
+research_network_speed,Velocidade de Rede
+research_network_speed_desc,Aumenta multiplicativamente a Velocidade de Download e Upload em 100%
+research_plus_network,Rede Adicional
+research_plus_network_desc,Aumenta o limite de redes em 1
+research_download_speed,Velocidade de Download
+research_download_speed_desc,Aumenta multiplicativamente a Velocidade de Download em 100%
+research_upload_speed,Velocidade de Upload
+research_upload_speed_desc,Aumenta multiplicativamente a Velocidade de Upload em 100%
+research_upload_value,Valor de Upload
+research_upload_value_desc,Aumenta multiplicativamente o dinheiro ganho de uploads em 100%
+research_fame,Fama
+research_fame_desc,Concede um aumento de 10% na renda de todas as fontes para cada pedido de upload concluído
+research_network_heat,Calor da Rede
+research_network_heat_desc,Reduz o Calor gerado por Redes em 20%
+research_processor_speed,Velocidade de Processor
+research_processor_speed_desc,Aumenta multiplicativamente a Velocidade de Clock em 100%
+research_starting_processor,Processador de Partida
+research_starting_processor_desc,Começa com o Processador desbloqueado
+research_plus_core,Núcleo de CPU Adicional
+research_plus_core_desc,Começa com um Núcleo de CPU adicional desbloqueado
+research_primary_core_speed,Velocidade de Núcleo Primário
+research_primary_core_speed_desc,Aumenta a Velocidade de Clock do Núcleo primário em 100%
+research_process_value,Valor de Processamento
+research_process_value_desc,Aumenta multiplicativamente o dinheiro ganho de venda de processamento em 100%
+research_threading,Threading
+research_threading_desc,Aumenta a Velocidade do Clock em 20% para cada núcleo da CPU desbloqueado
+research_plus_processor,Hiper-Threading
+research_plus_processor_desc,Aumenta o limite de Processador em 1
+research_processor_heat,Calor de Processador
+research_processor_heat_desc,Reduz o Calor gerado por Processadores em 20%
+research_gpu_speed,Velocidade de GPU
+research_gpu_speed_desc,Aumenta multiplicativamente a Velocidade de GPU em 100%
+research_sync_efficiency,Eficiência de Sincronização
+research_sync_efficiency_desc,Dobra a Velocidade do Clock concedida pela velocidade da GPU ao usar o Agendador de Tarefas
+research_plus_gpu,GPU Adicional
+research_plus_gpu_desc,Começa com uma GPU adicional desbloqueada
+research_coin_value,Valor de Cripto
+research_coin_value_desc,Aumenta multiplicativamente a renda proveniente de criptomoedas em 100%
+research_gpu_threading,Paralelismo da GPU
+research_gpu_threading_desc,Aumenta a Velocidade da GPU em 20% para cada GPU desbloqueada
+research_plus_cluster,Cluster Adicional
+research_plus_cluster_desc,Aumenta o limite de Cluster de GPU em 1
+research_gpu_heat,Calor de GPU
+research_gpu_heat_desc,Reduz o Calor gerado por GPUs em 20%
+research_hack_power,Poder de Hack
+research_hack_power_desc,Aumenta multiplicativamente o Poder de Hack em 100%
+research_hack_skill,Habilidade de Brecha
+research_hack_skill_desc,Aumenta o limite de habilidades de brecha em 1
+research_improved_learning,Aprendizagem Aprimorada
+research_improved_learning_desc,Concede um ponto de hack adicional a cada 2 níveis
+research_quick_learner,Aluno Rápido
+research_quick_learner_desc,Reduz o aumento da exigência de Experiência de Hack em 5%
+research_breach_time,Manipulação de Tempo
+research_breach_time_desc,Aumenta o tempo limite de brecha em 1 segundo
+research_constant_learning,Aprendizagem Constante
+research_constant_learning_desc,"A cada segundo, gere 5% da Experiência Hack da recompensa da ameaça anônima mais alta alcançada"
+research_data_leak,Vazamento de Dados
+research_data_leak_desc,"A cada segundo, gere 5% dos Dados de Corporação da recompensa pela maior ameaça de corporação alcançada"
+research_intel_leak,Espião Institucional
+research_intel_leak_desc,"A cada segundo, gere 5% de Inteligência de Governo da recompensa pela maior ameaça de governo alcançada"
+research_malice,Malícia
+research_malice_desc,Aumenta multiplicativamente o ganho de computadores infectados em 100%.
+research_lab_speed,Velocidade de Pesquisa
+research_lab_speed_desc,Aumenta multiplicativamente a velocidade de pesquisa em 100%.
+research_plus_lab,Laboratório de Dados Adicional
+research_plus_lab_desc,Aumenta o limite de Laboratório de Dados em 1
+research_data_leftovers,Dados Remanescentes
+research_data_leftovers_desc,Ganhe uma pesquisa adicional para cada arquivo pesquisado
+research_statistics,Estatísticas
+research_statistics_desc,Concede um aumento de 10% na Pesquisa para cada pesquisa desbloqueada
+research_code_speed,Velocidade de Codificação
+research_code_speed_desc,Aumenta multiplicativamente a Velocidade de Programação em 100%
+research_contribution_requirement,Maior Colaborador
+research_contribution_requirement_desc,Reduz o aumento da exigência de Contribuição em 5%
+research_contribution_multiplier,Pedido de Funcionalidade
+research_contribution_multiplier_desc,Aumenta multiplicativamente o ganho de Contribuição em 100%.
+research_project_buildup,Reforma do Algoritmo
+research_project_buildup_desc,Aumenta multiplicativamente a acumulação do projeto em 100%.
+research_optimization_points,Pré-otimizado
+research_optimization_points_desc,Comece com 3 pontos de otimização
+research_application_points,Pré-compilado
+research_application_points_desc,Comece com 1 ponto de aplicação
+research_driver_requirement,Ajustes de Driver
+research_driver_requirement_desc,Reduz o aumento dos requisitos de compilação do driver em 5%
+research_bool_production,Codificação Bool
+research_bool_production_desc,Dobra a produção de bool
+research_int_production,Codificação Int
+research_int_production_desc,Dobra a produção de int
+research_float_production,Codificação Float
+research_float_production_desc,Dobra a produção de float
+research_char_production,Codificação Char
+research_char_production_desc,Dobra a produção de char
+perk_auto_collect,Auto Coletor
+perk_auto_collect_desc,"Desbloqueia o Auto Coletor, que automaticamente coleta recursos inseridos"
+perk_groups,Grupo de Nódulos
+perk_groups_desc,"Desbloqueia o Grupo de Nódulos, permitindo que nódulos sejam agrupados e movidos juntos"
+perk_network_limiter,Limitador de Rede
+perk_network_limiter_desc,"Desbloqueia o Limitador de Rede, permitindo que Velocidade de Download e Upload sejam separados em taxas diferenciadas"
+perk_cheapskate,Pão-duro
+perk_cheapskate_desc,Reduz os custos de dinheiro em 5%
+perk_download_manager,Gerenciador de Download
+perk_download_manager_desc,"Desbloqueia o Gerenciador de Download, que permite baixar todos arquivos com taxas específicadas"
+perk_antivirus_pro,Antivírus Pro
+perk_antivirus_pro_desc,"Desbloqueia o Antivírus Pro, que escanea e remove vírus de arquivos"
+perk_token_multiplier,Sorte
+perk_token_multiplier_desc,Aumenta o ganho de fichas de spawn aleatórios em 1
+perk_max_rest_time,Cache de Tempo
+perk_max_rest_time_desc,Aumenta a capacidade de Tempo de Descanso em 30 segundos
+perk_rest_time_multiplier,Catalizador Ocioso
+perk_rest_time_multiplier_desc,Aumenta o Tempo de Descanso ganho em 10%
+perk_thread_manager,Gerenciador de Thread
+perk_thread_manager_desc,"Desbloqueia o Gerenciador de Thread, permitindo que Velocidade de Clock seja divivido em taxas diferenciadas"
+perk_plus_network,Dualidade de Rede
+perk_plus_network_desc,Aumenta o limite de nódulos de rede em 1
+perk_mine_tether,Mineração de Tether
+perk_mine_tether_desc,"Desbloqueia a mineração de Tether, uma criptomoeda que é automaticamente convertida em Dinheiro"
+perk_automated_crypto_seller,Vendedor de Cripto Automatizado
+perk_automated_crypto_seller_desc,"Desbloqueia o Auto Vendedor de Cripto, que vende criptomoedas em troca de dinheiro"
+perk_plus_laboratory,Pesquisa Extensiva
+perk_plus_laboratory_desc,Aumenta o límite de nódulos de Laboratório de Dados em 1
+perk_system_upgrade,Melhoria de Sistema
+perk_system_upgrade_desc,Multiplicativamente aumenta a performance do sistema em 20%
+perk_hack_specialization,Especialização Hacker
+perk_hack_specialization_desc,Multiplicativamente aumenta o Poder de Hack em 20%
+perk_code_specialization,Especialização em Programação
+perk_code_specialization_desc,Multiplicativamente aumenta a Velocidade de Programação em 20%
+perk_breach_skills,Habilidades de Brecha
+perk_breach_skills_desc,Aumenta o limite de habilidades de brecha em 1
+perk_ide,IDE
+perk_ide_desc,"Desbloqueia o IDE, permitindo que variáveis sejam programadas à taxas especificadas"
+premium_daily_tokens,Fichas Diárias
+premium_daily_tokens_desc,"Instantaneamente receba 1400 Fichas
+Receba 200 Fichas diariamente
++1 Nível de Suporte"
+premium_token_pack,Pacote de Fichas
+premium_token_pack_desc,"Instantaneamente receba 5000 Fichas
++1 Nível de Suporte"
+premium_chronomancer,Gerador de Tempo
+premium_chronomancer_desc,"Dobra a capacidade e ganho do Tempo de Descanso
+Produz Tempo de Descanso enquanto online
++1 Nível de Suporte"
+premium_permanent_boost,Impulsos Permanentes
+premium_permanent_boost_desc,"Impulsos se tornam permanentes
++1 Nível de Suporte"
+premium_daily_tokens_plus,Fichas Diárias+
+premium_daily_tokens_plus_desc,"Instantaneamente receba 2100 Fichas
+Receba 300 Fichas diariamente
++1 Nível de Suporte"
+premium_ad_remover,Removedor de ADs
+premium_ad_remover_desc,"Converte ADs em Fichas automaticamente
++1 Nível de Suporte"
+boost_money,Impressor de Dinheiro
+boost_money_desc,Dobra os ganhos em dinheiro em 10 minutos
+boost_bandwidth,Sequestro de DNS
+boost_bandwidth_desc,Dobra a Velocidade de Download e Upload por 10 minutos
+boost_clock,Overclock
+boost_clock_desc,Dobra a Velocidade de Clock por 10 minutos
+boost_gpu,Superaquecer
+boost_gpu_desc,Dobra a Velocidade de GPU por 10 minutos
+boost_research,Pesquisa Minuciosa
+boost_research_desc,Dobra a Velocidade de Pesquisa por 10 minutos
+boost_hack_power,Amplificar Payload
+boost_hack_power_desc,Dobra o Poder de Hack por 10 minutos
+boost_code_speed,Divisão de Thread
+boost_code_speed_desc,Dobra a Velocidade de Programação por 10 minutos
+service_hack_reset,Respecializar
+service_hack_reset_desc,Reseta e reembolsa todos pontos em hacking e suas melhorias
+service_optimization_reset,Revisão
+service_optimization_reset_desc,Reseta e reembolsa todos pontos de otimização e suas melhorias
+service_application_reset,Reinstalar
+service_application_reset_desc,"Reseta e reembolsa todos pontos de aplicação, suas melhorias e nódulos"
+service_portal_reset,Rebobinar
+service_portal_reset_desc,Reseta e reembolsa todas as atualizações do portal
+build_limit_reached,Erro: limite de nódulos alcançado
+placement_error,Um ou mais nódulos não puderam ser posicionados
+stats_max_money,Dinheiro Total
+stats_max_research,Pesquisa Total
+stats_max_infections,Infecções Totais
+stats_max_tokens,Fichas Totais
+stats_downloads,Downloads
+stats_uploads,Uploads
+stats_scanned,Arquivos Escaneados
+stats_quarantined,Arquivos em Quarentena
+stats_verified,Arquivos Verificados
+stats_redownloaded,Arquivos Rebaixados
+stats_compressed,Arquivos Comprimidos
+stats_enhanced,Arquivos Aprimorados
+stats_refined,Arquivos Refinados
+stats_analyzed,Arquivos Pré-analisados
+stats_distilled,Arquivos Destilados
+stats_researched,Arquivos Pesquisados
+stats_max_hack_experience,Experiência em Hack Total
+stats_max_corporation_data,Dados de Corporação Roubados
+stats_max_government_intel,Inteligência Governamental Roubadas
+stats_anonymous_breached,Brechas de Anonymous
+stats_corporation_breached,Brechas de Corporações
+stats_government_breached,Brechas de Governo
+stats_bank_breached,Brechas de Banco
+stats_tokens_collected,Fichas Coletadas
+stats_commits,Comitamentos Concluídos
+stats_max_neurons,Neurônios Totais
+stats_generated,Arquivos Gerados
+stats_reborns,Portais Acessados
+stats_sessions,Sessões
+stats_elapsed_time,Tempo Decorrido
+stats_time_played,Tempo Jogado
+achievement_first_upload,Início
+achievement_first_upload_desc,Faça upload do seu primeiro arquivo
+achievement_variety_downloader,Downloader de Variedade
+achievement_variety_downloader_desc,Baixe todos os arquivos simultaneamente
+achievement_wasted_effort,Esforços em Vão
+achievement_wasted_effort_desc,Comprima um arquivo aprimorado ou vice-versa
+achievement_infected,O que pode dar errado?
+achievement_infected_desc,Faça upload de um arquivo infectado
+achievement_quarantined,Protocolo de Contaminação
+achievement_quarantined_desc,Remova vírus de um arquivo infectado
+achievement_redownloaded,Curador de Dados
+achievement_redownloaded_desc,Arrume um arquivo corrompido
+achievement_stylist,Estilista
+achievement_stylist_desc,Use todas as cores do Grupo de Nódulos simultaneamente
+achievement_system_planner,Planejador de Sistemas
+achievement_system_planner_desc,Cria um esquema
+achievement_market_crash,Crise de Mercado
+achievement_market_crash_desc,Venda todas as suas moedas a um preço elevado
+achievement_reborn,Viajante Universal
+achievement_reborn_desc,Entre no Portal
+achievement_hacking,Ascenção Hack
+achievement_hacking_desc,Desbloqueie habilidades em hacking
+achievement_serial_breacher,Invasor em Série
+achievement_serial_breacher_desc,"Invada o anonymous, corporações, e o governo em menos de 1 segundo"
+achievement_grand_heist,Grande Roubo
+achievement_grand_heist_desc,Invada bancos 10 vezes
+achievement_trojan,Convidado Indesejado
+achievement_trojan_desc,Faça upload de um arquivo com cavalo de tróia
+achievement_coding,Ascenção em Programação
+achievement_coding_desc,Desbloqueie habilidades em programação
+achievement_its_a_feature,É Uma Funcionalidade
+achievement_its_a_feature_desc,Envie um código bugado
+achievement_fully_optimized,Desenvolvedor Back-end
+achievement_fully_optimized_desc,Desbloqueie todas otimizações
+achievement_aspirant_dev,Desenvolvedor Front-end
+achievement_aspirant_dev_desc,Desbloqueie todas aplicações
+achievement_overheat,Superaquecido
+achievement_overheat_desc,Superaqueça qualquer componente usando overclocking
+achievement_agi,Inteligência Artificial Geral
+achievement_agi_desc,Alcance a AGI
+achievement_text_completionist,Completista de Texto
+achievement_text_completionist_desc,Conclua todos os pedidos de texto
+achievement_image_completionist,Completista de Imagem
+achievement_image_completionist_desc,Conclua todos os pedidos de imagem
+achievement_sound_completionist,Completista de Som
+achievement_sound_completionist_desc,Conclua todos os pedidos de som
+achievement_video_completionist,Completista de Vídeo
+achievement_video_completionist_desc,Conclua todos os pedidos de vídeo
+achievement_program_completionist,Completista de Programa
+achievement_program_completionist_desc,Conclua todos os pedidos de programa
+achievement_game_completionist,Completista de Jogo
+achievement_game_completionist_desc,Conclua todos os pedidos de jogo
+achievement_completionist,Completista
+achievement_completionist_desc,Conclua todos os pedidos
+achievement_network_bottleneck,Gargalo de Rede
+achievement_network_bottleneck_desc,Maximize um nódulo de Rede
+achievement_cpu_bottleneck,Gargalo de Processador
+achievement_cpu_bottleneck_desc,Maximize um nódulo de CPU
+achievement_gpu_bottleneck,Gargalo de GPU
+achievement_gpu_bottleneck_desc,Maximize um nódulo de GPU
+achievement_token_clicker,Clicador de Fichas
+achievement_token_clicker_desc,Colete 101 Fichas
+achievement_fully_boosted,Muito P2W?
+achievement_fully_boosted_desc,Tenha todos os impulsos ativos simultaneamente
+achievement_out_of_memory,Sem Memória
+achievement_out_of_memory_desc,Atinja a capacidade máxima de nódulos
+achievement_eureka,Eureka!
+achievement_eureka_desc,Complete a árvore de pesquisa
+achievement_time_traveler,Viajante do Tempo
+achievement_time_traveler_desc,Complete a árvore do portal
+guide_nodes,Nódulos
+guide_nodes_desc,"Os nódulos são janelas interativas que podem ser colocadas na sua área de trabalho. Cada nódulo representa um componente ou processo específico dentro do seu sistema.
+
+[h]Funcionalidade[/h]
+Os nódulos têm duas funções principais:
+[l]Geração de recursos:[/l] Alguns nódulos produzem recursos.
+[l]Transformação de recursos:[/l] Outros nódulos recebem recursos e os transformam em recursos diferentes.
+
+[h]Exemplo[/h]
+Um nódulo de Rede fornece Velocidade de Download, que pode ser conectado a um nódulo de download, gerando um arquivo. Um Scanner de Vírus pode então pegar o arquivo e verificá-lo, gerando um arquivo verificado e com valor aprimorado.
+
+[h]Limites[/h]
+Certos tipos de nódulos têm um limite de quantos deles podem estar ativos simultaneamente.
+Outros tipos de nódulos podem ser colocados sem restrições.
+
+[h]Adicionando nódulos[/h]
+Novos nódulos podem ser adicionados à sua área de trabalho pressionando o botão localizado na parte inferior central da tela."
+guide_connections,Conexões
+guide_connections_desc,"As conexões são links que gerenciam o fluxo de recursos entre nódulos. Elas são estabelecidas ligando uma saída de um nódulo às entradas de outros nódulos.
+
+[h]Criando conexões[/h]
+Para criar uma conexão, basta arrastar de um conector de saída para um conector de entrada. Para excluir uma conexão, arraste uma entrada que esteja conectada.
+
+[h]Regras de conexão[/h]
+[l]Saídas:[/l] Uma saída pode distribuir seu recurso para várias entradas.
+[l]Entradas:[/l] Uma entrada só pode receber recursos de uma única saída.
+[l]Forma e cor:[/l] Para que uma conexão seja válida, os conectores de saída e entrada devem ter a mesma forma e cor.
+[l]Conectores brancos:[/l] Os conectores brancos são universais. Eles podem aceitar uma conexão de qualquer cor de conector, desde que a forma ainda seja compatível.
+[l]Requisitos específicos:[/l] Esteja ciente de que algumas entradas têm requisitos específicos de recursos. Mesmo que a forma e a cor dos conectores sejam compatíveis, a entrada pode aceitar apenas um tipo específico de recurso."
+guide_files,Arquivos
+guide_files_desc,"Os arquivos são um tipo de recurso dentro do sistema, identificáveis por seu formato quadrado de conector. Eles vêm em diferentes formatos, cada um com um valor e tamanho distintos.
+
+[h]Características[/h]
+[l]Valor:[/l] Cada formato tem seu próprio valor base, que determina quanto dinheiro é concedido no upload.
+[l]Tamanho:[/l] Cada formato também tem seu próprio tamanho em bits.
+[l]Qualidade:[/l] Os arquivos ganham qualidade quando passam por determinados processos. Cada qualidade aumenta multiplicativamente o valor do arquivo e outros resultados.
+
+[h]Processos e modificações[/h]
+Os arquivos não são estáticos; eles podem passar por vários processos para alterar suas características, como valor, tamanho e qualidade. Quaisquer modificações feitas em um arquivo são indicadas visualmente por símbolos exibidos ao lado de seu nome."
+guide_file_modifiers_scanned, Escaneado: Aumenta o valor em 4x
+guide_file_modifiers_infected, Infectado: Reduz o valor em 4x
+guide_file_modifiers_validated, Validado: Aumenta o valor em 4x
+guide_file_modifiers_corrupted, Corrompido: Reduz o tamanho em 5x e o valor em 10x
+guide_file_modifiers_compressed, Comprimido: Reduz o tamanho em 2x
+guide_file_modifiers_enhanced, Aprimorado: Aumenta a qualidade e tamanho em 2x
+guide_file_modifiers_refined, Refinado: Aumenta o ganho de Pesquisa em 2x
+guide_file_modifiers_analyzed, Analisado: Aumenta a Velocidade de Pesquisa em 2x
+guide_file_modifiers_distilled, Destilado: Aumenta o ganho de neurônios em 2x
+guide_file_modifiers_encrypted, Criptografado: Tem qualidade 0. Não modificável.
+guide_file_modifiers_decrypted, Descriptografado: Aumenta a qualidade em 4x
+guide_file_modifiers_trojan, Injetado com Cavalo de Tróia: Concede Computador Infectado no upload
+guide_file_modifiers_ai," IA: Reduz a qualidade em 10x, mas aumenta o valor em 1000000x."
+guide_tokens,Fichas
+guide_tokens_desc,"Os tokens são uma moeda especial de alta escassez.
+
+[h]Usos[/h]
+[l]Vantagens:[/l] Oferecem melhorias permanentes, seja aumentando seu desempenho ou desbloqueando novos nós.
+[l]Impulsos:[/l] Proporcionam uma vantagem de curto prazo.
+[l]Serviços:[/l] Permitem reverter escolhas específicas, como reembolsar pontos de hack.
+
+[h]Aquisição[/h]
+[l]Coleta de Spawns:[/l] Os tokens aparecem periodicamente na área de trabalho.
+[l]Conclusão de conquistas:[/l] Desbloquear conquistas lhe renderá tokens.
+[l]Atendimento a solicitações de upload:[/l] Concluir pedidos de upload é outra maneira de ganhar tokens.
+[l]Compras no aplicativo:[/l] Os tokens também podem ser adquiridos por meio de compras no aplicativo."
+guide_rest_time,Tempo de Descanso
+guide_rest_time_desc,"O Tempo de Descanso é um mecanismo que permite acelerar o seu progresso no jogo utilizando o tempo que você passa offline.
+
+[h]Como funciona[/h]
+[l]Acumulação:[/l] A cada 72 segundos que você fica offline, você ganha 1 segundo de Tempo de Descanso.
+[l]Ativação:[/l] Quando você retorna ao jogo, pode optar por ativar o seu Tempo de Descanso acumulado.
+[l]Efeito:[/l] Enquanto o Tempo de Descanso estiver ativo, a velocidade de simulação do jogo é aumentada em 5x.
+[l]Armazenamento:[/l] Você pode armazenar no máximo 600 segundos de Tempo de Descanso.
+
+[h]Melhorias[/h]
+O sistema de Tempo de Descanso pode ser atualizado por meio de vantagens, como aumento de armazenamento ou acúmulo."
+guide_portal,Portal
+guide_portal_desc,"O Portal funciona como um mecanismo de prestígio. Entrar no Portal permite que você reinicie o progresso do jogo em troca de uma série de melhorias à sua escolha.
+
+[h]Funcionalidade[/h]
+[l]Pesquisa Avançada:[/l] Obtenha Pesquisa Avançada inserindo Pesquisa em um nódulo de Pesquisa Avançada. Cada Pesquisa Avançada adquirida aumenta a exigência de Pesquisa para o próximo ponto em 1,5x.
+[l]Fila de melhorias:[/l] Você pode colocar melhorias do portal na fila na tela do Portal usando pontos de Pesquisa Avançada. As melhorias na fila serão ativadas assim que você entrar no Portal.
+[l]Redefinição do progresso:[/l] Entrar no Portal reiniciará seu progresso, incluindo recursos e configurações de nódulos. Todas as pesquisas realizadas são salvas."
+guide_breach,Brechas
+guide_breach_desc,"As brechas permitem que você se infiltre e comprometa várias entidades para adquirir espólios valiosos.
+
+[h]Invadindo[/h]
+[l]Iniciando um ataque:[/l] Acumule e envie um dano de carga útil usando o poder de hack.
+[l]Temporizador:[/l] Atacar um alvo irá alertá-lo, iniciando um temporizador de contagem regressiva.
+
+Se você violar o alvo com sucesso antes que o temporizador expire, receberá recompensas. Se o temporizador expirar antes que a brecha seja concluída, você falhará e o alvo se recuperará do ataque.
+Invadir um alvo com sucesso também aumenta seu nível máximo de ameaça. Níveis de ameaça mais altos significam que o alvo será mais difícil de invadir no futuro, mas também oferecerá recompensas exponencialmente maiores.
+
+[h]Progressão[/h]
+[l]Subindo de nível:[/l] Ganhar experiência em hacking permite que você suba de nível em seu poder de hacking.
+[l]Pontos de hacking:[/l] Subir de nível também recompensa você com pontos de hacking. Esses pontos podem ser gastos para melhorar suas habilidades de brecha.
+[l]Habilidades de Hack:[/l] As habilidades de hack permitem que você adicione mais nódulos de hack. Eles são compartilhados entre outros nódulos de hack.
+
+[h]Alvos e recompensas[/h]
+[l]Anônimo:[/l] Recompensa você com Experiência em Hacking.
+[l]Corporações:[/l] Concede Dados de Corporação.
+[l]Governo:[/l] Rende Inteligência Governamental.
+
+[h]Brecha Bancária[/h]
+[l]Aparência:[/l] Oportunidades de brecha bancária aparecerão periodicamente.
+[l]Recompensas em Fichas:[/l] A violação bem-sucedida de um banco recompensa você com Fichas.
+[l]Ameaça Persistente:[/l] O nível de ameaça do banco não pode ser alterado e não é reiniciado mesmo depois de você entrar no Portal."
+guide_window_network,"Nódulo do tipo hardware. Fornece Velocidade de Download e Upload baseado no seu nível, que pode ser aprimorado com Dinheiro, e seu desempenho pode ser impulsionado com Impulso de Componente."
+guide_window_uploader,"Envia arquivos usando a Velocidade de Upload em troca de Dinheiro, excluindo os arquivos no processo."
+guide_window_store_file,Armazena arquivos em um armazenamento a ser montado em um servidor. O armazenamento herda os modificadores do arquivo.
+guide_window_server,"Gera dinheiro periodicamente com base na velocidade de upload inserida, com a renda sendo proporcional ao valor por bit do armazenamento inserido."
+guide_window_processor,"Nódulo do tipo hardware. Gera vários valores de Velocidade de Clock com base em seu nível e contagem de núcleos; seu nível pode ser atualizado com Dinheiro para melhorar o desempenho de todos os núcleos, e sua contagem de núcleos pode ser atualizada com Dinheiro para aumentar a quantidade de saídas. A Velocidade de Clock é medida em hertz (Hz), representando ciclos (C) por segundo, e pode ser impulsionada usando Impulso de Componente."
+guide_window_processing_seller,Periodicamente produz Dinheiro baseado na quantia de Velocidade de Clock inserida.
+guide_window_virus_scanner,"Verifica os arquivos em busca de vírus usando Velocidade do Clock, adicionando o modificador escenado e aumentando seu valor em 4x. Os arquivos baixados têm 50% de chance de ter o modificador infectado, o que reduz seu valor em 4x.
+A quantidade de ciclos (C) necessária é baseada no tamanho do arquivo."
+guide_window_quarantine,"Remove o modificador infectado de arquivos usando Velocidade de Clock. 
+A quantidade de ciclos (C) necessária é baseada no tamanho do arquivo."
+guide_window_antivirus_pro,"Escaneia e remove vírus de arquivos usando Velocidade de Clock, adicionando o modificador escaneado, aumentando o seu valor em 4x. 
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do arquivo."
+guide_window_verifier,"Verifica a integridade do arquivo quanto a corrupção usando a Velocidade do Clock, adicionando o modificador verificado e aumentando seu valor em 4x. Também há 50% de chance de estar corrompido, reduzindo seu valor em 10x e seu tamanho em 5x.
+A quantidade de ciclos (C) necessária é baseada no tamanho do arquivo."
+guide_window_redownloader,"Rebaixa arquivos usando a Velocidade de Download, removendo os modificadores aplicados, incluindo corrupção, e adicionando o modificador verificado que aumenta seu valor em 4 vezes.
+O tamanho do download é baseado no tamanho do arquivo."
+guide_window_torrent_browser,"Pesquisa torrents na Internet usando a Velocidade de Download. Cada nível desbloqueia um novo formato e aumenta a quantidade de torrents encontrados, mas aumenta a exigência de largura de banda em 100 vezes."
+guide_window_torrent_downloader,"Baixa arquivos com os modificadores do torrent inserido usando a velocidade de download.
+O tamanho do download é baseado no tamanho do arquivo resultante."
+guide_window_compressor,"Comprime arquivos usando a Velocidade do Clock, adicionando o modificador compacto e reduzindo seu tamanho em 2x.
+Remove um modificador aprimorado.
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do arquivo e não é afetada pelos modificadores de compressão."
+guide_window_enhancer,"Melhora os arquivos usando a Velocidade do Clock, adicionando o modificador aprimorado e aumentando seu tamanho e qualidade em 2x.
+Remove um modificador compacto.
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do arquivo e não é afetada por modificadores aprimorados."
+guide_window_refiner,"Refina arquivos usando Velocidade de Clock, adicionando o modificador refinado e aumentando seus ganhos em pesquisa em 2x. 
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do arquivo."
+guide_window_analyzer,"Pré-analisa arquivos usando Velocidade de Clock, adicionando o modificador pré-analisado e reduzindo o tempo necessário para ser pesquisado no Laboratório de Dados em 2x. 
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do arquivo."
+guide_window_distillator,"Destila arquivos usando Velocidade de Clock, adicionando o modificador destilado e aumentando seus ganhos de neurônio em 2x. 
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do arquivo."
+guide_window_decryptor,"Descriptografa arquivos usando a Velocidade do Clock, substituindo o modificador criptografado pelo descriptografado, removendo o multiplicador de qualidade 0x e aumentando a qualidade em 4x.
+A quantidade de ciclos (C) necessária é baseada em 4x o tamanho do arquivo."
+guide_window_virus_extractor,"Extrai vírus de arquivos infectados usando a Velocidade de Clock, destruindo o arquivo no processo.
+A quantidade de ciclos (C) necessária é baseada no tamanho do arquivo."
+guide_window_trojan_injector,"Injeta trojans em arquivos inseridos usando Velocidade de Clock, adicionando o modificador trojan e permitindo que ele receba computadores infectados no upload.
+A quantidade de ciclos (C) necessária é baseada no tamanho do arquivo."
+guide_window_encompressor,"Aprimora e comprime arquivos usando Velocidade de Clock, adicionando os modificadores aprimorado e comprimido, aumentando sua qualidade em 2x. 
+A quantidade de ciclos (C) necessária é baseada em 6x o tamanho do arquivo."
+guide_window_decompiler,"Decompila arquivos de Programa usando Velocidade de Clock, produzindo 2m de arquivos de Texto. 
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do programa."
+guide_window_decomposer,"Decompõe arquivos de Vídeo usando Velocidade de Clock, produzindo 20k de arquivos de Imagem. 
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do vídeo."
+guide_window_demuxer,"Demultiplexa arquivos de Vídeo usando Velocidade de Clock, produzindo 200 arquivos de Som.
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do vídeo."
+guide_window_scrapper,"Raspa arquivos de Jogo usando Velocidade de Clock, produzindo 20k arquivos de Vídeo.
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do jogo."
+guide_window_ripper,"Extrai arquivos de Jogo usando Velocidade de Clock, produzindo 200 arquivos de Programa. 
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do arquivo."
+guide_window_movie_maker,"Cria arquivos de Vídeo através de Imagens e Sons usando Velocidade de Clock. Vídeos produzidos herdam modificadores similares entre as imagens e sons utilizados.
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do vídeo."
+guide_window_compiler,"Cria arquivos de Programa com Textos usando Velocidade de Clock. Programas produzidos herdam modificadores dos textos utilizados.
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do programa."
+guide_window_game_engine,"Cria arquivos de Jogo através de Vídeos e Programas usando Velocidade de Clock. Jogos produzidos herdam modificadores similares entre os vídeos e programas utilizados.
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do jogo."
+guide_window_gpu_cluster,"Nódulo do tipo hardware. Gera vários valores de Velocidade de GPU com base no seu nível e na contagem de GPUs; o seu nível pode ser atualizado com dinheiro para melhorar o desempenho de todas as GPUs, e a sua contagem de GPUs pode ser atualizada com dinheiro para aumentar a quantidade de saídas. A velocidade da GPU é medida em hertz (Hz), representando ciclos (C) por segundo, e também pode ser impulsionada com Impulso do Componente."
+guide_window_mine_token,Minera Fichas usando Velocidade de GPU. A exigência de ciclo aumenta exponencialmente para cada Ficha minerada e não é reiniciada ao entrar no Portal.
+guide_window_movie_renderer,"Cria arquivos de Vídeo através de Imagens e Sons usando Velocidade de GPU. Vídeos produzidos herdam modificadores similares entre as imagens e sons utilizados.
+A quantidade de ciclos (C) necessária é baseada em 2x o tamanho do vídeo."
+guide_window_trainer,"Gera neurônios para o formato e o modificador do arquivo inserido usando a Velocidade da GPU.
+A quantidade de ciclos (C) necessária é baseada em 3x o tamanho do arquivo."
+guide_window_file_generator,"Gera arquivos com o modificador AI usando Neurons, reduzindo sua qualidade em 10x e aumentando o valor em 1000000x."
+guide_window_data_lab,"Consome arquivos para gerar Pesquisa, com a quantidade determinada pelo formato e qualidade do arquivo inserido, operando a uma taxa de consumo definida de arquivos por segundo, que pode ser aprimorada com Dinheiro para aumentar a velocidade de processamento."
+guide_window_agi,Fornece Poder de IA baseado na quantidade de nêuronio mais baixa inserida.
+guide_window_hacker,Fornece Poder de Hack baseado no seu nível de hack. Seu nível pode ser aumentado através da inserção de Experiência em Hack.
+guide_window_payload_launcher,"Gera Dano de Payload com base em 100% do poder de hack. 
+Danifica alvos de brecha e é consumido posteriormente."
+guide_window_build_infection,"Gera Dano de Infecção com base em 20% do poder de hack. 
+Danifica alvos de brecha sem ser consumido, resultando em dano constante ao longo do tempo."
+guide_window_execute_injection,Fornece Vulnerabilidade baseado no Poder de Hack inserido.
+guide_window_breach_anonymous,"Alvo de brecha. Insira qualquer dano para tentar invadir o anonymous durante o tempo limite. Se você for bem-sucedido, receberá Experiência em Hack. Invadir com sucesso o anonymous em seu nível máximo de ameaça também aumentará seu nível máximo de ameaça, aumentando a dificuldade e as recompensas."
+guide_window_breach_corps,"Alvo de brecha. Insira qualquer dano para tentar invadir corporações durante o tempo limite. Se você for bem-sucedido, receberá Dados de Corporação. Invadir com sucesso corporações em seu nível máximo de ameaça também aumentará seu nível máximo de ameaça, aumentando a dificuldade e as recompensas."
+guide_window_breach_government,"Alvo de brecha. Insira qualquer dano para tentar invadir o governo durante o tempo limite. Se você for bem-sucedido, receberá Inteligência Governamental. Invadir com sucesso o governo em seu nível máximo de ameaça também aumentará seu nível máximo de ameaça, aumentando a dificuldade e as recompensas."
+guide_window_breach_bank,"Alvo de violação. Insira qualquer dano para tentar invadir os bancos durante o tempo limite. Se você for bem-sucedido, receberá fichas e também aumentará seu nível máximo de ameaça permanentemente, aumentando a dificuldade. Concluir ou falhar na brecha fará com que o nódulo entre em colapso."
+guide_window_drain,"Drena o desempenho dos computadores infectados inseridos, gerando Impulso de Componente."
+guide_window_coder,Fornece Velocidade de Programação baseado no seu Nível de Contribuição. Seu nível pode ser aumentado inserindo Contribuição.
+guide_window_commit,Comita códigos inseridos em troca de Contribuição. A recompensa é baseado na complexidade do código e seus modificadores.
+guide_window_build,Cria um projeto baseado no código inserido. Completar projects irá lhe recompensar com melhorias únicas.
+guide_window_code_bugfix,"Cria um bug fix através das variáveis requeridas: bool, int."
+guide_window_code_optimization,"Cria um Código de Otimização através das variáveis requeridas: BitFlag, Vector."
+guide_window_code_application,"Cria um Código de Aplicação através das variáveis requeridas: Array[String], Array[BigInt]."
+guide_window_code_driver,"Cria um Código de Driver através das variáveis requeridas: HashMap[Decimal], HashMap[Vector]."
+guide_window_code_variable,Programa variáveis do tipo primitiva usando Velocidade de Programação.
+guide_window_variable_combiner,"Combina duas variáveis primitivas em uma variável avançada.
+BitFlag = bool + int
+BigInt = int + int
+Decimal = int + float
+String = char + char
+Vector = float + float"
+guide_window_code_array,Programa uma array da variável inserida.
+guide_window_code_hashmap,Programa uma hashmap da array inserida utilizando uma array de string.
+guide_window_debug,"Depura o código inserido, adicionando o modificador testado e aumentando a qualidade do código em 4x. Os códigos têm 50% de chance de também terem o modificador bugado, o que reduz a qualidade em 4x.
+A quantidade de operações (ops) necessárias é baseada no código inserido."
+guide_window_fix_code,"Corrige bugs do código inserido usando um Código de Correção de Bug, removendo o modificador bugado, que reduz a qualidade em 4x."
+guide_window_optimize_code,"Otimiza o código inserido usando um Código de Otimização, adicionando o modificador otimizado e aumentando a qualidade em 4 vezes.
+Os modificadores do Código de Otimização também são aplicados ao código que está sendo otimizado."
+guide_window_overclocker,Permite definir a quantidade desejada de overclock a ser usada nos componentes.
+guide_window_heat_sink,"Dissipa o calor gerado pelos componentes com base no seu nível, que pode ser atualizado usando Dinheiro."
+tutorial_desc_press,Vamos aprender a gerenciar seu laboratório nesta breve introdução
+tutorial_desc_drag_download,Comece uma conexão arrastando a saída de Velocidade de Download
+tutorial_desc_connect_download,Largue o conector na entrada de Velocidade de Download para criar a conexão
+tutorial_desc_press2,"Conexões fluem da esquerda para a direita. Saídas enviam recursos, enquanto entradas recebem recursos"
+tutorial_desc_drag_bin_connector,Remova uma conexão arrastando a entrada
+tutorial_desc_press3,Agora vamos adicionar um nódulo para fazer upload de arquivos baixados
+tutorial_desc_open_menu,Pressione para abrir o menu de nódulos de rede
+tutorial_desc_select_uploader,Selecione o Uploader na lista de nódulos
+tutorial_desc_add_uploader,Pressione para adicionar o nódulo à sua área de trabalho
+tutorial_desc_drag_uploader,Arraste o topo do nódulo Uploader para move-lo
+tutorial_desc_move_uploader,Mova o Uploader até a região indicada e largue-o
+tutorial_desc_connect_file,Conecte seus arquivos baixados ao Uploader para começar o upload
+tutorial_desc_connect_upload,Agora conecte sua Velocidade de Upload ao seu Uploader
+tutorial_desc_press4,Vamos adicionar um nódulo para coletar o dinheiro adquirido do upload
+tutorial_desc_open_menu2,Abra o menu de nódulos de utilidade
+tutorial_desc_select_collector,Selecione o nódulo Coletor
+tutorial_desc_add_collector,Adicione o nódulo Coletor
+tutorial_desc_connect_money,Agora conecte sua saída de Dinheiro à entrada do Coletor
+tutorial_desc_press5,"Você não precisará do nódulo Lixeira por agora, então vamos exluí-la"
+tutorial_desc_select_bin,Selecione o nódulo Lixeira pressionando o seu topo
+tutorial_desc_delete_bin,Agora pressione na lixeira abaixo para excluir
+tutorial_desc_press6,Isso é tudo! Agora comece a ganhar dinheiro e melhore seu setup
+heat_death_universe,Morte Térmica do Universo
+august_12_2036,12 de Agosto de 2036
+you_failed,Você falhou em salvar o universo
+for_now,Por enquanto
+english,Inglês
+spanish,Espanhol
+german,Alemão
+french,Francês
+korean,Coreano
+indonesian,Indonésio
+portuguese,Português
+polish,Polonês
+italian,Italiano
+traditional_chinese,Chinês Tradicional
+japanese,Japonês
+credits,Créditos
+credits_desc,"[h]EnigmaDev Studios[/h]
+
+[h]Música[/h]
+Andrea Baroni
+Cyberleaf Studio
+
+[h]Tradutores[/h]
+Francês: aclim
+Alemão: holyfire
+Japonês anonym
+Coreano: 르에, Hatsuseizuna
+Curdo: LOTS-4EVER
+Polonês: szajni_
+Português: EnigmaDev Studios
+Chinês Simplificado: FEVM, Flying Pigeon
+Vietnamita: ThqnhZ"

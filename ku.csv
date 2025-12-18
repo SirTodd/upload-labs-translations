@@ -1,0 +1,202 @@
+labs_os,تاقیگەکەمان
+initializing,دەست پێدەکات
+menu_tutorial,فێرکاری 
+menu_upgrades, بەهێزکردن
+menu_hacking, هاکردن
+menu_coding,ساردکردنەوە
+menu_portal,پۆرتال
+menu_guide,رێنیشاندار
+menu_shop,فرۆشتگا 
+menu_support,پشتگیری
+menu_rest,دووبارە دەستپێکردنەوە
+menu_stats,ئامارەکان
+menu_attributes,تایبەت مەندی 
+menu_settings,رێکخستنەکان
+menu_server,سێرڤەر
+menu_in_progress,لە-پێشکەوتندایە
+menu_achievements,ئامانجەکان
+menu_requests,داواکاری
+menu_save,سەیڤ
+menu_completed,تەواوبووە
+menu_basics,بنەما
+menu_nodes,گرێی
+menu_resources,سەرچاوەکان
+menu_perks,ئیمتیازاتەکان
+menu_boosts,بەهێزکەرەکان
+menu_services,سیرڤس
+menu_clear,ڕوون
+menu_watch_ad,سەیری ڕێکلام بکە؟
+menu_watch_ad_desc,سەیری ڕیکلامێکی خێرا بکەن و پاداشت وەربگرن
+menu_new_schematic,شێماتیکی نوێ
+menu_wipe,داتا بسڕەوە
+menu_wipe_desc,حەز دەکەیت هەموو پێشکەوتنەکانت بە دەستکەوتەکانیشەوە ڕێست بکەیتەوە؟
+menu_sync_save,هاوکاتکردن پاشەکەوتکردن
+menu_sync_save_desc,داتای پاشەکەوتکراوەکەت لە سەرانسەری ئامێرەکاندا هاوکات بکە
+menu_sync_save_instructions,بۆ وەرگرتنی کۆدێک، Export بکە، یان کۆدێک دابنێ بۆ هاوردەکردن
+action_add,زیادکردن
+action_install,دامەزراندن
+action_upgrade,بەرزکرنەوە
+action_tier_up,بەرزکردنەوەی تییەر
+action_research,توێژینەوە
+action_add_core,زیادکردنی Core
+action_add_gpu,GPU زیاد بکە
+action_collect,کۆکردنەوە
+action_sell,فرۆشتن
+action_open,کردنەوە
+action_enter,چوونە ناو
+action_cancel,ڕەتکردنەوە
+action_close,داخستن
+action_claim,وەرگرتن
+action_purchase,کڕین
+action_watch,سەیرکردن
+action_optimize,باشکردن
+action_add_threat,زیادکردنی هەڕەشە
+action_reduce_threat,کەمکردنەوەی هەڕەشە
+action_save,هەڵگرتن
+action_confirm,دڵنیاکردنەوە
+action_export,هەناردە
+action_import,هاوردەکردن
+quit,وازهێنان
+setting_fps_limit,سنووری FPS
+setting_ui_scale,پێوەرەکانی UI
+setting_language,زمان
+setting_colorblind_mode,دۆخی ڕەنگکوێر
+setting_glow,درەوشانەوە
+setting_mute_sfx,کاریگەری دەنگی بێدەنگ
+setting_volume_sfx,کاریگەری دەنگی دەنگی
+setting_mute_nodes,گرێ بێدەنگەکان
+setting_volume_nodes,گرێکان قەبارە
+setting_mute_bgm,مۆسیقای بێدەنگ بکە
+setting_volume_bgm,دەنگی مۆسیقا
+setting_show_completed, تەواو بووە پشاندە
+setting_wipe_data,داتا بسڕەوە
+setting_sync_data,هاوکاتکردن پاشەکەوتکردن
+loading,بارکردن
+active,چالاک
+queue,نۆرە
+value,بەها
+size,قەبارە
+quality,کواڵیتی
+research,توێژینەوە
+cost,تێچوو
+reward,خەڵات
+claimed,وەرتگرتوە
+owned,خاوەندارێتی
+support_level,ئاستی پشتگیری
+schematic_name,ناوی نەخشەیی
+sending,ناردن
+connecting,پەیوەندیکردن
+exported,هەناردە کراوە
+code_invalid,کۆدی نادروست
+code_expired,کۆدەکە بەسەرچووە
+error,هەڵە
+no_schematics_saved,هێشتا هیچ شێماتیکێکتان نییە
+nodes_required,# گرێکان
+threat,هەڕەشە
+level,ئاست
+lv.,لڤ.
+storage_size,قەبارەی هەڵگرتن
+storage_value,بەهای هەڵگرتن
+server_stats,ئاماری سێرڤەر
+tokens_mined,تۆکنەکانی وەرت گرتووە
+tokens_stolen,تۆکنەکانی دزیوتە
+free,بەخۆرایی
+points,خاڵەکان
+hack_points,خاڵەکانی هاککردن
+bug,کێشە
+empty,بەتاڵ
+input_currency,دراوی هاتنەژوورەوە
+input_file,فایلێکی هاتنە ژوورەوە
+insert_coin,ئینسەرت کۆین
+input_element,توخمێکی هاتنەژوورەوە
+input_damage,زیانەکانی هاتنە ژوورەوە
+input_variable,گۆڕاوەی هاتنەژوورەوە
+input_array,ڕیزبەندی هاتنە ژوورەوە
+input_code,کۆدی هاتنە ژوورەوە
+invalid_request,داواکاری نادروست
+invalid_request_desc,فایلێکی داواکراو دابنێ
+invalid_project,پڕۆژەی نادروست
+invalid_project_desc,کۆدی دروست بنووسە
+optimization_points,خاڵەکانی باشکردن
+application_points,خاڵەکانی داواکاری
+driver,شۆفێر
+hardware_multiplier,چەسپێنەری ڕەقەکاڵا
+max,ماکس
+mk.,م.ک.
+version,وەشان
+ver.,ڤێرژن.
+progress,بەرەو پێش چوون
+ratio,ڕێژە
+burn_rate,ڕێژەی سووتانی
+speed,خێرایی
+sell at,فرۆشتن لە...
+rest_time,وەرەوە سەرەتا
+rest_time_desc,خێرایی کات بە ڕێژەی 5x زیاد دەکات. لە هەر ٧٢ چرکەیەکدا لە ئۆفلاین ١ چرکە بەدەست دەهێنێت
+time,کات
+seconds,چرکەیەک
+second_abbreviation,س
+consumption,بەکارهێنان
+multiplier,چەند هێندەکەر
+breach_speed,خێرایی پێشێلکردن
+breached,پێشێل کراوە
+firewall,دیواری ئاگر
+time_left,کاتی ماوە
+vulnerable,لاواز
+critical,گرنگ
+completed,تەواو بووە
+ready,ئامادە
+new_achievement,دەستکەوتێکی نوێ
+request_completed,داواکاری تەواو بووە
+new_windows_processor,گرێی نوێی CPU بەردەستە
+new_windows_network,گرێی تۆڕی نوێ بەردەستە
+new_windows_gpu,گرێ نوێیەکانی GPU بەردەستە
+new_windows_research,گرێی نوێی توێژینەوە بەردەستە
+new_windows_hacking,گرێی نوێی هاککردن بەردەستە
+new_windows_coding,گرێی کۆدکردنی نوێ بەردەستە
+new_windows_utilities,گرێی سوودمەندی نوێ بەردەستە
+new_upgrades_available,نوێکردنەوەی نوێ بەردەستە
+new_hack_level,هاک ئاستی بەرز
+new_code_level,ئاستی بەشداریکردن بەرز دەبێتەوە
+new_application_point,خاڵێکی نوێی داواکاری
+new_optimization_point,خاڵی باشترکردنی نوێ
+breach_bank_failed,پێشێلکردنی بانک شکستی هێنا
+breach_bank_success,پێشێلکردنی بانک تەواو بوو
+tool_cursor,ئامرازی ئاماژەدەر
+tool_move,ئامرازی جوڵاندن
+tool_selection,ئامرازی هەڵبژاردن
+tool_connection_editor_on,دەستکاریکەری پەیوەندی On
+tool_connection_editor_off,دەستکاریکەری پەیوەندی کوژاوە
+schematic_saved,شێماتیک پاشەکەوت کراوە
+hold_to_skip,بۆ پەڕینەوە ڕایبگرە
+support_us,پشتگیریمان بکەن بە کڕینی سەپۆت و بەدەستهێنانی نیشانە!
+thank_you,سوپاس!
+tokens_claimed,تۆکنەکانی پریمیۆم وەرتگرتبوو
+resource_download_speed,خێرایی داگرتن
+resource_download_speed_desc,خێرایی تۆڕ بۆ دابەزاندنی فایلەکان (بیت/چرکە).
+resource_upload_speed,خێرایی بارکردن
+resource_upload_speed_desc,خێرایی تۆڕ بۆ بارکردنی فایلەکان (بیت/چرکە).
+resource_clock_speed,خێرایی کاتژمێر
+resource_clock_speed_desc,خێرایی پرۆسێسەر بۆ پرۆسێسکردنی گرێکان (هێرتز).
+resource_gpu_speed,خێرایی GPU
+resource_gpu_speed_desc,خێرایی GPU بۆ پرۆسەی هاوتەریب (هێرتز).
+resource_research_power,خێرایی توێژینەوە
+resource_research_power_desc,Rate of files researched per second.
+resource_hack_power,هاک پاوەر
+resource_hack_power_desc,خێرایی پێشێلکردن کە بە ئاستی هاک تەرازوو دەبێت
+resource_code_speed,خێرایی کۆدکردن
+resource_code_speed_desc,خێرایی کۆدکردنی گۆڕاو کە لەگەڵ ئاستی بەشداریکردندا پێوانە دەکات.
+resource_boost_component,پێکهاتەی خێراتر
+resource_boost_component_desc,بووست بۆ پێکهاتەکانی ڕەقەکاڵا.
+resource_boost_research,توێژینەوە بووست
+resource_boost_research_desc,بووست بۆ خێرایی توێژینەوە.
+resource_boost_hack,هاک بووست
+resource_boost_hack_desc,بووست بۆ هاک پاوەر.
+resource_boost_code,کۆد بووست
+resource_boost_code_desc,  بووست بۆ خێرایی کۆد 
+resource_overclock,ئۆڤەرکلۆک
+resource_overclock_desc,ڕێکخستن کە بۆ بەرزکردنەوەی پێکهاتەکان بەکاردێت.
+resource_heat,گەرمایی
+resource_heat_desc,لە ئۆڤەرکلۆکەوە دروست بووە.
+resource_money,پارە
+resource_money_desc,لە ئۆڤەرکلۆکەوە دروست بووە.
+resource_research,توێژینەوەی سەرچاوە

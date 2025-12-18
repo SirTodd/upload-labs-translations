@@ -1,0 +1,215 @@
+labs_os,Labs OS
+initializing,Inizializzando
+menu_tutorial,Tutorial
+menu_upgrades,Miglioramenti
+menu_hacking,Hacking
+menu_coding,Programmazione
+menu_portal,Portale
+menu_guide,Guida
+menu_shop,Negozio
+menu_support,Supporto
+menu_rest,Riposo
+menu_stats,Statistiche
+menu_attributes,Attributi
+menu_settings,Impostazioni
+menu_server,Server
+menu_in_progress,In corso
+menu_achievements,Conseguimenti
+menu_requests,Richieste
+menu_save,Salva
+menu_completed,Completato
+menu_basics,Basi
+menu_nodes,Nodi
+menu_resources,Risorse
+menu_perks,Vantaggi
+menu_boosts,Potenziamenti
+menu_services,Servizi
+menu_clear,Pulisci
+menu_watch_ad,Guarda la pubblicità?
+menu_watch_ad_desc,Guarda una breve pubblicità e ricevi delle ricompense
+menu_new_schematic,Nuovo Schema
+menu_wipe,Azzera Dati
+menu_wipe_desc,"Vorresti ripristinare tutti i tuoi progressi,
+inclusi i conseguimenti?"
+menu_sync_save,Sincronizza Salvataggio
+menu_sync_save_desc,Sincronizza il tuo salvataggio tra dispositivi
+menu_sync_save_instructions,"Premi Export per ricevere un codice, o inserisci un codice per importare i dati"
+action_add,Aggiungi
+action_install,Installa
+action_upgrade,Migliora
+action_tier_up,Aumenta livello
+action_research,Ricerca
+action_add_core,Aggiungi Core
+action_add_gpu,Aggiungi GPU
+action_collect,Colleziona
+action_sell,Vendi
+action_open,Apri
+action_enter,Entra
+action_cancel,Annulla
+action_close,Chiudi
+action_claim,Riscatta
+action_purchase,Compra
+action_watch,Guarda
+action_optimize,Ottimizza
+action_add_threat,Aumenta minaccia
+action_reduce_threat,Riduci minaccia
+action_save,Salva
+action_confirm,Conferma
+action_export,Esporta
+action_import,Importa
+quit,Esci
+setting_fps_limit,Limite FPS
+setting_ui_scale,Scala Interfaccia
+setting_language,Lingua
+setting_colorblind_mode,Modalità daltonici
+setting_glow,Bagliore
+setting_mute_sfx,Muta Effetti Sonori
+setting_volume_sfx,Volume Effetti Sonori
+setting_mute_nodes,Muta Nodi
+setting_volume_nodes,Volume Nodi
+setting_mute_bgm,Muta Musica
+setting_volume_bgm,Volume Musica
+setting_show_completed,Mostra Completati
+setting_wipe_data,Azzera Dati
+setting_sync_data,Sincronizza Salvataggio
+loading,Caricamento
+active,Attivo
+queue,Coda
+value,Valore
+size,Dimensione
+quality,Qualità
+research,Ricerca
+cost,Cost
+reward,Ricompensa
+claimed,Rivendicato
+owned,Posseduto
+support_level,Livello di Supporto
+schematic_name,Nome dello Schema
+sending,Inviando
+connecting,Connettendo
+exported,Esportato
+code_invalid,Codice Invalido
+code_expired,Codice scaduto
+error,Errore
+no_schematics_saved,Non hai ancora degli schemi
+nodes_required,# Nodi
+threat,Minaccia
+level,Livello
+lv.,Lv.
+storage_size,Dimensioni di archiviazione
+storage_value,Valore di archiviazione
+server_stats,Statistiche del Server
+tokens_mined,Token minati
+tokens_stolen,Token rubati
+free,Gratis
+points,Punti
+hack_points,Punti Hack
+bug,Bug
+empty,Vuoto
+input_currency,Valuta in ingresso
+input_file,File in ingresso
+insert_coin,Inserisci moneta
+input_element,Elemento in ingresso
+input_damage,Danno in ingresso
+input_variable,Variabile in ingresso
+input_array,Matrice in ingresso
+input_code,Codice in ingresso
+invalid_request,Richiesta invalida
+invalid_request_desc,Inserisci un file richiesto
+invalid_project,Progetto invalido
+invalid_project_desc,Inserisci codice valido
+optimization_points,Punti Ottimizzazione
+application_points,Punti Applicazione
+driver,Driver
+hardware_multiplier,Moltiplicatore Hardware
+max,Max
+mk.,Mk.
+version,Versione
+ver.,Ver.
+progress,Progresso
+ratio,Rapporto
+burn_rate,Tasso di consumo
+speed,Velocità
+sell at,Vendi a
+rest_time,Tempo di Riposo
+rest_time_desc,Aumenta la velocità del tempo di 5x. Ottieni 1 secondo ogni 72 secondi offline
+time,Tempo
+seconds,Secondi
+second_abbreviation,s
+consumption,Consumo
+multiplier,Moltiplicatore
+breach_speed,Velocità di Violazione
+breached,Violato
+firewall,Firewall
+time_left,Tempo Rimanente
+vulnerable,Vulnerabile
+critical,Critico
+completed,Completato
+ready,Pronto
+new_achievement,Nuovo Conseguimento
+request_completed,Richiesta Completata
+new_windows_processor,Nuovi nodi CPU disponibili
+new_windows_network,Nuovi nodi di rete disponibili
+new_windows_gpu,Nuovi nodi GPU disponibili
+new_windows_research,Nuovi nodi di ricerca disponibili
+new_windows_hacking,Nuovi nodi di hacking disponibili
+new_windows_coding,Nuovi nodi di programmazione disponibili
+new_windows_utilities,Nuovi nodi di utilità disponibili
+new_upgrades_available,Nuovi miglioramenti disponibili
+new_hack_level,Livello di Hack aumentato
+new_code_level,Livello di Contribuzione aumentato
+new_application_point,Nuovo punto applicazione
+new_optimization_point,Nuovo punto ottimizzazione
+breach_bank_failed,Violazione banca fallita
+breach_bank_success,Violazione banca completata
+tool_cursor,Strumento Cursore
+tool_move,Strumento Sposta
+tool_selection,Strumento Selezione
+tool_connection_editor_on,Editor Connessioni attivo
+tool_connection_editor_off,Editor Connessioni disattivo
+schematic_saved,Schema salvato
+hold_to_skip,Tieni premuto per saltare
+support_us,Supportaci comprando oggetti e ottieni delle medaglie 
+thank_you,Grazie!
+tokens_claimed,Gettoni Premium reclamati
+resource_download_speed,Velocità di Download
+resource_download_speed_desc,Velocità in Download della rete per i file (bits/sec).
+resource_upload_speed,Velocità di Upload
+resource_upload_speed_desc,Velocità in Upload della rete per i file (bits/sec).
+resource_clock_speed,Frequenza di Clock
+resource_clock_speed_desc,Velocità del processore per i nodi di elaborazione (hertz).
+resource_gpu_speed,Velocità della GPU
+resource_gpu_speed_desc,Velocità della GPU per i processi parallelizzati (hertz).
+resource_research_power,Velocità di Ricerca
+resource_research_power_desc,Numero di file ricercati al secondo
+resource_hack_power,Potere di Hacking
+resource_hack_power_desc,Velocità di violazione che scala con il livello di Hack.
+resource_code_speed,Velocità di Programmazione
+resource_code_speed_desc,Velocità di programmazione delle Variabili che scala con il Livello di Contribuzione.
+resource_boost_component,Poteziamento dei Componenti
+resource_boost_component_desc,Potenziamento per i componenti hardware.
+resource_boost_research,Potenziamento della Ricerca
+resource_boost_research_desc,Potenziamento per la Velocità di Ricerca.
+resource_boost_hack,Potenziamento dell'Hacking
+resource_boost_hack_desc,Potenziamento del Potere di Hacking.
+resource_boost_code,Potenziamento della Programmazione
+resource_boost_code_desc,Potenziamento per la Velocità di Programmazione.
+resource_overclock,Overclock
+resource_overclock_desc,Impostazione utilizzata per potenziare i componenti
+resource_heat,Calore
+resource_heat_desc,Generato dall'overclocking.
+resource_money,Soldi
+resource_money_desc,Valuta per sbloccare miglioramenti.
+resource_research,Ricerca
+resource_research_desc,Valuta per sbloccare tecnologie.
+resource_token,Gettone
+resource_token_desc,"Valuta rara per vantaggi, potenziamenti e servizi esclusivi."
+resource_infected_computer,Computer infetto
+resource_infected_computer_desc,Ottenute infiltrando i computer con Trojan.
+resource_hack_experience,Esperienza di Hack
+resource_hack_experience_desc,Aumenta il livello di Hack; si ottiene violando Anonimamente.
+resource_corporation_data,Dati Corporativi
+resource_corporation_data_desc,Ottenuto violando le Corporazioni; utilizzato per potenziamenti di Violazione.
+resource_government_data,Dati Governativi
+resource_government_data_desc,Ottenuto violando le istituzioni Governative; utilizzato per potenziamenti di Violazione.
+resource_contribution,Contribuzione
