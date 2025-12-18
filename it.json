@@ -1,4 +1,6 @@
 {
+    "account_suspended":"Account sospeso o disattivato",
+    "achievement_agi":"Intelligenza Artificiale Generale",
     "action_add":"Aggiungi",
     "action_add_core":"Aggiungi Core",
     "action_add_gpu":"Aggiungi GPU",
