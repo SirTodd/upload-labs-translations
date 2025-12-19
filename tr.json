@@ -1,4 +1,6 @@
 {
+    "account_suspended":"Hesap askıya alındı veya devre dışı bırakıldı",
+    "achievement_agi":"Yapay Genel Zeka",
     "action_add":"Ekle",
     "action_add_core":"Çekirdek Ekle",
     "action_add_gpu":"GPU Ekle",
