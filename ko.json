@@ -749,6 +749,7 @@
     "upgrade_miner_desc":"채굴기 한도 1개 증가",
     "upgrade_mining_multiplier":"암호화폐 가치",
     "upgrade_mining_multiplier_desc":"암호화폐로 얻는 돈의 배율을 100% 증가시킵니다.",
+    "upgrade_oil_pump":"시추기",
     "upgrade_optimization":"최적화",
     "upgrade_optimization_analysis":"분석 최적화",
     "upgrade_optimization_analysis_desc":"분석기의 클럭 사이클을 절반으로 줄입니다.",
