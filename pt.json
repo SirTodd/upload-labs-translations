@@ -717,7 +717,7 @@
     "resource_code_application":"Código de Aplicação",
     "resource_code_application_desc":"Código para aplicações; pode ser enviado em troca de Contribuição ou compilado para Pontos de Aplicação",
     "resource_code_bugfix":"Código de Bug Fix",
-    "resource_code_bugfix_desc":"Código para fixar bugs; pode ser enviado em troca de Contribuição.",
+    "resource_code_bugfix_desc":"Código para fixar bugs; pode ser usado no nódulo \"Fixar Bug\" para remover um modificador bugado.",
     "resource_code_driver":"Código de Driver",
     "resource_code_driver_desc":"Código para drivers; pode ser enviado em troca de Contribuição ou compilado para melhorias de hardware.",
     "resource_code_optimization":"Código de Otimização",
