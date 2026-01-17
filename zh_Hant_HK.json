@@ -440,6 +440,7 @@
     "research_infection_damage_desc":"解所建構感染傷害的能力",
     "research_injection":"注入",
     "research_injection_desc":"解所暴露弱點技能，使被入侵的目標承受的傷害根據駭客能力而提升",
+    "research_network":"網絡",
     "research_network_exchanger":"網路交換器",
     "research_network_exchanger_desc":"將上傳和下載的速度互相交換",
     "research_network_merging":"網路合併",
