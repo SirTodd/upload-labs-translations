@@ -1523,6 +1523,5 @@
     "window_remasterer_desc": "Enhances game quality using multiple videos and programs",
     "window_splicer": "Splicer",
     "window_splicer_desc": "Converts videos into images and sounds",
-    "application_disassembler": "Disassembler",
     "window_disassembler_desc": "Creates copies of files with 3 enhanced modifiers, removing the modifiers in the process"
 }
