@@ -1523,5 +1523,12 @@
     "window_remasterer_desc": "Enhances game quality using multiple videos and programs",
     "window_splicer": "Splicer",
     "window_splicer_desc": "Converts videos into images and sounds",
-    "window_disassembler_desc": "Creates copies of files with 3 enhanced modifiers, removing the modifiers in the process"
+    "window_disassembler_desc": "Creates copies of files with 3 enhanced modifiers, removing the modifiers in the process",
+    "window_disassembler": "Disassembler",
+    "window_decryptor_bruteforce": "Brute-force Decryptor",
+    "window_decryptor_bruteforce_desc": "Quickly decrypts files, but causes corruption",
+    "window_duplicator": "Duplicator",
+    "window_duplicator_desc": "Duplicates files, adding the mirrored modifier. Mirrored files cannot be duplicated",
+    "optimization_virus_pro": "Optimized Virus Pro",
+    "upgrade_optimization_virus_pro_desc": "Reduces clock cycles required by Antivirus Pro by half"
 }
