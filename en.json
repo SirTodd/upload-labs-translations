@@ -1529,5 +1529,6 @@
     "window_decryptor_bruteforce_desc": "Quickly decrypts files, but causes corruption",
     "window_duplicator": "Duplicator",
     "window_duplicator_desc": "Duplicates files, adding the mirrored modifier. Mirrored files cannot be duplicated",
-    "upgrade_optimization_virus_pro_desc": "Reduces clock cycles required by Antivirus Pro by half"
+    "upgrade_optimization_virus_pro_desc": "Reduces clock cycles required by Antivirus Pro by half",
+    "upgrade_optimization_virus_pro": "Optimized Virus Pro"
 }
