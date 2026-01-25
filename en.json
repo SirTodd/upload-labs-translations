@@ -1529,7 +1529,7 @@
     "window_duplicator": "Duplicator",
     "window_duplicator_desc": "Duplicates files, adding the mirrored modifier. Mirrored files cannot be duplicated",
     "upgrade_optimization_virus_pro_desc": "Reduces clock cycles required by Antivirus Pro by half",
-    "upgrade_optimization_virus_pro": "Optimized Virus Pro",
+    "upgrade_optimization_virus_pro": "Optimized Antivirus Pro",
 	"upgrade_optimization_reconstructor": "Optimized Reconstructor",
 	"upgrade_optimization_reconstructor_desc": "Reduces clock cycles required by the Reconstructor by half",
 	"upgrade_optimization_zipping": "Optimized Zipping",
@@ -1586,5 +1586,7 @@
 	"resource_zip_program": "Zipped Program",
 	"resource_zip_game": "Zipped Game",
 	"research_torrents_infected": "Infected Torrents",
-	"research_torrents_infected_desc": "Unlocks torrent browsing for infected files"
+	"research_torrents_infected_desc": "Unlocks torrent browsing for infected files",
+	"window_ai_station": "AI Station",
+	"window_ai_station_desc": "Generates all file formats using their respective neurons"
 }
