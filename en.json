@@ -1589,5 +1589,6 @@
 	"research_torrents_infected_desc": "Unlocks torrent browsing for infected files",
 	"window_ai_station": "AI Station",
 	"window_ai_station_desc": "Generates all file formats using their respective neurons",
-	"you_will_receive": "You will receive"
+	"you_will_receive": "You will receive",
+	"setting_auto_level_breach": "Auto Breach Leveling"
 }
