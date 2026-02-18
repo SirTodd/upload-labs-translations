@@ -1522,5 +1522,8 @@
     "stats_obfuscated": "難読化したファイル数",
     "stats_disassembled": "逆アセンブル化したファイル数",
     "stats_flipped": "フリップしたファイル数",
-    "stats_mirrored": "コピーしたファイル数"
+    "stats_mirrored": "コピーしたファイル数",
+    "all_requests_completed": "完了",
+    "file_operations": "ファイルオペレーション",
+    "encryption": "復号化"
 }
