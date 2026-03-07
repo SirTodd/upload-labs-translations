@@ -566,6 +566,7 @@
     "resource_text_desc":"File Văn bản dùng để tải lên và nghiên cứu.",
     "resource_token":"Token",
     "resource_token_desc":"Đơn vị hiếm dùng để mua độc quyền, tăng tốc, và dịch vụ.",
+    "resource_torrent_game_desc":"Torrent được dùng để tải Văn bản với chất lượng cao hơn.",
     "resource_torrent_image_desc":"Torrent được dùng để tải Văn bản với chất lượng cao hơn.",
     "resource_torrent_program_desc":"Torrent được dùng để tải Văn bản với chất lượng cao hơn.",
     "resource_torrent_sound_desc":"Torrent được dùng để tải Văn bản với chất lượng cao hơn.",
