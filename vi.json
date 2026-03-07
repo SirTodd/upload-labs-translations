@@ -1021,5 +1021,6 @@
     "queued": "Hàng chờ",
     "overclock": "Ép xung",
     "resource_torrent_image_desc": "Torrent được dùng để tải Văn bản với chất lượng cao hơn.",
-    "resource_torrent_sound_desc": "Torrent được dùng để tải Văn bản với chất lượng cao hơn."
+    "resource_torrent_sound_desc": "Torrent được dùng để tải Văn bản với chất lượng cao hơn.",
+    "resource_torrent_video_desc": "Torrent được dùng để tải Văn bản với chất lượng cao hơn."
 }
