@@ -567,6 +567,7 @@
     "resource_token":"Token",
     "resource_token_desc":"Đơn vị hiếm dùng để mua độc quyền, tăng tốc, và dịch vụ.",
     "resource_torrent_image_desc":"Torrent được dùng để tải Văn bản với chất lượng cao hơn.",
+    "resource_torrent_sound_desc":"Torrent được dùng để tải Văn bản với chất lượng cao hơn.",
     "resource_torrent_text_desc":"Torrent được dùng để tải Văn bản với chất lượng cao hơn.",
     "resource_trojan":"Trojan",
     "resource_trojan_desc":"Xâm nhập vào máy tính khi được cấy vào trong file; sản phẩm tỉ lệ với Cấp độ Hack.",
