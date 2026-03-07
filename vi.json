@@ -343,6 +343,7 @@
     "progress":"Tiến trình",
     "prompt_application_reset":"Reset ứng dụng",
     "prompt_application_reset_desc":"Dịch vụ này sẽ xoá toàn bộ các ứng dụng đã mở khoá, các node liên quan và hoàn trả lại Điểm Ứng dụng đã dùng",
+    "prompt_enter_portal":"Vào cổng",
     "prompt_optimization_reset":"Reset Tối ưu hoá",
     "prompt_optimization_reset_desc":"Dịch vụ này sẽ xoá toàn bộ các tối ưu hoá và hoàn trả lại Điểm tối ưu hoá đã dùng",
     "quality":"Số lượng",
