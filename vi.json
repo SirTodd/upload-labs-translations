@@ -1015,5 +1015,6 @@
     "window_virus_scanner": "Trình Quét Virus",
     "window_virus_scanner_desc": "Quét file tìm virus. File đã quét sẽ tăng 4x giá trị. File bị nhiễm sẽ giảm 4x",
     "window_water_cooler": "Tản nhiệt nước",
-    "you_failed": "Bạn không thể cứu lấy vũ trụ"
+    "you_failed": "Bạn không thể cứu lấy vũ trụ",
+    "prompt_enter_portal": "Vào cổng"
 }
