@@ -1016,5 +1016,9 @@
     "window_virus_scanner_desc": "Quét file tìm virus. File đã quét sẽ tăng 4x giá trị. File bị nhiễm sẽ giảm 4x",
     "window_water_cooler": "Tản nhiệt nước",
     "you_failed": "Bạn không thể cứu lấy vũ trụ",
-    "prompt_enter_portal": "Vào cổng"
+    "prompt_enter_portal": "Vào cổng",
+    "researched": "Điểm nghiên cứu",
+    "queued": "Hàng chờ",
+    "overclock": "Ép xung",
+    "resource_torrent_image_desc": "Torrent được dùng để tải Văn bản với chất lượng cao hơn."
 }
