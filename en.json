@@ -1786,5 +1786,10 @@
 	"window_importer_niobium":"Niobium Importer",
     "window_importer_niobium_desc":"Imports Niobium at the cost of {1.0e34} Money",
 	"window_importer_gold":"Gold Importer",
-    "window_importer_gold_desc":"Imports Gold at the cost of {5.0e34} Money"
+    "window_importer_gold_desc":"Imports Gold at the cost of {5.0e34} Money",
+	"attribute_space": "Space",
+	"attribute_breach_skills": "Breach Skills",
+	"window_lossless_compressor_max": "Lossless Compressor MAX",
+	"window_lossless_compressor_max_desc": "Performs lossless compression on files multiple times, up to its limit",
+	"verification_required": "Verify your email to enable cloud save. Click here to resend verification."
 }
