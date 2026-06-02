@@ -983,5 +983,6 @@
     "research_code_speed_desc": "Augmente de manière multiplicative la Vitesse de Codage de 20%",
     "research_coin_value": "Valeur de la Crypto",
     "research_coin_value_desc": "Augmente de manière multiplicative le gain d'argent depuis les Cryptomonnaies de 100%",
-    "research_download_speed": "Vitesse de Download"
+    "research_download_speed": "Vitesse de Download",
+    "research_download_speed_desc": "Augmente de manière multiplicative la Vitesse de Codage de 20%"
 }
