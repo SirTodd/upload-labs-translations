@@ -415,6 +415,8 @@
     "research_injection_desc":"Débloque la compétence « Exposer la faiblesse », qui fait que les cibles d’intrusion subissent plus de dégâts en fonction de la puissance de piratage",
     "research_lab_speed":"Vitesse de recherche",
     "research_lab_speed_desc":"Augment le gain de Recherche de 20%",
+    "research_network":"Réseau",
+    "research_network_exchanger":"Echangeur Réseau",
     "research_optimizations":"Optimisations",
     "research_optimizations_desc":"Débloque l'accès aux combinaisons de variables, à l'optimisation du code et à la compilation",
     "research_overclocking":"Overclocking",
