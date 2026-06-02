@@ -403,6 +403,8 @@
     "research_ghost_attack_desc":"Débloque la compétence « Attaque fantôme », permettant à tout type de dégâts d’ignorer le pare-feu",
     "research_gpu_speed":"Vitesse GPU",
     "research_gpu_speed_desc":"Augmente de manière multiplicative la Vitesse de Codage de 20%",
+    "research_hack_power":"Puissance de hack",
+    "research_hack_power_desc":"Augmente de manière multiplicative la Puissance de Hack de 20%",
     "research_hacking":"Hacking",
     "research_hacking_desc":"Débloque l'accès au hacking",
     "research_infect_payload":"Charge virale",
