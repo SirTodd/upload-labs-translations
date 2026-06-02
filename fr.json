@@ -1004,5 +1004,6 @@
     "research_server": "Serveur",
     "research_upload_speed": "Vitesse d'Upload",
     "research_upload_speed_desc": "Augmente de manière multiplicative la Vitesse de Codage de 20%",
-    "service_portal_reset_desc": "Réinitialise et rembourse tous les points de hack et ses améliorations"
+    "service_portal_reset_desc": "Réinitialise et rembourse tous les points de hack et ses améliorations",
+    "upgrade_data_lab": "Data Lab."
 }
