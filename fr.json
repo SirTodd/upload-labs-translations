@@ -986,5 +986,6 @@
     "research_download_speed": "Vitesse de Download",
     "research_download_speed_desc": "Augmente de manière multiplicative la Vitesse de Codage de 20%",
     "research_file_decomposition": "Décomposition",
-    "research_gpu_speed": "Vitesse GPU"
+    "research_gpu_speed": "Vitesse GPU",
+    "research_gpu_speed_desc": "Augmente de manière multiplicative la Vitesse de Codage de 20%"
 }
