@@ -976,5 +976,6 @@
     "all_requests_completed": "Complété",
     "import": "Importer",
     "premium_daily_tokens_plus": "Tokens quotidien",
-    "premium_daily_tokens_plus_desc": "Recevez immédiatement 1400 Tokens\nRecevez 200 Tokens par jour\n+1 Niveau de Support"
+    "premium_daily_tokens_plus_desc": "Recevez immédiatement 1400 Tokens\nRecevez 200 Tokens par jour\n+1 Niveau de Support",
+    "prompt_enter_portal": "Entrer dans le portail"
 }
