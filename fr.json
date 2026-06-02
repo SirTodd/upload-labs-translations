@@ -150,8 +150,8 @@
     "enter_username_or_email": "Entrer un nom d'utilisateur ou un e-mail",
     "error": "Erreur",
     "exported": "Exporté",
-    "file": "Fichier",
-    "file_generation": "Génération de fichier",
+    "file": "Fichiers",
+    "file_generation": "Générateur de fichier",
     "firewall": "Pare-feu",
     "for_now": "Pour le moment",
     "free": "Gratuit",
@@ -972,5 +972,6 @@
     "guide_window_debug": "Débogue le code inséré, en ajoutant le modificateur testé qui augmente la qualité du code de 4x. Les Codes ont 50 % de chances d'avoir également le modificateur bogué, qui réduit la qualité de 4x.\nLe nombre d'opérations (ops) requises dépend du code inséré.",
     "guide_window_decompiler": "Décompile les Fichiers Programme à l'aide de la Vitesse d'Horloge, en générant des fichiers Texte de 2 Mo.\nLe nombre de cycles (C) requis est égal à 2 fois la taille du programme.",
     "guide_window_decomposer": "Décompose les fichiers Vidéo à l'aide de la Vitesse d'Horloge, en produisant des image de 20k.\nLe nombre de cycles (C) requis est égal à 2x la taille de la vidéo.",
-    "guide_window_decryptor": "Décrypte les fichiers à l'aide de la Vitesse d'Horloge, en remplaçant le modificateur crypté par décrypté, en supprimant le multiplicateur de qualité 0x et en augmentant la qualité de 4x.\nLe nombre de cycles (C) requis est égal à 4x la taille du fichier."
+    "guide_window_decryptor": "Décrypte les fichiers à l'aide de la Vitesse d'Horloge, en remplaçant le modificateur crypté par décrypté, en supprimant le multiplicateur de qualité 0x et en augmentant la qualité de 4x.\nLe nombre de cycles (C) requis est égal à 4x la taille du fichier.",
+    "all_requests_completed": "Complété"
 }
