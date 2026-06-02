@@ -595,6 +595,7 @@
     "service_hack_reset_desc":"Réinitialise et rembourse tous les points de hack et ses améliorations",
     "service_optimization_reset":"Révision",
     "service_optimization_reset_desc":"Réinitialise et rembourse tous les points d'optimisation et ses améliorations",
+    "service_portal_reset_desc":"Réinitialise et rembourse tous les points de hack et ses améliorations",
     "setting_colorblind_mode":"Mode daltonien",
     "setting_fps_limit":"Limite de FPS",
     "setting_glow":"Éclat",
