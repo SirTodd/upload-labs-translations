@@ -682,6 +682,7 @@
     "upgrade_breach_research_speed_multiplier":"Recherche non éthique ",
     "upgrade_breach_research_speed_multiplier_desc":"Augmente le vitesse de Recherche de 10%",
     "upgrade_data_lab":"Data Lab.",
+    "upgrade_data_lab_desc":"Augmente le nombre limite de Data Labs. de 1",
     "upgrade_driver":"Driver",
     "upgrade_driver_desc":"Augment les performances d'un composant",
     "upgrade_game_downloader":"Downloader de jeux",
