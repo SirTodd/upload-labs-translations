@@ -428,6 +428,7 @@
     "research_process_value":"Valeur de Processus",
     "research_process_value_desc":"Augmente de manière multiplicative le gain d'argent depuis la Ventes de Processus de 100%",
     "research_processor":"Processeur",
+    "research_processor_speed_desc":"Augmente de manière multiplicative la Vitesse de Codage de 20%",
     "research_redownload":"Re-download",
     "research_refinement":"Raffinement des données",
     "research_refinement_desc":"Débloque le Raffineur de données, permettant de traiter les fichiers pour augmenter leur valeur en recherche",
