@@ -422,6 +422,7 @@
     "research_optimizations_desc":"Débloque l'accès aux combinaisons de variables, à l'optimisation du code et à la compilation",
     "research_overclocking":"Overclocking",
     "research_overclocking_desc":"Débloque la capacité à Overclocker des composants, boost les performances",
+    "research_plus_lab_desc":"Augmente le nombre limite de Data Labs. de 1",
     "research_portal":"Portail ",
     "research_redownload":"Re-download",
     "research_refinement":"Raffinement des données",
