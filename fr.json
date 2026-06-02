@@ -417,6 +417,7 @@
     "research_lab_speed_desc":"Augment le gain de Recherche de 20%",
     "research_network":"Réseau",
     "research_network_exchanger":"Echangeur Réseau",
+    "research_network_exchanger_desc":"Converti la vitesse d'Upload en Vitesse de Download et La vitesse de Download en vitesse de Upload",
     "research_optimizations":"Optimisations",
     "research_optimizations_desc":"Débloque l'accès aux combinaisons de variables, à l'optimisation du code et à la compilation",
     "research_overclocking":"Overclocking",
