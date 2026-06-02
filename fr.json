@@ -393,6 +393,7 @@
     "research_distillation":"Distillation de Données",
     "research_distillation_desc":"Débloque le Distillateur, permettant de distiller les données des fichiers pour améliorer la production de Neurons",
     "research_download_speed":"Vitesse de Download",
+    "research_download_speed_desc":"Augmente de manière multiplicative la Vitesse de Codage de 20%",
     "research_drivers":"Drivers",
     "research_drivers_desc":"Débloque l'accès aux HashMaps et au codage de driver",
     "research_ethereum":"Minage d'Ethereum",
