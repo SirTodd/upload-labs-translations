@@ -996,5 +996,8 @@
     "research_network_exchanger": "Echangeur Réseau",
     "research_network_exchanger_desc": "Converti la vitesse d'Upload en Vitesse de Download et La vitesse de Download en vitesse de Upload",
     "research_plus_lab_desc": "Augmente le nombre limite de Data Labs. de 1",
-    "research_plus_network_desc": "Augmente le nombre limite de noeud de Réseau de 1"
+    "research_plus_network_desc": "Augmente le nombre limite de noeud de Réseau de 1",
+    "research_process_value": "Valeur de Processus",
+    "research_process_value_desc": "Augmente de manière multiplicative le gain d'argent depuis la Ventes de Processus de 100%",
+    "research_processor": "Processeur"
 }
