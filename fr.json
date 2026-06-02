@@ -438,6 +438,7 @@
     "research_token_mining_desc":"Débloque la capacité de miner des Tokens",
     "research_trojan":"Trojans",
     "research_upload_speed":"Vitesse d'Upload",
+    "research_upload_speed_desc":"Augmente de manière multiplicative la Vitesse de Codage de 20%",
     "research_verifier":"Checksum vérificateur ",
     "resource_ai":"Puissance de l'IA",
     "resource_ai_desc":"Boost la production ; obtenue à partir des Neurons.",
