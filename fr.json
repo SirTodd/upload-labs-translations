@@ -977,5 +977,8 @@
     "import": "Importer",
     "premium_daily_tokens_plus": "Tokens quotidien",
     "premium_daily_tokens_plus_desc": "Recevez immédiatement 1400 Tokens\nRecevez 200 Tokens par jour\n+1 Niveau de Support",
-    "prompt_enter_portal": "Entrer dans le portail"
+    "prompt_enter_portal": "Entrer dans le portail",
+    "queued": "File d'attente",
+    "research_code_speed": "Vitesse de codage",
+    "research_code_speed_desc": "Augmente de manière multiplicative la Vitesse de Codage de 20%"
 }
