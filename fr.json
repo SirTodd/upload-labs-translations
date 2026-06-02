@@ -999,5 +999,6 @@
     "research_plus_network_desc": "Augmente le nombre limite de noeud de Réseau de 1",
     "research_process_value": "Valeur de Processus",
     "research_process_value_desc": "Augmente de manière multiplicative le gain d'argent depuis la Ventes de Processus de 100%",
-    "research_processor": "Processeur"
+    "research_processor": "Processeur",
+    "research_processor_speed_desc": "Augmente de manière multiplicative la Vitesse de Codage de 20%"
 }
