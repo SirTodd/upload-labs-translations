@@ -991,5 +991,7 @@
     "research_hack_power": "Puissance de hack",
     "research_hack_power_desc": "Augmente de manière multiplicative la Puissance de Hack de 20%",
     "research_lab_speed": "Vitesse de recherche",
-    "research_lab_speed_desc": "Augment le gain de Recherche de 20%"
+    "research_lab_speed_desc": "Augment le gain de Recherche de 20%",
+    "research_network": "Réseau",
+    "research_network_exchanger": "Echangeur Réseau"
 }
