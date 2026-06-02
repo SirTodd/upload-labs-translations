@@ -423,6 +423,7 @@
     "research_overclocking":"Overclocking",
     "research_overclocking_desc":"Débloque la capacité à Overclocker des composants, boost les performances",
     "research_plus_lab_desc":"Augmente le nombre limite de Data Labs. de 1",
+    "research_plus_network_desc":"Augmente le nombre limite de noeud de Réseau de 1",
     "research_portal":"Portail ",
     "research_redownload":"Re-download",
     "research_refinement":"Raffinement des données",
