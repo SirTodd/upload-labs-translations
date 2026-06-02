@@ -1002,5 +1002,6 @@
     "research_processor": "Processeur",
     "research_processor_speed_desc": "Augmente de manière multiplicative la Vitesse de Codage de 20%",
     "research_server": "Serveur",
-    "research_upload_speed": "Vitesse d'Upload"
+    "research_upload_speed": "Vitesse d'Upload",
+    "research_upload_speed_desc": "Augmente de manière multiplicative la Vitesse de Codage de 20%"
 }
