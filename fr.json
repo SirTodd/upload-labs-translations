@@ -973,5 +973,8 @@
     "guide_window_decompiler": "Décompile les Fichiers Programme à l'aide de la Vitesse d'Horloge, en générant des fichiers Texte de 2 Mo.\nLe nombre de cycles (C) requis est égal à 2 fois la taille du programme.",
     "guide_window_decomposer": "Décompose les fichiers Vidéo à l'aide de la Vitesse d'Horloge, en produisant des image de 20k.\nLe nombre de cycles (C) requis est égal à 2x la taille de la vidéo.",
     "guide_window_decryptor": "Décrypte les fichiers à l'aide de la Vitesse d'Horloge, en remplaçant le modificateur crypté par décrypté, en supprimant le multiplicateur de qualité 0x et en augmentant la qualité de 4x.\nLe nombre de cycles (C) requis est égal à 4x la taille du fichier.",
-    "all_requests_completed": "Complété"
+    "all_requests_completed": "Complété",
+    "import": "Importer",
+    "premium_daily_tokens_plus": "Tokens quotidien",
+    "premium_daily_tokens_plus_desc": "Recevez immédiatement 1400 Tokens\nRecevez 200 Tokens par jour\n+1 Niveau de Support"
 }
