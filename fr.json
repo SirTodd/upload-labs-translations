@@ -1049,5 +1049,6 @@
     "research_reconstruction_desc": "Débloque le Reconstructeur, qui corrige la corruption de fichier en utilisant deux fichiers corrompus",
     "research_redownload_desc": "Débloque le Re-Téléchargeur, qui corrige les fichiers corrompus pour augmenter leur valeur",
     "stats_fixed": "Fichiers Corrigés",
-    "window_fix_code_desc": "Corrige les codes buggés en utilisant les corrections qui améliore la qualité par 4x"
+    "window_fix_code_desc": "Corrige les codes buggés en utilisant les corrections qui améliore la qualité par 4x",
+    "guide_window_demuxer": "Dé-multiplexifie les vidéos en utilisant le CPU, permettant d'obtenir 200 fichiers audio.\nLe montant de cycle d'horloge (C) requis équivaut à 2x la taille de la vidéo."
 }
