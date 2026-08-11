@@ -213,6 +213,7 @@
     "guide_window_decompiler":"Décompile les Fichiers Programme à l'aide de la Vitesse d'Horloge, en générant des fichiers Texte de 2 Mo.\nLe nombre de cycles (C) requis est égal à 2 fois la taille du programme.",
     "guide_window_decomposer":"Décompose les fichiers Vidéo à l'aide de la Vitesse d'Horloge, en produisant des image de 20k.\nLe nombre de cycles (C) requis est égal à 2x la taille de la vidéo.",
     "guide_window_decryptor":"Décrypte les fichiers à l'aide de la Vitesse d'Horloge, en remplaçant le modificateur crypté par décrypté, en supprimant le multiplicateur de qualité 0x et en augmentant la qualité de 4x.\nLe nombre de cycles (C) requis est égal à 4x la taille du fichier.",
+    "guide_window_demuxer":"Dé-multiplexifie les vidéos en utilisant le CPU, permettant d'obtenir 200 fichiers audio.\nLe montant de cycle d'horloge (C) requis équivaut à 2x la taille de la vidéo.",
     "guide_window_fix_code":"Corrige le code inséré en utilisant le Code qui Fix les Erreurs. Cela retire le modificateur de bug, qui réduisait la qualité par 4x.",
     "guide_window_heat_sink":"Dissipe la Chaleur générée par les composants en fonction du niveau, qui peut être amélioré avec de l'argent.",
     "guide_window_mine_token":"Mine des Jetons en utilisant la Vitesse du GPU. Le cycle est exponentiellement demandant pour chaque Jeton miné, et ne se réinitialise pas en entrant dans le Portail.",
