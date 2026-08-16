@@ -1107,5 +1107,8 @@
     "resource_copper_desc": "Kim loại được dùng trong sản xuất phần cứng.",
     "resource_silicon": "Silicon",
     "resource_sand": "Cát",
-    "resource_sand_desc": "Nguyên liệu dùng trong sản xuất Wafer."
+    "resource_sand_desc": "Nguyên liệu dùng trong sản xuất Wafer.",
+    "all_requests_completed": "Hoàn thành",
+    "guide_window_gpu_cluster": "Node phần cứng. Tạo ra nhiều giá trị Tốc độ Xung nhịp dựa trên cấp độ và số lượng lõi; cấp độ có thể được nâng lên sử dụng Tiền để tăng cường hiệu năng của toàn bộ các lõi, và số lượng lõi có thể được tăng lên sử dụng Tiền để tăng số lượng đầu ra.\nTốc độ Xung nhịp được tính bằng Hertz (Hz), đại diện cho số lượng cycle (C) trên giây, và có thể được tăng tốc bằng Tăng tốc Thành phần.",
+    "guide_window_obfuscator": "Loại bỏ thay đổi \"nhiễm\" khỏi file sử dụng Tốc độ Xung nhịp.\nSố lượng Chu kỳ CPU (C) cần thiết dựa trên kích cỡ file."
 }
