@@ -1128,5 +1128,6 @@
     "guide_window_duplicator": "Sao chép file sử dụng Tốc độ Xung nhịp, thêm điều chỉnh \"Sao chép.\" File đã sao chép không thể được sao chép lần nữa.\nSố lượng chu kỳ CPU (C) yêu cầu bằng với 2x kích thước file.",
     "guide_window_lossless_compressor": "Thực hiện [url=window_compressor]nén[/url] trên file mà không loại bỏ điều chỉnh \"Đã tăng cường.\"\nSố lượng chu kỳ CPU (C) yêu cầu bằng với 3x kích thước file.",
     "guide_window_enhancer": "Tăng cường file sử dụng Tốc độ Xung nhịp, thêm điều chỉnh \"Đã tăng cường,\" tăng chất lượng lên 1 và 100% kích thước với mỗi điều chỉnh này. File có thể được tăng cường tối đa 3 lần.\nTăng cường file đã nén sẽ loại bỏ 1 điều chỉnh \"Nén\" trên file đó.\nSố lượng chu kỳ CPU (C) yêu cầu bằng với 3x kích thước file và không bị ảnh hưởng bởi thay đổi \"Nén\" hay \"Đã tăng cường\".",
-    "guide_window_execute_injection": "Cung cấp thông tin về lỗ hổng dựa trên Hack Power đã được nhập.\nLỗ hổng bảo mật làm gia tăng mức độ thiệt hại mà các mục tiêu bị xâm nhập phải gánh chịu."
+    "guide_window_execute_injection": "Cung cấp thông tin về lỗ hổng dựa trên Hack Power đã được nhập.\nLỗ hổng bảo mật làm gia tăng mức độ thiệt hại mà các mục tiêu bị xâm nhập phải gánh chịu.",
+    "guide_window_file_generator": "Tạo Files với hiệu ứng “AI” bằng Neurons, giảm chất lượng 10x và tăng giá trị 1.000.000x."
 }
