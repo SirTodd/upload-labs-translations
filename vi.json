@@ -1117,7 +1117,7 @@
     "encryption": "Mã hóa",
     "file_operations": "Thao tác",
     "guide_file_modifiers_reinforced": " Học tăng cường: Tăng 2x sản lượng neuron",
-    "guide_window_advanced_research": "Tiêu thụ điểm Nghiên cứu để tạo ra điểm Nghiên cứu Nâng cao, dùng để mua nâng cấp trong giao diện Cổng dịch chuyển. Mỗi điểm tiếp theo sẽ yêu cầu gấp 1.5x số điểm nghiên cứu trước đó, và sẽ không reset khi vào cổng.",
+    "guide_window_advanced_research": "Tiêu thụ điểm Nghiên cứu để tạo ra điểm Nghiên cứu Nâng cao, dùng để xếp hàng các nâng cấp trong giao diện Portal. Mỗi điểm tiếp theo sẽ yêu cầu số điểm Nghiên cứu gấp 1.5x điểm trước đó và sẽ không được đặt lại khi vào Portal.",
     "guide_window_decompiler": "Dịch ngược file Ứng dụng sử dụng Tốc độ Xung nhịp, tạo ra 200m file Văn bản.\nSố lượng chu kỳ CPU (C) yêu cầu bằng với 2x kích thước file Ứng dụng.",
     "guide_window_decomposer": "Phân tách file Video sử dụng Tốc độ Xung nhịp, tạo ra 20k file Ảnh.\nSố lượng chu kỳ CPU (C) yêu cầu bằng với 2x kích thước file Video.",
     "guide_window_decryptor": "Giải mã file sử dụng Tốc độ Xung nhịp, thay đổi điều chỉnh \"mã hóa\" thành \"được giải mã,\" bỏ đi hiệu số x0 chất lượng và tăng chất lượng file lên 4x.\nSố lượng Chu kỳ CPU (C) yêu cầu sẽ bằng 4x kích thước file.",
